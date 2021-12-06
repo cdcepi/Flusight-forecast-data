@@ -110,7 +110,7 @@ library(readr)
 library(covidcast)
 library(lubridate)
 # generate daily truth data file using default settings
-truth <- load_flu_hosp_data()
+truth <- load_flu_hosp_data(temporal_resolution = 'weekly', na.rm = TRUE)
 # write truth data file
 readr::write_csv(truth, file = "./data-truth/truth-Incident Hospitalizations.csv")
 
