@@ -50,14 +50,8 @@ Epidata API](https://cmu-delphi.github.io/delphi-epidata/api/covidcast-signals/h
 
 ### Data processing
 
-The hospitalization truth data is computed as the sum of the columns
-`previous_day_admission_adult_covid_confirmed` and
-`previous_day_admission_pediatric_covid_confirmed` which provide the new
-daily admission for adults and kids, respectively. (Other columns
-represent “suspected” COVID-19 hospitalizations, however because
-definitions and implementations of suspected cases vary widely, our
-public health collaborators have recommended using the above columns
-only.)
+The hospitalization truth data is computed based on the `previous_day_admission_influenza_confirmed`
+field which provides the new daily admissions with a confirmed diagnosis of influenza.
 
 Since these admission data are listed as “previous day” admissions in
 the raw data, the truth data shifts values in the `date` column one day
@@ -65,16 +59,16 @@ earlier so that `inc hosp` align with the date the admissions occurred.
 
 As an example, the following data from HealthData.gov
 
-       date    | previous_day_admission_adult_covid_confirmed | previous_day_admission_pediatric_covid_confirmed
-    -----------|----------------------------------------------|-------------------------------------------------
-    2020-10-30 |                  5                           |                       12                        
+       date    | previous_day_admission_influenza_confirmed 
+    -----------|--------------------------------------------
+    2020-10-30 |                  5                         
 
-would turn into the following observed data for incident
+would turn into the following observed data for *daily* incident
 hospitalizations
 
        date    | incident_hospitalizations
     -----------|----------------------------
-    2020-10-29 |          17               
+    2020-10-29 |          5               
 
 National hospitalization, i.e. US, data are constructed from these data
 by summing the data across all 50 states, Washington DC (DC), Puerto
