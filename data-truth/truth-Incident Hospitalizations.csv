@@ -4900,7 +4900,7 @@ date,location,location_name,value
 2021-11-27,22,Louisiana,7
 2021-11-27,25,Massachusetts,12
 2021-11-27,24,Maryland,5
-2021-11-27,23,Maine,0
+2021-11-27,23,Maine,1
 2021-11-27,26,Michigan,28
 2021-11-27,27,Minnesota,2
 2021-11-27,29,Missouri,15
@@ -4924,7 +4924,7 @@ date,location,location_name,value
 2021-11-27,46,South Dakota,2
 2021-11-27,47,Tennessee,20
 2021-11-27,48,Texas,48
-2021-11-27,US,US,645
+2021-11-27,US,US,646
 2021-11-27,49,Utah,0
 2021-11-27,51,Virginia,33
 2021-11-27,78,Virgin Islands,0
@@ -4934,56 +4934,56 @@ date,location,location_name,value
 2021-11-27,54,West Virginia,6
 2021-11-27,56,Wyoming,2
 2021-12-04,02,Alaska,0
-2021-12-04,01,Alabama,33
-2021-12-04,05,Arkansas,13
-2021-12-04,04,Arizona,31
-2021-12-04,06,California,61
-2021-12-04,08,Colorado,19
-2021-12-04,09,Connecticut,16
-2021-12-04,11,District of Columbia,2
+2021-12-04,01,Alabama,32
+2021-12-04,05,Arkansas,15
+2021-12-04,04,Arizona,33
+2021-12-04,06,California,54
+2021-12-04,08,Colorado,18
+2021-12-04,09,Connecticut,14
+2021-12-04,11,District of Columbia,1
 2021-12-04,10,Delaware,9
-2021-12-04,12,Florida,84
+2021-12-04,12,Florida,90
 2021-12-04,13,Georgia,40
 2021-12-04,15,Hawaii,0
 2021-12-04,19,Iowa,0
 2021-12-04,16,Idaho,0
-2021-12-04,17,Illinois,19
-2021-12-04,18,Indiana,43
+2021-12-04,17,Illinois,21
+2021-12-04,18,Indiana,33
 2021-12-04,20,Kansas,4
 2021-12-04,21,Kentucky,5
-2021-12-04,22,Louisiana,16
-2021-12-04,25,Massachusetts,26
-2021-12-04,24,Maryland,4
-2021-12-04,23,Maine,6
-2021-12-04,26,Michigan,24
-2021-12-04,27,Minnesota,13
-2021-12-04,29,Missouri,34
-2021-12-04,28,Mississippi,19
+2021-12-04,22,Louisiana,18
+2021-12-04,25,Massachusetts,21
+2021-12-04,24,Maryland,6
+2021-12-04,23,Maine,5
+2021-12-04,26,Michigan,26
+2021-12-04,27,Minnesota,15
+2021-12-04,29,Missouri,31
+2021-12-04,28,Mississippi,22
 2021-12-04,30,Montana,0
-2021-12-04,37,North Carolina,31
+2021-12-04,37,North Carolina,21
 2021-12-04,38,North Dakota,7
 2021-12-04,31,Nebraska,19
 2021-12-04,33,New Hampshire,0
-2021-12-04,34,New Jersey,44
+2021-12-04,34,New Jersey,41
 2021-12-04,35,New Mexico,6
-2021-12-04,32,Nevada,8
-2021-12-04,36,New York,45
-2021-12-04,39,Ohio,43
-2021-12-04,40,Oklahoma,27
+2021-12-04,32,Nevada,7
+2021-12-04,36,New York,47
+2021-12-04,39,Ohio,44
+2021-12-04,40,Oklahoma,21
 2021-12-04,41,Oregon,3
-2021-12-04,42,Pennsylvania,69
-2021-12-04,72,Puerto Rico,29
-2021-12-04,44,Rhode Island,2
-2021-12-04,45,South Carolina,18
+2021-12-04,42,Pennsylvania,68
+2021-12-04,72,Puerto Rico,27
+2021-12-04,44,Rhode Island,3
+2021-12-04,45,South Carolina,16
 2021-12-04,46,South Dakota,5
 2021-12-04,47,Tennessee,25
-2021-12-04,48,Texas,68
-2021-12-04,US,US,1052
-2021-12-04,49,Utah,8
-2021-12-04,51,Virginia,37
+2021-12-04,48,Texas,55
+2021-12-04,US,US,1007
+2021-12-04,49,Utah,5
+2021-12-04,51,Virginia,40
 2021-12-04,78,Virgin Islands,0
-2021-12-04,50,Vermont,2
+2021-12-04,50,Vermont,1
 2021-12-04,53,Washington,1
-2021-12-04,55,Wisconsin,19
-2021-12-04,54,West Virginia,13
-2021-12-04,56,Wyoming,2
+2021-12-04,55,Wisconsin,17
+2021-12-04,54,West Virginia,12
+2021-12-04,56,Wyoming,3
