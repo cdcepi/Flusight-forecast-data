@@ -144,7 +144,7 @@ request from some analysts.
 Values in the `target` column must be a character (string) and be one of
 the following specific targets:
 
--   “N wk ahead inc hosp” where N is a number between 1 and 4
+-   “N wk ahead inc flu hosp” where N is a number between 1 and 4
 
 
 For week-ahead forecasts, we will use the specification of
@@ -160,7 +160,7 @@ For week-ahead forecasts with `forecast_date` of Monday of
 EW12, a 1 week ahead forecast corresponds to EW12 and should have
 `target_end_date` of the Saturday of EW12. 
 
-#### N week ahead inc hosp
+#### N week ahead inc flu hosp
 
 This target is the number of new weekly hospitalizations predicted by the
 model during the week that is N weeks after `forecast_date`.
