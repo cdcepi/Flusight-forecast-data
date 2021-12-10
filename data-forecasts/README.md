@@ -12,7 +12,7 @@ validation checks are run.
 These instructions provide detail about the [data
 format](#Data-formatting) as well as [validation](#Data-validation) that
 you can do prior to this pull request. In addition, we describe
-[meta-data](#Metadata) that each model should provide.
+[metadata](https://github.com/reichlab/covid19-forecast-hub/blob/master/data-forecasts/METADATA.md) that each model should provide.
 
 *Table of Contents*
 
@@ -21,8 +21,7 @@ you can do prior to this pull request. In addition, we describe
 -   [data formatting](#Data-formatting)
 -   [forecast file format](#Forecast-file-format)
 -   [forecast data validation](#Forecast-validation)
--   [retractions](#retractions)
--   [weekly ensemble and visualization deployment](#Weekly-build)
+-   [weekly ensemble build](#Weekly-ensemble-build)
 -   [policy on late submissions](#policy-on-late-or-updated-submissions)
 
 
@@ -223,12 +222,8 @@ Values in the `value` column are non-negative numbers indicating the
 “point” or “quantile” prediction for this row. For a “point” prediction,
 `value` is simply the value of that point prediction for the `target`
 and `location` associated with that row. For a “quantile” prediction,
-`value` is the inverse of the cumulative distribution function (CDF) for
+`value` is the inverse of the cumulative distribution function for
 the `target`, `location`, and `quantile` associated with that row.
-
-An example inverse CDF is below.
-
-![](./example_inverse_cdf-1.png)
 
 
 Forecast validation

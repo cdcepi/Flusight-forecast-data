@@ -75,7 +75,16 @@ by summing the data across all 50 states, Washington DC (DC), Puerto
 Rico(PR), and the US Virgin Islands (VI). The HHS data do not include
 admissions for additional territories.
 
-Daily admission counts are then aggregated into epidemiological weeks.
+Daily admission counts are then aggregated into epidemiological weeks. 
+
+For week-ahead forecasts, we will use the specification of
+epidemiological weeks (EWs) [defined by the US
+CDC](https://wwwn.cdc.gov/nndss/document/MMWR_Week_overview.pdf) which
+run Sunday through Saturday. There are standard software packages to
+convert from dates to epidemic weeks and vice versa. E.g.
+[MMWRweek](https://cran.r-project.org/web/packages/MMWRweek/) for R and
+[pymmwr](https://pypi.org/project/pymmwr/) and
+[epiweeks](https://pypi.org/project/epiweeks/) for python.
 
 ### Additional resources
 
@@ -83,13 +92,10 @@ Here are a few additional resources that describe these hospitalization
 data:
 
 -   [data dictionary for the
-    dataset](https://healthdata.gov/covid-19-reported-patient-impact-and-hospital-capacity-state-data-dictionary)
+    dataset](https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh)
 -   the [official document describing the “guidance for hospital
     reporting”](https://www.hhs.gov/sites/default/files/covid-19-faqs-hospitals-hospital-laboratory-acute-care-facility-data-reporting.pdf)
--   [US Hospital Reporting
-    Dashboard](https://protect-public.hhs.gov/pages/covid19-module)
-    showing the percent of hospitals that report data into the
-    hospitalization dataset, by state
+
 
 Accessing truth data
 ----------
