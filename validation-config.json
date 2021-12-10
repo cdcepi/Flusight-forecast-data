@@ -1,7 +1,7 @@
 {
   "location_filepath": "data-locations/locations.csv",
   "hub_repository_name": "cdcepi/Flusight-forecast-data",
-  "forecast_folder_name": "data-forecast",
+  "forecast_folder_name": "data-forecasts",
   "target_groups": [
     {
       "name": "inc flu hosp",
