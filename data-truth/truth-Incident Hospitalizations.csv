@@ -4955,7 +4955,7 @@ date,location,location_name,value
 2021-12-04,25,Massachusetts,21
 2021-12-04,24,Maryland,9
 2021-12-04,23,Maine,5
-2021-12-04,26,Michigan,26
+2021-12-04,26,Michigan,27
 2021-12-04,27,Minnesota,15
 2021-12-04,29,Missouri,31
 2021-12-04,28,Mississippi,22
@@ -4978,7 +4978,7 @@ date,location,location_name,value
 2021-12-04,46,South Dakota,6
 2021-12-04,47,Tennessee,25
 2021-12-04,48,Texas,55
-2021-12-04,US,US,1012
+2021-12-04,US,US,1013
 2021-12-04,49,Utah,5
 2021-12-04,51,Virginia,39
 2021-12-04,78,Virgin Islands,0
@@ -4987,3 +4987,57 @@ date,location,location_name,value
 2021-12-04,55,Wisconsin,17
 2021-12-04,54,West Virginia,12
 2021-12-04,56,Wyoming,3
+2021-12-11,02,Alaska,0
+2021-12-11,01,Alabama,23
+2021-12-11,05,Arkansas,13
+2021-12-11,04,Arizona,33
+2021-12-11,06,California,73
+2021-12-11,08,Colorado,33
+2021-12-11,09,Connecticut,16
+2021-12-11,11,District of Columbia,2
+2021-12-11,10,Delaware,13
+2021-12-11,12,Florida,94
+2021-12-11,13,Georgia,53
+2021-12-11,15,Hawaii,0
+2021-12-11,19,Iowa,3
+2021-12-11,16,Idaho,1
+2021-12-11,17,Illinois,26
+2021-12-11,18,Indiana,36
+2021-12-11,20,Kansas,10
+2021-12-11,21,Kentucky,7
+2021-12-11,22,Louisiana,27
+2021-12-11,25,Massachusetts,26
+2021-12-11,24,Maryland,4
+2021-12-11,23,Maine,3
+2021-12-11,26,Michigan,54
+2021-12-11,27,Minnesota,25
+2021-12-11,29,Missouri,51
+2021-12-11,28,Mississippi,11
+2021-12-11,30,Montana,1
+2021-12-11,37,North Carolina,59
+2021-12-11,38,North Dakota,4
+2021-12-11,31,Nebraska,19
+2021-12-11,33,New Hampshire,6
+2021-12-11,34,New Jersey,47
+2021-12-11,35,New Mexico,0
+2021-12-11,32,Nevada,5
+2021-12-11,36,New York,81
+2021-12-11,39,Ohio,48
+2021-12-11,40,Oklahoma,31
+2021-12-11,41,Oregon,6
+2021-12-11,42,Pennsylvania,82
+2021-12-11,72,Puerto Rico,23
+2021-12-11,44,Rhode Island,1
+2021-12-11,45,South Carolina,25
+2021-12-11,46,South Dakota,5
+2021-12-11,47,Tennessee,36
+2021-12-11,48,Texas,69
+2021-12-11,US,US,1254
+2021-12-11,49,Utah,2
+2021-12-11,51,Virginia,44
+2021-12-11,78,Virgin Islands,0
+2021-12-11,50,Vermont,0
+2021-12-11,53,Washington,1
+2021-12-11,55,Wisconsin,7
+2021-12-11,54,West Virginia,14
+2021-12-11,56,Wyoming,1
