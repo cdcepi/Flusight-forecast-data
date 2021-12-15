@@ -4,7 +4,7 @@
   "forecast_folder_name": "data-forecasts",
   "target_groups": [
     {
-      "outcome_variable": "Incident Influenza Hospitalizations",
+      "outcome_variable": "incident hospitalizations",
       "targets": [
         "1 wk ahead inc flu hosp",
         "2 wk ahead inc flu hosp",
