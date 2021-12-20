@@ -17,6 +17,8 @@ jobs:
       with:
         repository: 'Serena-Wang/covid19-forecast-hub-validations'
         ref: 'configpath_test'
+        path: 'covid19-forecast-hub-validations'
+
     - name: Setup Python
       uses: actions/setup-python@v2
       with:
@@ -27,6 +29,7 @@ jobs:
     - name: Install python dependencies 
       run: pipenv install
     - name: Validations output
-      run: pipenv run python main.py --config_filepath "project-config.json"
+      working-directory: ./covid19-forecast-hub-validations
+      run: pipenv run python main.py --config_filepath "../project-config.json"
       env:
         GH_TOKEN: ${{ github.token }}
