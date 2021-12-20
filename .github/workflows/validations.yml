@@ -1,0 +1,32 @@
+name: Validations (testing)
+
+on:
+  pull_request_target:
+    branches: [master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [10.2]
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        repository: 'Serena-Wang/covid19-forecast-hub-validations'
+        ref: 'configpath_test'
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9' # Version range or exact version of a Python version to use, using SemVer's version range syntax
+        architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
+    - name: Setup pipenv
+      run: pip3 install pipenv
+    - name: Install python dependencies 
+      run: pipenv install
+    - name: Validations output
+      run: pipenv run python main.py --config_filepath "project-config.json"
+      env:
+        GH_TOKEN: ${{ github.token }}
