@@ -208,7 +208,7 @@ or a quantile in the format
 For quantile forecasts, this value indicates the quantile for the
 `value` in this row.
 
-Teams should provide the following 23 quantiles:
+Teams must provide the following 23 quantiles:
 
     c(0.01, 0.025, seq(0.05, 0.95, by = 0.05), 0.975, 0.99)
 
