@@ -31,7 +31,7 @@ jobs:
       working-directory: ./covid19-forecast-hub-validations
       run: pipenv install
     - name: Validations output
-      working-directory: ./Flusight-forecast-data
-      run: pipenv run python main.py --config_filepath "project-config.json"
+      run: pipenv run python main.py 
       env:
         GH_TOKEN: ${{ github.token }}
+        config_filepath: ${{ github.workspace }}/repo/project-config.json
