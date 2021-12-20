@@ -13,6 +13,8 @@ jobs:
         node-version: [10.2]
 
     steps:
+    - name: Checkout
+      uses: actions/checkout@v2
     - uses: actions/checkout@v2
       with:
         repository: 'Serena-Wang/covid19-forecast-hub-validations'
