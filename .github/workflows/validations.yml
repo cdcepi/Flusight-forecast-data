@@ -32,6 +32,6 @@ jobs:
       run: pipenv install
     - name: Validations output
       working-directory: ./covid19-forecast-hub-validations
-      run: pipenv run python main.py --config_filepath ${{ github.workspace }}/repo/project-config.json
+      run: pipenv run python main.py --config_filepath ${{ github.workspace }}/project-config.json
       env:
         GH_TOKEN: ${{ github.token }}
