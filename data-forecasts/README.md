@@ -12,7 +12,7 @@ validation checks are run.
 These instructions provide detail about the [data
 format](#Data-formatting) as well as [validation](#Data-validation) that
 you can do prior to this pull request. In addition, we describe
-[metadata](https://github.com/reichlab/covid19-forecast-hub/blob/master/data-forecasts/METADATA.md) that each model should provide.
+[metadata](https://github.com/cdcepi/Flusight-forecast-data/blob/master/data-forecasts/METADATA.md) that each model should provide.
 
 *Table of Contents*
 
@@ -75,7 +75,7 @@ The metadata file should have the following format
     metadata-team-model.txt
 
 and here is [the structure of the metadata
-file](https://github.com/reichlab/covid19-forecast-hub/blob/master/data-forecasts/METADATA.md).
+file](https://github.com/cdcepi/Flusight-forecast-data/blob/master/data-forecasts/METADATA.md).
 
 ### License (optional)
 
