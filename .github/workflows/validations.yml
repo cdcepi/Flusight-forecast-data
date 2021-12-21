@@ -13,14 +13,14 @@ jobs:
         node-version: [10.2]
 
     steps:
-    - name: Checkout Forecast Hub Repo
-      uses: actions/checkout@v2
+    #- name: Checkout Forecast Hub Repo
+    #  uses: actions/checkout@v2
     - name: Checkout Validation Repo
       uses: actions/checkout@v2
       with:
         repository: 'reichlab/covid19-forecast-hub-validations'
         ref: 'config'
-        path: 'covid19-forecast-hub-validations'
+      #  path: 'covid19-forecast-hub-validations'
 
     - name: Setup Python
       uses: actions/setup-python@v2
@@ -29,9 +29,9 @@ jobs:
         architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
     - name: Install python dependencies 
       run: pip3 install -r requirements.txt
-      working-directory: ./covid19-forecast-hub-validations
+      #working-directory: ./covid19-forecast-hub-validations
     - name: Validations output
-      working-directory: ./covid19-forecast-hub-validations
+    #  working-directory: ./covid19-forecast-hub-validations
       run: python main.py --project_dir ${{ github.workspace }}
       env:
         GH_TOKEN: ${{ github.token }}
