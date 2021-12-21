@@ -30,9 +30,12 @@ jobs:
     - name: Setup pipenv
       working-directory: ./covid19-forecast-hub-validations
       run: pip3 install pipenv
-    - name: Install python dependencies 
+    - name: Lock pipfile
       working-directory: ./covid19-forecast-hub-validations
       run: pipenv update
+    - name: Install python dependencies 
+      working-directory: ./covid19-forecast-hub-validations
+      run: pipenv install
     - name: Validations output
       working-directory: ./covid19-forecast-hub-validations
       run: pipenv run python main.py --project_dir ${{ github.workspace }}
