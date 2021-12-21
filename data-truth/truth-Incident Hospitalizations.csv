@@ -4997,7 +4997,7 @@ date,location,location_name,value
 2021-12-11,11,District of Columbia,3
 2021-12-11,10,Delaware,10
 2021-12-11,12,Florida,92
-2021-12-11,13,Georgia,53
+2021-12-11,13,Georgia,52
 2021-12-11,15,Hawaii,0
 2021-12-11,19,Iowa,4
 2021-12-11,16,Idaho,1
@@ -5032,7 +5032,7 @@ date,location,location_name,value
 2021-12-11,46,South Dakota,9
 2021-12-11,47,Tennessee,38
 2021-12-11,48,Texas,74
-2021-12-11,US,US,1225
+2021-12-11,US,US,1224
 2021-12-11,49,Utah,2
 2021-12-11,51,Virginia,43
 2021-12-11,78,Virgin Islands,0
@@ -5041,3 +5041,57 @@ date,location,location_name,value
 2021-12-11,55,Wisconsin,6
 2021-12-11,54,West Virginia,13
 2021-12-11,56,Wyoming,1
+2021-12-18,02,Alaska,2
+2021-12-18,01,Alabama,34
+2021-12-18,05,Arkansas,15
+2021-12-18,04,Arizona,46
+2021-12-18,06,California,70
+2021-12-18,08,Colorado,41
+2021-12-18,09,Connecticut,14
+2021-12-18,11,District of Columbia,0
+2021-12-18,10,Delaware,15
+2021-12-18,12,Florida,106
+2021-12-18,13,Georgia,48
+2021-12-18,15,Hawaii,0
+2021-12-18,19,Iowa,2
+2021-12-18,16,Idaho,2
+2021-12-18,17,Illinois,29
+2021-12-18,18,Indiana,45
+2021-12-18,20,Kansas,18
+2021-12-18,21,Kentucky,9
+2021-12-18,22,Louisiana,35
+2021-12-18,25,Massachusetts,26
+2021-12-18,24,Maryland,33
+2021-12-18,23,Maine,0
+2021-12-18,26,Michigan,55
+2021-12-18,27,Minnesota,46
+2021-12-18,29,Missouri,58
+2021-12-18,28,Mississippi,15
+2021-12-18,30,Montana,3
+2021-12-18,37,North Carolina,45
+2021-12-18,38,North Dakota,6
+2021-12-18,31,Nebraska,13
+2021-12-18,33,New Hampshire,13
+2021-12-18,34,New Jersey,71
+2021-12-18,35,New Mexico,4
+2021-12-18,32,Nevada,4
+2021-12-18,36,New York,81
+2021-12-18,39,Ohio,74
+2021-12-18,40,Oklahoma,37
+2021-12-18,41,Oregon,7
+2021-12-18,42,Pennsylvania,81
+2021-12-18,72,Puerto Rico,23
+2021-12-18,44,Rhode Island,1
+2021-12-18,45,South Carolina,20
+2021-12-18,46,South Dakota,2
+2021-12-18,47,Tennessee,45
+2021-12-18,48,Texas,87
+2021-12-18,US,US,1465
+2021-12-18,49,Utah,4
+2021-12-18,51,Virginia,49
+2021-12-18,78,Virgin Islands,0
+2021-12-18,50,Vermont,0
+2021-12-18,53,Washington,0
+2021-12-18,55,Wisconsin,23
+2021-12-18,54,West Virginia,7
+2021-12-18,56,Wyoming,1
