@@ -35,6 +35,8 @@ jobs:
       run: pipenv install
     - name: Validations output
       working-directory: ./covid19-forecast-hub-validations
-      run: pipenv run python main.py --project_dir ${{ github.workspace }}
+      run:
+        pipenv run pip install PyGithub
+        pipenv run python main.py --project_dir ${{ github.workspace }}
       env:
         GH_TOKEN: ${{ github.token }}
