@@ -27,17 +27,11 @@ jobs:
       with:
         python-version: '3.9' # Version range or exact version of a Python version to use, using SemVer's version range syntax
         architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
-    - name: Setup pipenv
-      working-directory: ./covid19-forecast-hub-validations
-      run: pip3 install pipenv
-    - name: Lock pipfile
-      working-directory: ./covid19-forecast-hub-validations
-      run: pipenv update
     - name: Install python dependencies 
+      run: pip3 install -r requirements.txt
       working-directory: ./covid19-forecast-hub-validations
-      run: pipenv install
     - name: Validations output
       working-directory: ./covid19-forecast-hub-validations
-      run: pipenv run python main.py --project_dir ${{ github.workspace }}
+      run: python main.py --project_dir ${{ github.workspace }}
       env:
         GH_TOKEN: ${{ github.token }}
