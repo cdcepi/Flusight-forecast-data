@@ -32,6 +32,6 @@ jobs:
       #working-directory: ./covid19-forecast-hub-validations
     - name: Validations output
     #  working-directory: ./covid19-forecast-hub-validations
-      run: python main.py --project_dir ${{ github.workspace }}
+      run: python main.py --project_dir "/home/runner/work/Flusight-forecast-data/"
       env:
         GH_TOKEN: ${{ github.token }}
