@@ -5004,7 +5004,7 @@ date,location,location_name,value
 2021-12-11,17,Illinois,25
 2021-12-11,18,Indiana,37
 2021-12-11,20,Kansas,8
-2021-12-11,21,Kentucky,8
+2021-12-11,21,Kentucky,7
 2021-12-11,22,Louisiana,30
 2021-12-11,25,Massachusetts,25
 2021-12-11,24,Maryland,5
@@ -5032,7 +5032,7 @@ date,location,location_name,value
 2021-12-11,46,South Dakota,9
 2021-12-11,47,Tennessee,38
 2021-12-11,48,Texas,74
-2021-12-11,US,US,1224
+2021-12-11,US,US,1223
 2021-12-11,49,Utah,2
 2021-12-11,51,Virginia,43
 2021-12-11,78,Virgin Islands,0
@@ -5066,7 +5066,7 @@ date,location,location_name,value
 2021-12-18,26,Michigan,56
 2021-12-18,27,Minnesota,42
 2021-12-18,29,Missouri,53
-2021-12-18,28,Mississippi,18
+2021-12-18,28,Mississippi,19
 2021-12-18,30,Montana,3
 2021-12-18,37,North Carolina,45
 2021-12-18,38,North Dakota,7
@@ -5077,7 +5077,7 @@ date,location,location_name,value
 2021-12-18,32,Nevada,3
 2021-12-18,36,New York,83
 2021-12-18,39,Ohio,77
-2021-12-18,40,Oklahoma,37
+2021-12-18,40,Oklahoma,38
 2021-12-18,41,Oregon,7
 2021-12-18,42,Pennsylvania,80
 2021-12-18,72,Puerto Rico,23
@@ -5086,7 +5086,7 @@ date,location,location_name,value
 2021-12-18,46,South Dakota,2
 2021-12-18,47,Tennessee,49
 2021-12-18,48,Texas,90
-2021-12-18,US,US,1472
+2021-12-18,US,US,1474
 2021-12-18,49,Utah,4
 2021-12-18,51,Virginia,49
 2021-12-18,78,Virgin Islands,0
