@@ -1966,7 +1966,7 @@ date,location,location_name,value
 2020-11-14,02,Alaska,0
 2020-11-14,01,Alabama,23
 2020-11-14,05,Arkansas,7
-2020-11-14,04,Arizona,25
+2020-11-14,04,Arizona,26
 2020-11-14,06,California,44
 2020-11-14,08,Colorado,3
 2020-11-14,09,Connecticut,0
@@ -2008,7 +2008,7 @@ date,location,location_name,value
 2020-11-14,46,South Dakota,2
 2020-11-14,47,Tennessee,36
 2020-11-14,48,Texas,145
-2020-11-14,US,US,585
+2020-11-14,US,US,586
 2020-11-14,49,Utah,1
 2020-11-14,51,Virginia,25
 2020-11-14,78,Virgin Islands,4
@@ -5050,7 +5050,7 @@ date,location,location_name,value
 2021-12-18,09,Connecticut,16
 2021-12-18,11,District of Columbia,0
 2021-12-18,10,Delaware,13
-2021-12-18,12,Florida,106
+2021-12-18,12,Florida,107
 2021-12-18,13,Georgia,48
 2021-12-18,15,Hawaii,0
 2021-12-18,19,Iowa,2
@@ -5086,7 +5086,7 @@ date,location,location_name,value
 2021-12-18,46,South Dakota,2
 2021-12-18,47,Tennessee,49
 2021-12-18,48,Texas,90
-2021-12-18,US,US,1474
+2021-12-18,US,US,1475
 2021-12-18,49,Utah,4
 2021-12-18,51,Virginia,49
 2021-12-18,78,Virgin Islands,0
