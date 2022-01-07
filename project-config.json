@@ -117,5 +117,6 @@
     "2022-05-16"
   ],
   "updates_allowed": false,
-  "automerge_on_passed_validation": false
+  "automerge_on_passed_validation": false,
+  "submission_formatting_instruction": "https://github.com/cdcepi/Flusight-forecast-data/tree/master/data-forecasts#data-formatting"
 }
