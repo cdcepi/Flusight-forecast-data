@@ -2,8 +2,8 @@ team_name: Columbia University
 model_name: Ensemble
 model_abbr: CU-ensemble
 model_contributors: Sasi Kandula <sk3542@cumc.columbia.edu>, Sen Pei <sp3449@cumc.columbia.edu>, Teresa Yamana <tky2104@cumc.columbia.edu>, Jeffrey Shaman <jls106@cumc.columbia.edu> 
-website_url:
-license: CC-BY 4.0
+website_url: https://blogs.cuit.columbia.edu/jls106/
+license: cc-by-4.0
 team_model_designation: primary
 ensemble_of_hub_models: false
 methods: An inverse-WIS weighted ensemble of 3 component models - an SEIRS compartmental model with EAKF, an ARIMA model, and a baseline model of random walk with drift.
