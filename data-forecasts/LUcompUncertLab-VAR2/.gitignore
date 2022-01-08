@@ -13,3 +13,9 @@ confirmedFluHosps__wide.csv
 
 #ignore raw MCMC samples files
 *-allPredictions.csv
+
+# ignore pyc files
+**/__pycache__/
+
+# ignore preprocess files
+*-preprocess.csv
