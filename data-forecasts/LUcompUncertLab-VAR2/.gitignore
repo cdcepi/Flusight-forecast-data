@@ -15,7 +15,10 @@ confirmedFluHosps__wide.csv
 *-allPredictions.csv
 
 # ignore pyc files
-**/__pycache__/
+**/__pycache__
+__pycache__/interface.cpython-39.pyc
 
 # ignore preprocess files
 *-preprocess.csv
+
+*pyc
