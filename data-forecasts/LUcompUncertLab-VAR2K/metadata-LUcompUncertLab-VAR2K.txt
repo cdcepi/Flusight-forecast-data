@@ -1,12 +1,12 @@
 team_name: computational uncertainty lab
-model_name: Bayesian Vector Auto Regression with a lag of two weeks 
-model_abbr: bVAR2
+model_name: Bayesian Vector Auto Regression (K)
+model_abbr: bVARK
 model_contributors: tom mcandrew (Lehigh Univeristy)
 website_url:https://github.com/computationalUncertaintyLab/2022Flu_LUcompUncertLab
 license: CC-BY 4.0
-team_model_designation: primary
+team_model_designation: other
 ensemble_of_hub_models: false 
-methods: A VAR(2) model that groups state-level hospiliization trajectories due to influenza and due to COVID-19 by HHS region, probabilsiitcially selects the number of lagged weeks between 1 week and 5 weeks behind, and is fit with stan.
+methods: A VAR model that groups state-level hospiliization trajectories due to influenza and due to COVID-19 by HHS region, probabilsiitcially selects the number of lagged weeks between 1 week and 5 weeks behind, and is fit with stan.
 team_funding: 
 data_inputs: HHS confirmed influenza hospitilizations, and HHS confirmed COVID-19 hosptilizations at the state level and aggregated to weeks. The model trains on data from epidemic week 2021W01 and forward.
 citation: NA
