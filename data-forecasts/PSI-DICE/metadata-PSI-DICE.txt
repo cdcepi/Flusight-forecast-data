@@ -7,10 +7,12 @@ website_url: https://github.com/predsci/DICE4
 license: mit
 team_model_designation: primary
 ensemble_of_hub_models: false
-methods: 'A stochastic/deterministic, SIR model that stratifies by disease severity and includes compartments
-  for hospitalizations. Parameter posteriors are inferred using an MCMC procedure.'
+methods: 'A stochastic/deterministic, SIR model that stratifies by disease severity and includes 
+  compartments for hospitalizations. Parameter posteriors are inferred using an MCMC procedure.'
 team_funding: CSTE
-data_inputs: HHS COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries, US Census population, NASA NLDAS-2 specific humidity, SEDAC population density, approximated state school schedules.
+data_inputs: HHS COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries, 
+  US Census population, NASA NLDAS-2 specific humidity, SEDAC population density, approximated 
+  state school schedules.
 citation: https://doi.org/10.1371/journal.pcbi.1007013, https://doi.org/10.1371/journal.pcbi.1009230
 methods_long: "Deterministic fit of a compartmental SIR model to daily hospitalization incidence\
   \ profiles, followed by stochastic simulations using the inferred parameter distributions.\
@@ -20,6 +22,5 @@ methods_long: "Deterministic fit of a compartmental SIR model to daily hospitali
   \ is inferred by MCMC procedure, run forward at a daily cadence, and then aggregated to weekly\
   \ incidence to produce the forecast. The initial model does not include climate data, school\
   \ schedules, or coupling between states, but we will provide updates as those factors are\
-  \ incorporated into the model.\n \
-  \ Updates: "\
+  \ incorporated into the model."
   
