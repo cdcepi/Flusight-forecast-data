@@ -1,0 +1,11 @@
+team_name: Los Alamos National Lab and Northern Arizona University
+model_name: Compartmental Model with Bayesian Inference
+model_abbr: LosAlamos_NAU-CModel_Flu
+model_contributors: Yen Ting Lin (Los Alamos National Laboratory)<yentingl@lanl.gov>,
+  Ye Chen (Northern Arizona University)<yechent@gmail.com>, Richard G. Posner (Northern
+  Arizona University), William S. Hlavacek (Los Alamos National Laboratory)<wish@lanl.gov>
+website_url: https://github.com/lanl/SeasonalFlu-2022-Predictions
+license: cc-by-4.0
+team_model_designation: primary
+ensemble_of_hub_models: false
+methods: We used a seasonal compartmental model to perform Bayesian analysis on hospitalization data available for each state. The model consists of difference and/or ordinary differential equations describing the dynamics of seasonal flu. The Bayesian inference methodology, which was applied to a different model for COVID-19 disease, is published at Emerg Inf Dis 27 767–778 (2021). 
