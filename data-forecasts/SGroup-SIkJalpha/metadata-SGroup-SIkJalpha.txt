@@ -2,7 +2,7 @@ team_name: Srivastava Group
 model_name: SIkJalpha
 model_abbr: SGroup-SIkJalpha
 model_contributors: Ajitesh Srivastava (University of Southern California) <ajiteshs@usc.edu>, Majd Al Aawar (University of Southern California) <malaawar@usc.edu>
-website_url: TBD
+website_url: https://github.com/scc-usc/ReCOVER-COVID-19
 license: mit
 team_model_designation: primary
 methods: State-level discrete heterogeneous rate model that treats hospitalizations as "reported cases" with an under-reporting factor. Infection rates are learned using regression with a forgetting factor that weighs the recently seen data higher.
