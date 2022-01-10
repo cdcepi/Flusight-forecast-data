@@ -6,7 +6,7 @@ website_url: https://github.com/computationalUncertaintyLab/2022Flu_LUcompUncert
 license: cc-by-4.0
 team_model_designation: other
 ensemble_of_hub_models: false 
-methods: A VAR model that groups state-level hospiliization trajectories due to influenza and due to COVID-19 by HHS region, probabilsiitcially selects the number of lagged weeks between 1 week and 5 weeks behind, and is fit with stan.
+methods: A VAR model that groups state-level hospitalization trajectories due to influenza and COVID by HHS region, selects the number of lagged weeks between 1 week and 5 weeks behind, and is fit with stan.
 team_funding: 
 data_inputs: HHS confirmed influenza hospitilizations, and HHS confirmed COVID-19 hosptilizations at the state level and aggregated to weeks. The model trains on data from epidemic week 2021W01 and forward.
 citation:
