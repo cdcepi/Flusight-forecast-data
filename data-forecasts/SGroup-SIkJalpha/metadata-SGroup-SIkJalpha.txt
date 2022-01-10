@@ -5,7 +5,7 @@ model_contributors: Ajitesh Srivastava (University of Southern California) <ajit
 website_url: https://github.com/scc-usc/ReCOVER-COVID-19
 license: mit
 team_model_designation: primary
-methods: State-level discrete heterogeneous rate model that treats hospitalizations as "reported cases" with an under-reporting factor. Infection rates are learned using regression with a forgetting factor that weighs the recently seen data higher.
+methods: Discrete heterogeneous rate model where rates are learned using regression with a forgetting factor that weighs the recently seen data higher.
 ensemble_of_hub_models: false
 data_inputs: HHS
 citation: https://arxiv.org/abs/2007.05180
