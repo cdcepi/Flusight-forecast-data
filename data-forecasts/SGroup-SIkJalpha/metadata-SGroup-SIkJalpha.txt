@@ -1,0 +1,11 @@
+team_name: Srivastava Group
+model_name: SIkJalpha
+model_abbr: SGroup-SIkJalpha
+model_contributors: Ajitesh Srivastava (University of Southern California) <ajiteshs@usc.edu>, Majd Al Aawar (University of Southern California) <malaawar@usc.edu>
+website_url: TBD
+license: mit
+team_model_designation: primary
+methods: State-level discrete heterogeneous rate model that treats hospitalizations as "reported cases" with an under-reporting factor. Infection rates are learned using regression with a forgetting factor that weighs the recently seen data higher.
+ensemble_of_hub_models: false
+data_inputs: HHS
+citation: https://arxiv.org/abs/2007.05180
