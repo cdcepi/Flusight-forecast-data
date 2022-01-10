@@ -2,6 +2,7 @@ team_name: Flusight
 model_name: baseline
 model_abbr: Flusight-baseline
 model_contributors: Evan L. Ray <elray@umass.edu>, Ryan Tibshirani
+website_url: https://github.com/cdcepi/Flusight-baseline
 license: cc-by-4.0
 team_model_designation: primary
 ensemble_of_hub_models: false
