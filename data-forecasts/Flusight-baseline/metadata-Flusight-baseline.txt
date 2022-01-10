@@ -1,7 +1,7 @@
 team_name: Flusight
 model_name: baseline
 model_abbr: Flusight-baseline
-model_contributors: Evan L. Ray <elray@umass.edu>, Ryan Tibshirani
+model_contributors: Evan L. Ray <elray@umass.edu>, Nutcha Wattanachit, Ryan Tibshirani
 website_url: https://github.com/cdcepi/Flusight-baseline
 license: cc-by-4.0
 team_model_designation: primary
@@ -10,7 +10,7 @@ methods: This model is a baseline predictive model.
 team_funding: This model's development is funded by the US CDC grant number U01IP001122. The content is solely the responsibility of the authors and does not necessarily represent the official views of NIGMS or the National Institutes of Health.
 repo_url: https://github.com/cdcepi/Flusight
 data_inputs: incident flu hospitalizations
-methods_long: 'Tncidence, the median prediction at all future horizons
+methods_long: 'The median prediction at all future horizons
   is the most recent observed weekly incidence.  To get a distribution around
   the median, we look at how much incidence has changed from week to week in
   the past, and we allow for the possibility that similar changes will occur
