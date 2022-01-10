@@ -8,4 +8,4 @@ website_url: https://github.com/lanl/SeasonalFlu-2022-Predictions
 license: cc-by-4.0
 team_model_designation: primary
 ensemble_of_hub_models: false
-methods: We used a seasonal compartmental model to perform Bayesian analysis on hospitalization data available for each state. The model consists of ordinary differential equations describing the dynamics of seasonal flu.
+methods: We used a seasonal compartmental model to perform Bayesian analysis on hospitalization data available for each state. 
