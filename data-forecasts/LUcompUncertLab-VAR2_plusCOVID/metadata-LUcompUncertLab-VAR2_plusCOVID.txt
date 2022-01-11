@@ -1,0 +1,13 @@
+team_name: computational uncertainty lab
+model_name: Bayesian Vector Auto Regression using COVID and FLU with a lag of two weeks 
+model_abbr: LUcompUncertLab-VAR2_plusCOVID
+model_contributors: tom mcandrew (Lehigh Univeristy)
+website_url: https://github.com/computationalUncertaintyLab/2022Flu_LUcompUncertLab-VAR2 
+license: cc-by-4.0
+team_model_designation: other
+ensemble_of_hub_models: false 
+methods: A VAR(2) model that groups together state-level hospiliization trajectories due to influenza and COVID-19 and is fit with stan.
+team_funding:
+data_inputs: HHS confirmed influenza hospitilizations at the state level and aggregated to weeks. The model trains on data from epidemic week 2021W01 and forward.
+citation:
+methods_long: ""
