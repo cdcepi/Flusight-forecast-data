@@ -17,8 +17,8 @@ repo_url: https://github.com/AdityaLab/EpiFNP
 twitter_handles: badityap
 data_inputs: demographic, mobility, symptomatic data, JHU, COVID-Net 
 citation: Kamarthi, H., Kong, L., Rodríguez, A., Zhang, C. and Prakash, B.A., 2021.
-  When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting.
-  In Advances in Neural Information Processing Systems 34 (NeurIPS 2021). 
+  When in Doubt - Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting.
+  In Advances in Neural Information Processing Systems 34 (NeurIPS 2021).
   https://proceedings.neurips.cc/paper/2021/hash/a4a1108bbcc329a70efa93d7bf060914-Abstract.html
 methods_long: Jan 10, 2022 - "This data-driven deep learning model learns stochastic dependencies \
  \ between various data sequences projected in a latent space via neural Gaussian processes. \ 
