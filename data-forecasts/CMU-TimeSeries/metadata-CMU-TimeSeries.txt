@@ -1,0 +1,29 @@
+team_name: Carnegie Mellon Delphi Group
+model_name: TimeSeries
+model_abbr: CMU-TimeSeries
+model_contributors: Addison Hu (Lead modeler, Carnegie Mellon University)
+  <addison@stat.cmu.edu>, Dmitry Shemetov (Carnegie Mellon University)
+  <dshemetov@cmu.edu>, Logan Brooks (Carnegie Mellon University), Alden Green
+  (Carnegie Mellon University), Daniel McDonald (University of British
+  Columbia), Ryan Tibshirani (Carnegie Mellon University), and the Delphi
+  Research Group
+website_url: https://delphi.cmu.edu
+license: cc-by-4.0
+team_model_designation: primary
+methods: A basic quantile autoregression fit using influenza-related
+  hospitalizations and doctors visits.
+ensemble_of_hub_models: false
+team_funding: CDC Center of Excellence, gifts from Google and Facebook
+data_inputs: US Dept. of Health and Human Services (confirmed influenza
+  hospitalization admissions, normalized by population), Change Healthcare
+  (estimated percentage of outpatient doctors visits with confirmed influenza)
+methods_long: "A basic quantile autoregression fit using lagged values of\
+  \ influenza-related hospitalization counts, normalized by population, and\
+  \ percentage of doctors visits related to influenza.  The data are smoothed\
+  \ in time, and the latter data source is adjusted to remove systematic\
+  \ day-of-week effects.  The model is fit jointly across all 50 US states,\
+  \ the District of Columbia, Puerto Rico, and the Virgin Islands.  Each\
+  \ of the 23 quantiles is learned using a separate quantile regression, with\
+  \ nonnegativity and sorting constraints applied post hoc.  All signals are\
+  \ available as indicators through Delphi Epidata\
+  \ (https://cmu-delphi.github.io/delphi-epidata/)."
