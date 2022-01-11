@@ -1,8 +1,8 @@
 team_name: UT_FluCast
 model_name: UT_FluCast-Voltaire
-model_abbr: Voltaire
+model_abbr: UT_FluCast-Voltaire
 model_contributors: Spencer Woody, Spencer Fox, Graham Gibson, Lauren Meyers
-website_url: 
+website_url: https://covid-19.tacc.utexas.edu
 license: mit
 team_model_designation: primary
 ensemble_of_hub_models: false
