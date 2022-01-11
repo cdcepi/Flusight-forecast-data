@@ -1,0 +1,12 @@
+team_name: IEM Health
+model_name: FluProjections
+model_abbr: IEM_Health-FluProject
+model_contributors: Brad Suchoski (IEM) <bradley.suchoski@iem.com>, Steve Stage (IEM) <steve.stage@iem.com>,
+  Heidi Gurung (IEM) <heidi.gurung@iem.com>, Sid Baccam (IEM) <sid.baccam@iem.com> 
+website_url: https://iem.com/
+license: cc-by-4.0
+team_model_designation: primary
+ensemble_of_hub_models: false
+methods: State- and national-level SEIR model projections for weekly incident confirmed flu 
+  hospitalizations by using MCMC to fit actual hospitalizations observed.
+data_inputs: HealthData.gov COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries
