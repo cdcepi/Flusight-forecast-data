@@ -1,0 +1,13 @@
+team_name: UT_FluCast
+model_name: Voltaire
+model_abbr: Voltaire
+model_contributors: Spencer Woody, Spencer Fox, Graham Gibson, Lauren Meyers
+website_url: 
+license: mit
+team_model_designation: primary
+ensemble_of_hub_models: false
+methods: Rolling Bayesian taylor approximation on logarithm of cases implemented in stan. 
+data_inputs: previous_day_admission_influenza_confirmed_coverage variable found in the
+COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries
+dataset
+methods_long: Rolling Bayesian taylor approximation on logarithm of cases implemented in stan. 
