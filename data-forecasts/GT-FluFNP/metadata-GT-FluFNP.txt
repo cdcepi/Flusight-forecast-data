@@ -14,7 +14,7 @@ methods: "Data-driven approach based on probabilistic non-parametric neural Gaus
 team_funding: Partly supported by multiple grants from NSF (NSF CAREER, NSF CISE
   Expeditions, NSF IIS, NSF COVID RAPID) and GA Tech
 repo_url: https://github.com/AdityaLab/EpiFNP
-twitter_handles: @badityap
+twitter_handles: badityap
 data_inputs: demographic, mobility, symptomatic data, JHU, COVID-Net 
 citation: Kamarthi, H., Kong, L., Rodríguez, A., Zhang, C. and Prakash, B.A., 2021.
   When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting.
