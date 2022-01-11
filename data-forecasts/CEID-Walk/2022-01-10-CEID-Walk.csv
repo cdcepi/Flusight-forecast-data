@@ -1,4 +1,4 @@
-﻿forecast_date,target,target_end_date,location,type,quantile,value
+forecast_date,target,target_end_date,location,type,quantile,value
 2022-01-10,1 wk ahead inc flu hosp,2022-01-15,1,quantile,0.025,5.648
 2022-01-10,1 wk ahead inc flu hosp,2022-01-15,1,quantile,0.1,11.397
 2022-01-10,1 wk ahead inc flu hosp,2022-01-15,1,quantile,0.25,17.25
