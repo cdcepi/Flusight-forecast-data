@@ -1,5 +1,5 @@
 team_name: UT_FluCast
-model_name: Voltaire
+model_name: UT_FluCast-Voltaire
 model_abbr: Voltaire
 model_contributors: Spencer Woody, Spencer Fox, Graham Gibson, Lauren Meyers
 website_url: 
