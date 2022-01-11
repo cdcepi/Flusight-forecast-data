@@ -1,0 +1,28 @@
+team_name: GT
+model_name: FluFNP
+model_abbr: GT-FluFNP
+model_contributors: B. Aditya Prakash (Georgia Institute of Technology) <badityap@cc.gatech.edu>,
+  Alexander Rodríguez (Georgia Institute of Technology), Harshavardhan Kamarthi (Georgia Institute 
+  of Technology), Gautham Gururajan (Georgia Institute of Technology),  Pulak Agarwal (Georgia 
+  Institute of Technology), Full Team <deep-covid@lists.gatech.edu>
+website_url: https://adityalab.cc.gatech.edu/
+license: cc-by-4.0
+team_model_designation: primary
+ensemble_of_hub_models: false
+methods: "Data-driven approach based on probabilistic non-parametric neural Gaussian \
+  \ processes based model using syndromic, clinical, demographic, and mobility data sources." 
+team_funding: Partly supported by multiple grants from NSF (NSF CAREER, NSF CISE
+  Expeditions, NSF IIS, NSF COVID RAPID) and GA Tech
+repo_url: https://github.com/AdityaLab/EpiFNP
+twitter_handles: @badityap
+data_inputs: demographic, mobility, symptomatic data, JHU, COVID-Net 
+citation: Kamarthi, H., Kong, L., Rodríguez, A., Zhang, C. and Prakash, B.A., 2021.
+  When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting.
+  In Advances in Neural Information Processing Systems 34 (NeurIPS 2021). 
+  https://proceedings.neurips.cc/paper/2021/hash/a4a1108bbcc329a70efa93d7bf060914-Abstract.html
+methods_long: Jan 10, 2022 - "This data-driven deep learning model learns stochastic dependencies \
+ \ between various data sequences projected in a latent space via neural Gaussian processes. \ 
+ \ Therefore, it leverages the expressive power of deep sequential models along with \
+ \ non-parametric neural models to learn a non-parametric distribution of forecast as \
+ \ functional over past sequences. The data sequences used are syndromic, demographic, \ 
+ \ mobility and clinical data."
