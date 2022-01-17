@@ -20,7 +20,7 @@ jobs:
         uses: r-lib/actions/setup-r@v1
       - name: Install dependencies
         run: |
-          install.packages(c("tidyverse", "dplyr", "readr", "covidcast", "lubridate"))
+          install.packages(c("tidyverse", "dplyr", "readr", "covidcast", "lubridate", "httr", "jsonlite"))
         shell: Rscript {0}
       - name: Generate truth csv files
         run:  Rscript data-truth/get_truth.R
