@@ -5259,9 +5259,9 @@ date,location,location_name,value
 2022-01-08,56,Wyoming,10
 2022-01-15,02,Alaska,15
 2022-01-15,01,Alabama,33
-2022-01-15,05,Arkansas,33
+2022-01-15,05,Arkansas,34
 2022-01-15,04,Arizona,37
-2022-01-15,06,California,80
+2022-01-15,06,California,81
 2022-01-15,08,Colorado,29
 2022-01-15,09,Connecticut,2
 2022-01-15,11,District of Columbia,0
@@ -5273,7 +5273,7 @@ date,location,location_name,value
 2022-01-15,16,Idaho,3
 2022-01-15,17,Illinois,42
 2022-01-15,18,Indiana,46
-2022-01-15,20,Kansas,32
+2022-01-15,20,Kansas,34
 2022-01-15,21,Kentucky,19
 2022-01-15,22,Louisiana,11
 2022-01-15,25,Massachusetts,48
@@ -5290,11 +5290,11 @@ date,location,location_name,value
 2022-01-15,33,New Hampshire,10
 2022-01-15,34,New Jersey,37
 2022-01-15,35,New Mexico,2
-2022-01-15,32,Nevada,35
+2022-01-15,32,Nevada,3
 2022-01-15,36,New York,47
 2022-01-15,39,Ohio,68
 2022-01-15,40,Oklahoma,94
-2022-01-15,41,Oregon,4
+2022-01-15,41,Oregon,5
 2022-01-15,42,Pennsylvania,67
 2022-01-15,72,Puerto Rico,19
 2022-01-15,44,Rhode Island,1
@@ -5302,7 +5302,7 @@ date,location,location_name,value
 2022-01-15,46,South Dakota,26
 2022-01-15,47,Tennessee,41
 2022-01-15,48,Texas,83
-2022-01-15,US,US,1678
+2022-01-15,US,US,1651
 2022-01-15,49,Utah,2
 2022-01-15,51,Virginia,50
 2022-01-15,78,Virgin Islands,0
