@@ -1,0 +1,9 @@
+team_name: Guidehouse FluSight Team
+model_name: Guidehouse FluSight Model
+model_abbr: GH-Flu-Model
+model_contributors: Akilan Meiyappan(Guidehouse)<ameiyappan@guidehouse.com>,Shalina Omar (Guidehouse)<somar@guidehouse.com>,Shelby Scott,Rishi Verma,Andrew Eickemeyer,Minsoo Kim,Eshann Toteja, Meghan Cioci, Nathan Banion
+website_url: https://github.com/gh-ai-solu/flusight-21-22
+license: cc-by-4.0
+team_model_designation: primary
+ensemble_of_hub_models: false
+methods: National and StateLevel model, providing daily forecast predictions of flu patients admitted to the hospital,providing forecasts for next four weeks
