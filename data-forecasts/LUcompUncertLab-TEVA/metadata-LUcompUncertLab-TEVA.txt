@@ -1,0 +1,13 @@
+team_name: computational uncertainty lab
+model_name: Thompson Ensemble sampling of Vector Autoregressions
+model_abbr: LUcompUncertLab-TEVA
+model_contributors: tom mcandrew (Lehigh Univeristy)
+website_url: https://github.com/computationalUncertaintyLab/2022Flu_LUcompUncertLab 
+license: cc-by-4.0
+team_model_designation: primary
+ensemble_of_hub_models: true 
+methods: The four VAR models submitted by LU are combined by thompson sampling with weights assigned at the location level and proportional to the number of times a model has the lowest WIS in that location. 
+team_funding: 
+data_inputs: Four component models submitted by Lehigh University
+citation:
+methods_long: ""
