@@ -1,0 +1,13 @@
+team_name: computational uncertainty lab
+model_name: Interpolated and Projected Human Judgement Predictions
+model_abbr: LUcompUncertLab-IPHJ
+model_contributors: tom mcandrew (Lehigh Univeristy), Evan Ray (Umass Amherst), Nikos Bosse (LSHTM), Thomas Liptay (Metaculus)
+website_url: https://github.com/computationalUncertaintyLab/2022Flu_LUcompUncertLab 
+license: cc-by-4.0
+team_model_designation: proposed
+ensemble_of_hub_models: false 
+methods: A model built by interp. human judgement predictions and projecting them from 6 locs to all 54.
+team_funding:
+data_inputs: Human judgement prob densities from Metaculus
+citation:
+methods_long: ""
