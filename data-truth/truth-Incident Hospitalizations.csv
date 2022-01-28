@@ -5285,7 +5285,7 @@ date,location,location_name,value
 2022-01-15,28,Mississippi,36
 2022-01-15,30,Montana,13
 2022-01-15,37,North Carolina,114
-2022-01-15,38,North Dakota,32
+2022-01-15,38,North Dakota,31
 2022-01-15,31,Nebraska,24
 2022-01-15,33,New Hampshire,10
 2022-01-15,34,New Jersey,36
@@ -5302,7 +5302,7 @@ date,location,location_name,value
 2022-01-15,46,South Dakota,26
 2022-01-15,47,Tennessee,41
 2022-01-15,48,Texas,83
-2022-01-15,US,US,1652
+2022-01-15,US,US,1651
 2022-01-15,49,Utah,2
 2022-01-15,51,Virginia,50
 2022-01-15,78,Virgin Islands,0
