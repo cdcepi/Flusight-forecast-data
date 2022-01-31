@@ -10,6 +10,7 @@ on:
 
 jobs:
   update_truth_data:
+    if: github.repository_owner == 'cdcepi'
     runs-on: macOS-latest
     steps:    
       - name: Checkout repo
