@@ -4,7 +4,7 @@ model_abbr: LUcompUncertLab-VAR2K_plusCOVID
 model_contributors: tom mcandrew (Lehigh Univeristy)
 website_url: https://github.com/computationalUncertaintyLab/2022Flu_LUcompUncertLab
 license: cc-by-4.0
-team_model_designation: proposed
+team_model_designation: other
 ensemble_of_hub_models: false 
 methods: A VAR model that groups together state-level hospiliization trajectories due to influenza and COVID-19, probabilistically selects the number of lags from 1 to 5, and is fit with stan.
 team_funding:
