@@ -5422,8 +5422,8 @@ date,location,location_name,value
 2022-02-05,02,Alaska,1
 2022-02-05,01,Alabama,17
 2022-02-05,05,Arkansas,23
-2022-02-05,04,Arizona,40
-2022-02-05,06,California,31
+2022-02-05,04,Arizona,38
+2022-02-05,06,California,32
 2022-02-05,08,Colorado,20
 2022-02-05,09,Connecticut,4
 2022-02-05,11,District of Columbia,3
@@ -5435,41 +5435,41 @@ date,location,location_name,value
 2022-02-05,16,Idaho,1
 2022-02-05,17,Illinois,16
 2022-02-05,18,Indiana,36
-2022-02-05,20,Kansas,10
+2022-02-05,20,Kansas,11
 2022-02-05,21,Kentucky,15
 2022-02-05,22,Louisiana,24
 2022-02-05,25,Massachusetts,37
-2022-02-05,24,Maryland,10
+2022-02-05,24,Maryland,11
 2022-02-05,23,Maine,3
-2022-02-05,26,Michigan,31
+2022-02-05,26,Michigan,32
 2022-02-05,27,Minnesota,23
 2022-02-05,29,Missouri,56
 2022-02-05,28,Mississippi,22
 2022-02-05,30,Montana,10
 2022-02-05,37,North Carolina,108
 2022-02-05,38,North Dakota,16
-2022-02-05,31,Nebraska,28
+2022-02-05,31,Nebraska,30
 2022-02-05,33,New Hampshire,1
 2022-02-05,34,New Jersey,27
 2022-02-05,35,New Mexico,12
 2022-02-05,32,Nevada,4
-2022-02-05,36,New York,17
+2022-02-05,36,New York,18
 2022-02-05,39,Ohio,20
-2022-02-05,40,Oklahoma,58
+2022-02-05,40,Oklahoma,59
 2022-02-05,41,Oregon,1
 2022-02-05,42,Pennsylvania,49
 2022-02-05,72,Puerto Rico,7
 2022-02-05,44,Rhode Island,0
-2022-02-05,45,South Carolina,24
+2022-02-05,45,South Carolina,23
 2022-02-05,46,South Dakota,10
 2022-02-05,47,Tennessee,38
 2022-02-05,48,Texas,118
-2022-02-05,US,US,1211
+2022-02-05,US,US,1215
 2022-02-05,49,Utah,6
 2022-02-05,51,Virginia,47
 2022-02-05,78,Virgin Islands,0
 2022-02-05,50,Vermont,0
-2022-02-05,53,Washington,6
+2022-02-05,53,Washington,5
 2022-02-05,55,Wisconsin,31
 2022-02-05,54,West Virginia,9
 2022-02-05,56,Wyoming,1
