@@ -5446,7 +5446,7 @@ date,location,location_name,value
 2022-02-05,29,Missouri,56
 2022-02-05,28,Mississippi,22
 2022-02-05,30,Montana,10
-2022-02-05,37,North Carolina,108
+2022-02-05,37,North Carolina,29
 2022-02-05,38,North Dakota,16
 2022-02-05,31,Nebraska,30
 2022-02-05,33,New Hampshire,1
@@ -5464,7 +5464,7 @@ date,location,location_name,value
 2022-02-05,46,South Dakota,10
 2022-02-05,47,Tennessee,38
 2022-02-05,48,Texas,118
-2022-02-05,US,US,1215
+2022-02-05,US,US,1136
 2022-02-05,49,Utah,6
 2022-02-05,51,Virginia,47
 2022-02-05,78,Virgin Islands,0
