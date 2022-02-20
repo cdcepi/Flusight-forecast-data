@@ -5489,7 +5489,7 @@ date,location,location_name,value
 2022-02-12,16,Idaho,1
 2022-02-12,17,Illinois,9
 2022-02-12,18,Indiana,34
-2022-02-12,20,Kansas,19
+2022-02-12,20,Kansas,20
 2022-02-12,21,Kentucky,15
 2022-02-12,22,Louisiana,22
 2022-02-12,25,Massachusetts,37
@@ -5518,7 +5518,7 @@ date,location,location_name,value
 2022-02-12,46,South Dakota,19
 2022-02-12,47,Tennessee,24
 2022-02-12,48,Texas,173
-2022-02-12,US,US,1255
+2022-02-12,US,US,1256
 2022-02-12,49,Utah,4
 2022-02-12,51,Virginia,39
 2022-02-12,78,Virgin Islands,0
