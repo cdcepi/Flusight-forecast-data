@@ -3,7 +3,7 @@ model_name: Dynamics of Interacting Community Epidemics
 model_abbr: PSI-DICE
 model_contributors: James Turtle <jturtle@predsci.com>,  Michal Ben-Nun <mbennun@predsci.com>,  Pete
   Riley <pete@predsci.com>
-website_url: https://github.com/predsci/DICE4
+website_url: https://www.predsci.com/usa-flu-hosp/
 license: mit
 team_model_designation: primary
 ensemble_of_hub_models: false
