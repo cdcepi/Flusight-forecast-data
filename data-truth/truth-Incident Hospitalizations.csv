@@ -1966,7 +1966,7 @@ date,location,location_name,value
 2020-11-14,02,Alaska,0
 2020-11-14,01,Alabama,23
 2020-11-14,05,Arkansas,7
-2020-11-14,04,Arizona,26
+2020-11-14,04,Arizona,25
 2020-11-14,06,California,44
 2020-11-14,08,Colorado,3
 2020-11-14,09,Connecticut,0
@@ -2008,7 +2008,7 @@ date,location,location_name,value
 2020-11-14,46,South Dakota,2
 2020-11-14,47,Tennessee,36
 2020-11-14,48,Texas,145
-2020-11-14,US,US,586
+2020-11-14,US,US,585
 2020-11-14,49,Utah,1
 2020-11-14,51,Virginia,25
 2020-11-14,78,Virgin Islands,4
@@ -5547,7 +5547,7 @@ date,location,location_name,value
 2022-02-19,21,Kentucky,20
 2022-02-19,22,Louisiana,40
 2022-02-19,25,Massachusetts,54
-2022-02-19,24,Maryland,12
+2022-02-19,24,Maryland,14
 2022-02-19,23,Maine,4
 2022-02-19,26,Michigan,52
 2022-02-19,27,Minnesota,28
@@ -5572,7 +5572,7 @@ date,location,location_name,value
 2022-02-19,46,South Dakota,14
 2022-02-19,47,Tennessee,29
 2022-02-19,48,Texas,284
-2022-02-19,US,US,1571
+2022-02-19,US,US,1573
 2022-02-19,49,Utah,6
 2022-02-19,51,Virginia,37
 2022-02-19,78,Virgin Islands,0
@@ -5799,7 +5799,7 @@ date,location,location_name,value
 2022-03-19,56,Wyoming,4
 2022-03-26,02,Alaska,3
 2022-03-26,01,Alabama,25
-2022-03-26,05,Arkansas,88
+2022-03-26,05,Arkansas,89
 2022-03-26,04,Arizona,131
 2022-03-26,06,California,64
 2022-03-26,08,Colorado,92
@@ -5812,8 +5812,8 @@ date,location,location_name,value
 2022-03-26,19,Iowa,42
 2022-03-26,16,Idaho,19
 2022-03-26,17,Illinois,105
-2022-03-26,18,Indiana,133
-2022-03-26,20,Kansas,48
+2022-03-26,18,Indiana,125
+2022-03-26,20,Kansas,44
 2022-03-26,21,Kentucky,40
 2022-03-26,22,Louisiana,42
 2022-03-26,25,Massachusetts,44
@@ -5831,18 +5831,18 @@ date,location,location_name,value
 2022-03-26,34,New Jersey,63
 2022-03-26,35,New Mexico,43
 2022-03-26,32,Nevada,45
-2022-03-26,36,New York,86
+2022-03-26,36,New York,87
 2022-03-26,39,Ohio,106
-2022-03-26,40,Oklahoma,162
-2022-03-26,41,Oregon,25
-2022-03-26,42,Pennsylvania,114
+2022-03-26,40,Oklahoma,163
+2022-03-26,41,Oregon,23
+2022-03-26,42,Pennsylvania,113
 2022-03-26,72,Puerto Rico,39
 2022-03-26,44,Rhode Island,1
 2022-03-26,45,South Carolina,15
 2022-03-26,46,South Dakota,5
-2022-03-26,47,Tennessee,43
+2022-03-26,47,Tennessee,45
 2022-03-26,48,Texas,630
-2022-03-26,US,US,3024
+2022-03-26,US,US,3014
 2022-03-26,49,Utah,8
 2022-03-26,51,Virginia,44
 2022-03-26,78,Virgin Islands,0
