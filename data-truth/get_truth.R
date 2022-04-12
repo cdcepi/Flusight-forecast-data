@@ -85,7 +85,8 @@ load_flu_hosp_data <- function(as_of = NULL,
       config = httr::config(ssl_verifypeer = FALSE)
     ) %>%
       as.character() %>%
-      jsonlite::fromJSON()
+      jsonlite::fromJSON() %>%
+      dplyr::arrange(update_date)
     csv_path <- tail(temp$archive_link$url, 1)
     data <- readr::read_csv(csv_path)
     state_dat <- data %>%
