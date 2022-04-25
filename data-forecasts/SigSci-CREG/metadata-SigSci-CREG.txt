@@ -4,7 +4,7 @@ model_abbr: SigSci-CREG
 model_contributors: VP Nagraj (Signature Science), Stephen D. Turner (Signature Science), Chris Hulme-Lowe (Signature Science), Shakeel Jessa (Signature Science)
 website_url: http://www.signaturescience.com/
 license: cc-by-4.0
-team_model_designation: primary
+team_model_designation: secondary
 ensemble_of_hub_models: false
 methods: Count regression modeling for U.S. state and national influenza hospitalizations.
 team_funding: CSTE
