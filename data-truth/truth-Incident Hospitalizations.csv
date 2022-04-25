@@ -1966,7 +1966,7 @@ date,location,location_name,value
 2020-11-14,02,Alaska,0
 2020-11-14,01,Alabama,23
 2020-11-14,05,Arkansas,7
-2020-11-14,04,Arizona,26
+2020-11-14,04,Arizona,25
 2020-11-14,06,California,44
 2020-11-14,08,Colorado,3
 2020-11-14,09,Connecticut,0
@@ -2008,7 +2008,7 @@ date,location,location_name,value
 2020-11-14,46,South Dakota,2
 2020-11-14,47,Tennessee,36
 2020-11-14,48,Texas,145
-2020-11-14,US,US,586
+2020-11-14,US,US,585
 2020-11-14,49,Utah,1
 2020-11-14,51,Virginia,25
 2020-11-14,78,Virgin Islands,4
@@ -4544,9 +4544,9 @@ date,location,location_name,value
 2021-10-09,44,Rhode Island,0
 2021-10-09,45,South Carolina,6
 2021-10-09,46,South Dakota,2
-2021-10-09,47,Tennessee,15
+2021-10-09,47,Tennessee,11
 2021-10-09,48,Texas,44
-2021-10-09,US,US,383
+2021-10-09,US,US,379
 2021-10-09,49,Utah,2
 2021-10-09,51,Virginia,12
 2021-10-09,78,Virgin Islands,0
@@ -4923,8 +4923,8 @@ date,location,location_name,value
 2021-11-27,45,South Carolina,10
 2021-11-27,46,South Dakota,2
 2021-11-27,47,Tennessee,20
-2021-11-27,48,Texas,48
-2021-11-27,US,US,646
+2021-11-27,48,Texas,45
+2021-11-27,US,US,643
 2021-11-27,49,Utah,0
 2021-11-27,51,Virginia,33
 2021-11-27,78,Virgin Islands,0
@@ -5365,57 +5365,705 @@ date,location,location_name,value
 2022-01-22,55,Wisconsin,20
 2022-01-22,54,West Virginia,13
 2022-01-22,56,Wyoming,9
-2022-01-29,02,Alaska,0
-2022-01-29,01,Alabama,20
-2022-01-29,05,Arkansas,19
+2022-01-29,02,Alaska,1
+2022-01-29,01,Alabama,18
+2022-01-29,05,Arkansas,18
 2022-01-29,04,Arizona,39
-2022-01-29,06,California,28
+2022-01-29,06,California,30
 2022-01-29,08,Colorado,11
-2022-01-29,09,Connecticut,6
+2022-01-29,09,Connecticut,2
 2022-01-29,11,District of Columbia,0
-2022-01-29,10,Delaware,2
-2022-01-29,12,Florida,59
-2022-01-29,13,Georgia,31
+2022-01-29,10,Delaware,1
+2022-01-29,12,Florida,61
+2022-01-29,13,Georgia,35
 2022-01-29,15,Hawaii,0
 2022-01-29,19,Iowa,7
-2022-01-29,16,Idaho,1
-2022-01-29,17,Illinois,11
-2022-01-29,18,Indiana,35
+2022-01-29,16,Idaho,2
+2022-01-29,17,Illinois,7
+2022-01-29,18,Indiana,33
 2022-01-29,20,Kansas,7
-2022-01-29,21,Kentucky,29
-2022-01-29,22,Louisiana,8
-2022-01-29,25,Massachusetts,42
-2022-01-29,24,Maryland,10
+2022-01-29,21,Kentucky,23
+2022-01-29,22,Louisiana,10
+2022-01-29,25,Massachusetts,39
+2022-01-29,24,Maryland,9
 2022-01-29,23,Maine,1
-2022-01-29,26,Michigan,28
-2022-01-29,27,Minnesota,19
-2022-01-29,29,Missouri,55
-2022-01-29,28,Mississippi,18
+2022-01-29,26,Michigan,31
+2022-01-29,27,Minnesota,18
+2022-01-29,29,Missouri,54
+2022-01-29,28,Mississippi,14
 2022-01-29,30,Montana,5
 2022-01-29,37,North Carolina,25
-2022-01-29,38,North Dakota,14
-2022-01-29,31,Nebraska,26
+2022-01-29,38,North Dakota,13
+2022-01-29,31,Nebraska,29
 2022-01-29,33,New Hampshire,1
-2022-01-29,34,New Jersey,22
+2022-01-29,34,New Jersey,21
 2022-01-29,35,New Mexico,0
-2022-01-29,32,Nevada,14
+2022-01-29,32,Nevada,9
 2022-01-29,36,New York,17
-2022-01-29,39,Ohio,41
-2022-01-29,40,Oklahoma,41
+2022-01-29,39,Ohio,37
+2022-01-29,40,Oklahoma,38
 2022-01-29,41,Oregon,4
-2022-01-29,42,Pennsylvania,34
-2022-01-29,72,Puerto Rico,12
+2022-01-29,42,Pennsylvania,33
+2022-01-29,72,Puerto Rico,13
 2022-01-29,44,Rhode Island,2
-2022-01-29,45,South Carolina,14
-2022-01-29,46,South Dakota,12
-2022-01-29,47,Tennessee,30
-2022-01-29,48,Texas,99
-2022-01-29,US,US,990
-2022-01-29,49,Utah,5
+2022-01-29,45,South Carolina,10
+2022-01-29,46,South Dakota,11
+2022-01-29,47,Tennessee,28
+2022-01-29,48,Texas,92
+2022-01-29,US,US,950
+2022-01-29,49,Utah,6
 2022-01-29,51,Virginia,50
 2022-01-29,78,Virgin Islands,0
 2022-01-29,50,Vermont,0
 2022-01-29,53,Washington,4
-2022-01-29,55,Wisconsin,24
-2022-01-29,54,West Virginia,7
+2022-01-29,55,Wisconsin,22
+2022-01-29,54,West Virginia,8
 2022-01-29,56,Wyoming,1
+2022-02-05,02,Alaska,1
+2022-02-05,01,Alabama,17
+2022-02-05,05,Arkansas,23
+2022-02-05,04,Arizona,38
+2022-02-05,06,California,32
+2022-02-05,08,Colorado,20
+2022-02-05,09,Connecticut,4
+2022-02-05,11,District of Columbia,3
+2022-02-05,10,Delaware,0
+2022-02-05,12,Florida,79
+2022-02-05,13,Georgia,45
+2022-02-05,15,Hawaii,0
+2022-02-05,19,Iowa,17
+2022-02-05,16,Idaho,1
+2022-02-05,17,Illinois,16
+2022-02-05,18,Indiana,36
+2022-02-05,20,Kansas,11
+2022-02-05,21,Kentucky,15
+2022-02-05,22,Louisiana,24
+2022-02-05,25,Massachusetts,37
+2022-02-05,24,Maryland,11
+2022-02-05,23,Maine,3
+2022-02-05,26,Michigan,32
+2022-02-05,27,Minnesota,23
+2022-02-05,29,Missouri,56
+2022-02-05,28,Mississippi,22
+2022-02-05,30,Montana,10
+2022-02-05,37,North Carolina,30
+2022-02-05,38,North Dakota,16
+2022-02-05,31,Nebraska,30
+2022-02-05,33,New Hampshire,1
+2022-02-05,34,New Jersey,27
+2022-02-05,35,New Mexico,12
+2022-02-05,32,Nevada,4
+2022-02-05,36,New York,18
+2022-02-05,39,Ohio,20
+2022-02-05,40,Oklahoma,59
+2022-02-05,41,Oregon,1
+2022-02-05,42,Pennsylvania,47
+2022-02-05,72,Puerto Rico,7
+2022-02-05,44,Rhode Island,0
+2022-02-05,45,South Carolina,23
+2022-02-05,46,South Dakota,10
+2022-02-05,47,Tennessee,38
+2022-02-05,48,Texas,118
+2022-02-05,US,US,1137
+2022-02-05,49,Utah,6
+2022-02-05,51,Virginia,47
+2022-02-05,78,Virgin Islands,0
+2022-02-05,50,Vermont,0
+2022-02-05,53,Washington,6
+2022-02-05,55,Wisconsin,31
+2022-02-05,54,West Virginia,9
+2022-02-05,56,Wyoming,1
+2022-02-12,02,Alaska,0
+2022-02-12,01,Alabama,12
+2022-02-12,05,Arkansas,24
+2022-02-12,04,Arizona,63
+2022-02-12,06,California,34
+2022-02-12,08,Colorado,27
+2022-02-12,09,Connecticut,0
+2022-02-12,11,District of Columbia,0
+2022-02-12,10,Delaware,2
+2022-02-12,12,Florida,64
+2022-02-12,13,Georgia,38
+2022-02-12,15,Hawaii,0
+2022-02-12,19,Iowa,52
+2022-02-12,16,Idaho,1
+2022-02-12,17,Illinois,9
+2022-02-12,18,Indiana,34
+2022-02-12,20,Kansas,20
+2022-02-12,21,Kentucky,15
+2022-02-12,22,Louisiana,22
+2022-02-12,25,Massachusetts,37
+2022-02-12,24,Maryland,8
+2022-02-12,23,Maine,7
+2022-02-12,26,Michigan,40
+2022-02-12,27,Minnesota,19
+2022-02-12,29,Missouri,42
+2022-02-12,28,Mississippi,22
+2022-02-12,30,Montana,13
+2022-02-12,37,North Carolina,32
+2022-02-12,38,North Dakota,5
+2022-02-12,31,Nebraska,29
+2022-02-12,33,New Hampshire,11
+2022-02-12,34,New Jersey,25
+2022-02-12,35,New Mexico,7
+2022-02-12,32,Nevada,6
+2022-02-12,36,New York,34
+2022-02-12,39,Ohio,29
+2022-02-12,40,Oklahoma,70
+2022-02-12,41,Oregon,2
+2022-02-12,42,Pennsylvania,60
+2022-02-12,72,Puerto Rico,19
+2022-02-12,44,Rhode Island,0
+2022-02-12,45,South Carolina,20
+2022-02-12,46,South Dakota,19
+2022-02-12,47,Tennessee,24
+2022-02-12,48,Texas,173
+2022-02-12,US,US,1256
+2022-02-12,49,Utah,4
+2022-02-12,51,Virginia,39
+2022-02-12,78,Virgin Islands,0
+2022-02-12,50,Vermont,0
+2022-02-12,53,Washington,8
+2022-02-12,55,Wisconsin,28
+2022-02-12,54,West Virginia,5
+2022-02-12,56,Wyoming,2
+2022-02-19,02,Alaska,0
+2022-02-19,01,Alabama,20
+2022-02-19,05,Arkansas,32
+2022-02-19,04,Arizona,66
+2022-02-19,06,California,18
+2022-02-19,08,Colorado,22
+2022-02-19,09,Connecticut,1
+2022-02-19,11,District of Columbia,1
+2022-02-19,10,Delaware,3
+2022-02-19,12,Florida,74
+2022-02-19,13,Georgia,45
+2022-02-19,15,Hawaii,0
+2022-02-19,19,Iowa,44
+2022-02-19,16,Idaho,1
+2022-02-19,17,Illinois,26
+2022-02-19,18,Indiana,61
+2022-02-19,20,Kansas,25
+2022-02-19,21,Kentucky,20
+2022-02-19,22,Louisiana,40
+2022-02-19,25,Massachusetts,54
+2022-02-19,24,Maryland,12
+2022-02-19,23,Maine,4
+2022-02-19,26,Michigan,52
+2022-02-19,27,Minnesota,28
+2022-02-19,29,Missouri,60
+2022-02-19,28,Mississippi,27
+2022-02-19,30,Montana,9
+2022-02-19,37,North Carolina,32
+2022-02-19,38,North Dakota,5
+2022-02-19,31,Nebraska,34
+2022-02-19,33,New Hampshire,7
+2022-02-19,34,New Jersey,32
+2022-02-19,35,New Mexico,8
+2022-02-19,32,Nevada,8
+2022-02-19,36,New York,30
+2022-02-19,39,Ohio,41
+2022-02-19,40,Oklahoma,78
+2022-02-19,41,Oregon,6
+2022-02-19,42,Pennsylvania,96
+2022-02-19,72,Puerto Rico,9
+2022-02-19,44,Rhode Island,1
+2022-02-19,45,South Carolina,21
+2022-02-19,46,South Dakota,14
+2022-02-19,47,Tennessee,29
+2022-02-19,48,Texas,284
+2022-02-19,US,US,1571
+2022-02-19,49,Utah,6
+2022-02-19,51,Virginia,37
+2022-02-19,78,Virgin Islands,0
+2022-02-19,50,Vermont,0
+2022-02-19,53,Washington,5
+2022-02-19,55,Wisconsin,29
+2022-02-19,54,West Virginia,12
+2022-02-19,56,Wyoming,2
+2022-02-26,02,Alaska,1
+2022-02-26,01,Alabama,14
+2022-02-26,05,Arkansas,42
+2022-02-26,04,Arizona,72
+2022-02-26,06,California,34
+2022-02-26,08,Colorado,27
+2022-02-26,09,Connecticut,7
+2022-02-26,11,District of Columbia,0
+2022-02-26,10,Delaware,1
+2022-02-26,12,Florida,66
+2022-02-26,13,Georgia,47
+2022-02-26,15,Hawaii,0
+2022-02-26,19,Iowa,62
+2022-02-26,16,Idaho,4
+2022-02-26,17,Illinois,26
+2022-02-26,18,Indiana,42
+2022-02-26,20,Kansas,38
+2022-02-26,21,Kentucky,28
+2022-02-26,22,Louisiana,36
+2022-02-26,25,Massachusetts,30
+2022-02-26,24,Maryland,17
+2022-02-26,23,Maine,2
+2022-02-26,26,Michigan,55
+2022-02-26,27,Minnesota,19
+2022-02-26,29,Missouri,57
+2022-02-26,28,Mississippi,31
+2022-02-26,30,Montana,15
+2022-02-26,37,North Carolina,36
+2022-02-26,38,North Dakota,0
+2022-02-26,31,Nebraska,36
+2022-02-26,33,New Hampshire,4
+2022-02-26,34,New Jersey,35
+2022-02-26,35,New Mexico,3
+2022-02-26,32,Nevada,9
+2022-02-26,36,New York,38
+2022-02-26,39,Ohio,33
+2022-02-26,40,Oklahoma,81
+2022-02-26,41,Oregon,3
+2022-02-26,42,Pennsylvania,82
+2022-02-26,72,Puerto Rico,5
+2022-02-26,44,Rhode Island,0
+2022-02-26,45,South Carolina,27
+2022-02-26,46,South Dakota,15
+2022-02-26,47,Tennessee,47
+2022-02-26,48,Texas,347
+2022-02-26,US,US,1678
+2022-02-26,49,Utah,6
+2022-02-26,51,Virginia,41
+2022-02-26,78,Virgin Islands,0
+2022-02-26,50,Vermont,1
+2022-02-26,53,Washington,7
+2022-02-26,55,Wisconsin,27
+2022-02-26,54,West Virginia,17
+2022-02-26,56,Wyoming,5
+2022-03-05,02,Alaska,0
+2022-03-05,01,Alabama,35
+2022-03-05,05,Arkansas,58
+2022-03-05,04,Arizona,91
+2022-03-05,06,California,32
+2022-03-05,08,Colorado,25
+2022-03-05,09,Connecticut,7
+2022-03-05,11,District of Columbia,1
+2022-03-05,10,Delaware,1
+2022-03-05,12,Florida,72
+2022-03-05,13,Georgia,32
+2022-03-05,15,Hawaii,0
+2022-03-05,19,Iowa,57
+2022-03-05,16,Idaho,3
+2022-03-05,17,Illinois,21
+2022-03-05,18,Indiana,72
+2022-03-05,20,Kansas,32
+2022-03-05,21,Kentucky,20
+2022-03-05,22,Louisiana,31
+2022-03-05,25,Massachusetts,14
+2022-03-05,24,Maryland,21
+2022-03-05,23,Maine,3
+2022-03-05,26,Michigan,82
+2022-03-05,27,Minnesota,31
+2022-03-05,29,Missouri,77
+2022-03-05,28,Mississippi,34
+2022-03-05,30,Montana,19
+2022-03-05,37,North Carolina,54
+2022-03-05,38,North Dakota,2
+2022-03-05,31,Nebraska,60
+2022-03-05,33,New Hampshire,3
+2022-03-05,34,New Jersey,41
+2022-03-05,35,New Mexico,6
+2022-03-05,32,Nevada,21
+2022-03-05,36,New York,56
+2022-03-05,39,Ohio,50
+2022-03-05,40,Oklahoma,95
+2022-03-05,41,Oregon,2
+2022-03-05,42,Pennsylvania,77
+2022-03-05,72,Puerto Rico,11
+2022-03-05,44,Rhode Island,2
+2022-03-05,45,South Carolina,23
+2022-03-05,46,South Dakota,34
+2022-03-05,47,Tennessee,33
+2022-03-05,48,Texas,345
+2022-03-05,US,US,1947
+2022-03-05,49,Utah,12
+2022-03-05,51,Virginia,38
+2022-03-05,78,Virgin Islands,0
+2022-03-05,50,Vermont,0
+2022-03-05,53,Washington,12
+2022-03-05,55,Wisconsin,64
+2022-03-05,54,West Virginia,30
+2022-03-05,56,Wyoming,5
+2022-03-12,02,Alaska,2
+2022-03-12,01,Alabama,30
+2022-03-12,05,Arkansas,62
+2022-03-12,04,Arizona,85
+2022-03-12,06,California,45
+2022-03-12,08,Colorado,42
+2022-03-12,09,Connecticut,6
+2022-03-12,11,District of Columbia,4
+2022-03-12,10,Delaware,7
+2022-03-12,12,Florida,69
+2022-03-12,13,Georgia,60
+2022-03-12,15,Hawaii,0
+2022-03-12,19,Iowa,61
+2022-03-12,16,Idaho,15
+2022-03-12,17,Illinois,39
+2022-03-12,18,Indiana,106
+2022-03-12,20,Kansas,45
+2022-03-12,21,Kentucky,35
+2022-03-12,22,Louisiana,31
+2022-03-12,25,Massachusetts,34
+2022-03-12,24,Maryland,18
+2022-03-12,23,Maine,2
+2022-03-12,26,Michigan,92
+2022-03-12,27,Minnesota,35
+2022-03-12,29,Missouri,67
+2022-03-12,28,Mississippi,32
+2022-03-12,30,Montana,15
+2022-03-12,37,North Carolina,52
+2022-03-12,38,North Dakota,6
+2022-03-12,31,Nebraska,39
+2022-03-12,33,New Hampshire,17
+2022-03-12,34,New Jersey,39
+2022-03-12,35,New Mexico,8
+2022-03-12,32,Nevada,25
+2022-03-12,36,New York,57
+2022-03-12,39,Ohio,86
+2022-03-12,40,Oklahoma,129
+2022-03-12,41,Oregon,9
+2022-03-12,42,Pennsylvania,82
+2022-03-12,72,Puerto Rico,23
+2022-03-12,44,Rhode Island,0
+2022-03-12,45,South Carolina,21
+2022-03-12,46,South Dakota,15
+2022-03-12,47,Tennessee,32
+2022-03-12,48,Texas,453
+2022-03-12,US,US,2270
+2022-03-12,49,Utah,14
+2022-03-12,51,Virginia,33
+2022-03-12,78,Virgin Islands,0
+2022-03-12,50,Vermont,0
+2022-03-12,53,Washington,14
+2022-03-12,55,Wisconsin,46
+2022-03-12,54,West Virginia,27
+2022-03-12,56,Wyoming,4
+2022-03-19,02,Alaska,1
+2022-03-19,01,Alabama,30
+2022-03-19,05,Arkansas,67
+2022-03-19,04,Arizona,113
+2022-03-19,06,California,57
+2022-03-19,08,Colorado,60
+2022-03-19,09,Connecticut,18
+2022-03-19,11,District of Columbia,4
+2022-03-19,10,Delaware,6
+2022-03-19,12,Florida,73
+2022-03-19,13,Georgia,34
+2022-03-19,15,Hawaii,1
+2022-03-19,19,Iowa,43
+2022-03-19,16,Idaho,15
+2022-03-19,17,Illinois,74
+2022-03-19,18,Indiana,124
+2022-03-19,20,Kansas,32
+2022-03-19,21,Kentucky,43
+2022-03-19,22,Louisiana,50
+2022-03-19,25,Massachusetts,44
+2022-03-19,24,Maryland,30
+2022-03-19,23,Maine,1
+2022-03-19,26,Michigan,131
+2022-03-19,27,Minnesota,29
+2022-03-19,29,Missouri,96
+2022-03-19,28,Mississippi,36
+2022-03-19,30,Montana,17
+2022-03-19,37,North Carolina,15
+2022-03-19,38,North Dakota,4
+2022-03-19,31,Nebraska,70
+2022-03-19,33,New Hampshire,8
+2022-03-19,34,New Jersey,52
+2022-03-19,35,New Mexico,17
+2022-03-19,32,Nevada,38
+2022-03-19,36,New York,101
+2022-03-19,39,Ohio,104
+2022-03-19,40,Oklahoma,167
+2022-03-19,41,Oregon,19
+2022-03-19,42,Pennsylvania,120
+2022-03-19,72,Puerto Rico,22
+2022-03-19,44,Rhode Island,1
+2022-03-19,45,South Carolina,23
+2022-03-19,46,South Dakota,10
+2022-03-19,47,Tennessee,40
+2022-03-19,48,Texas,663
+2022-03-19,US,US,2879
+2022-03-19,49,Utah,18
+2022-03-19,51,Virginia,37
+2022-03-19,78,Virgin Islands,0
+2022-03-19,50,Vermont,0
+2022-03-19,53,Washington,19
+2022-03-19,55,Wisconsin,50
+2022-03-19,54,West Virginia,48
+2022-03-19,56,Wyoming,4
+2022-03-26,02,Alaska,3
+2022-03-26,01,Alabama,25
+2022-03-26,05,Arkansas,89
+2022-03-26,04,Arizona,131
+2022-03-26,06,California,63
+2022-03-26,08,Colorado,94
+2022-03-26,09,Connecticut,25
+2022-03-26,11,District of Columbia,2
+2022-03-26,10,Delaware,7
+2022-03-26,12,Florida,109
+2022-03-26,13,Georgia,33
+2022-03-26,15,Hawaii,0
+2022-03-26,19,Iowa,42
+2022-03-26,16,Idaho,15
+2022-03-26,17,Illinois,105
+2022-03-26,18,Indiana,125
+2022-03-26,20,Kansas,44
+2022-03-26,21,Kentucky,39
+2022-03-26,22,Louisiana,42
+2022-03-26,25,Massachusetts,44
+2022-03-26,24,Maryland,28
+2022-03-26,23,Maine,3
+2022-03-26,26,Michigan,125
+2022-03-26,27,Minnesota,37
+2022-03-26,29,Missouri,84
+2022-03-26,28,Mississippi,38
+2022-03-26,30,Montana,21
+2022-03-26,37,North Carolina,25
+2022-03-26,38,North Dakota,5
+2022-03-26,31,Nebraska,50
+2022-03-26,33,New Hampshire,9
+2022-03-26,34,New Jersey,63
+2022-03-26,35,New Mexico,43
+2022-03-26,32,Nevada,45
+2022-03-26,36,New York,87
+2022-03-26,39,Ohio,106
+2022-03-26,40,Oklahoma,163
+2022-03-26,41,Oregon,23
+2022-03-26,42,Pennsylvania,113
+2022-03-26,72,Puerto Rico,39
+2022-03-26,44,Rhode Island,1
+2022-03-26,45,South Carolina,15
+2022-03-26,46,South Dakota,5
+2022-03-26,47,Tennessee,45
+2022-03-26,48,Texas,630
+2022-03-26,US,US,3010
+2022-03-26,49,Utah,8
+2022-03-26,51,Virginia,44
+2022-03-26,78,Virgin Islands,0
+2022-03-26,50,Vermont,8
+2022-03-26,53,Washington,25
+2022-03-26,55,Wisconsin,58
+2022-03-26,54,West Virginia,21
+2022-03-26,56,Wyoming,6
+2022-04-02,02,Alaska,0
+2022-04-02,01,Alabama,32
+2022-04-02,05,Arkansas,59
+2022-04-02,04,Arizona,108
+2022-04-02,06,California,83
+2022-04-02,08,Colorado,117
+2022-04-02,09,Connecticut,30
+2022-04-02,11,District of Columbia,4
+2022-04-02,10,Delaware,4
+2022-04-02,12,Florida,96
+2022-04-02,13,Georgia,46
+2022-04-02,15,Hawaii,1
+2022-04-02,19,Iowa,37
+2022-04-02,16,Idaho,21
+2022-04-02,17,Illinois,100
+2022-04-02,18,Indiana,113
+2022-04-02,20,Kansas,28
+2022-04-02,21,Kentucky,65
+2022-04-02,22,Louisiana,46
+2022-04-02,25,Massachusetts,100
+2022-04-02,24,Maryland,31
+2022-04-02,23,Maine,10
+2022-04-02,26,Michigan,173
+2022-04-02,27,Minnesota,34
+2022-04-02,29,Missouri,97
+2022-04-02,28,Mississippi,20
+2022-04-02,30,Montana,36
+2022-04-02,37,North Carolina,37
+2022-04-02,38,North Dakota,3
+2022-04-02,31,Nebraska,22
+2022-04-02,33,New Hampshire,9
+2022-04-02,34,New Jersey,94
+2022-04-02,35,New Mexico,40
+2022-04-02,32,Nevada,60
+2022-04-02,36,New York,180
+2022-04-02,39,Ohio,100
+2022-04-02,40,Oklahoma,164
+2022-04-02,41,Oregon,10
+2022-04-02,42,Pennsylvania,153
+2022-04-02,72,Puerto Rico,38
+2022-04-02,44,Rhode Island,3
+2022-04-02,45,South Carolina,23
+2022-04-02,46,South Dakota,9
+2022-04-02,47,Tennessee,48
+2022-04-02,48,Texas,507
+2022-04-02,US,US,3182
+2022-04-02,49,Utah,18
+2022-04-02,51,Virginia,45
+2022-04-02,78,Virgin Islands,0
+2022-04-02,50,Vermont,6
+2022-04-02,53,Washington,19
+2022-04-02,55,Wisconsin,55
+2022-04-02,54,West Virginia,44
+2022-04-02,56,Wyoming,4
+2022-04-09,02,Alaska,2
+2022-04-09,01,Alabama,29
+2022-04-09,05,Arkansas,83
+2022-04-09,04,Arizona,112
+2022-04-09,06,California,106
+2022-04-09,08,Colorado,105
+2022-04-09,09,Connecticut,44
+2022-04-09,11,District of Columbia,2
+2022-04-09,10,Delaware,14
+2022-04-09,12,Florida,103
+2022-04-09,13,Georgia,31
+2022-04-09,15,Hawaii,4
+2022-04-09,19,Iowa,21
+2022-04-09,16,Idaho,17
+2022-04-09,17,Illinois,103
+2022-04-09,18,Indiana,117
+2022-04-09,20,Kansas,34
+2022-04-09,21,Kentucky,88
+2022-04-09,22,Louisiana,28
+2022-04-09,25,Massachusetts,156
+2022-04-09,24,Maryland,57
+2022-04-09,23,Maine,11
+2022-04-09,26,Michigan,176
+2022-04-09,27,Minnesota,24
+2022-04-09,29,Missouri,78
+2022-04-09,28,Mississippi,34
+2022-04-09,30,Montana,18
+2022-04-09,37,North Carolina,45
+2022-04-09,38,North Dakota,5
+2022-04-09,31,Nebraska,35
+2022-04-09,33,New Hampshire,16
+2022-04-09,34,New Jersey,152
+2022-04-09,35,New Mexico,42
+2022-04-09,32,Nevada,98
+2022-04-09,36,New York,191
+2022-04-09,39,Ohio,135
+2022-04-09,40,Oklahoma,117
+2022-04-09,41,Oregon,15
+2022-04-09,42,Pennsylvania,207
+2022-04-09,72,Puerto Rico,40
+2022-04-09,44,Rhode Island,6
+2022-04-09,45,South Carolina,32
+2022-04-09,46,South Dakota,10
+2022-04-09,47,Tennessee,36
+2022-04-09,48,Texas,357
+2022-04-09,US,US,3333
+2022-04-09,49,Utah,13
+2022-04-09,51,Virginia,46
+2022-04-09,78,Virgin Islands,0
+2022-04-09,50,Vermont,12
+2022-04-09,53,Washington,26
+2022-04-09,55,Wisconsin,50
+2022-04-09,54,West Virginia,42
+2022-04-09,56,Wyoming,8
+2022-04-16,02,Alaska,2
+2022-04-16,01,Alabama,19
+2022-04-16,05,Arkansas,50
+2022-04-16,04,Arizona,101
+2022-04-16,06,California,100
+2022-04-16,08,Colorado,146
+2022-04-16,09,Connecticut,51
+2022-04-16,11,District of Columbia,2
+2022-04-16,10,Delaware,41
+2022-04-16,12,Florida,165
+2022-04-16,13,Georgia,41
+2022-04-16,15,Hawaii,10
+2022-04-16,19,Iowa,28
+2022-04-16,16,Idaho,19
+2022-04-16,17,Illinois,92
+2022-04-16,18,Indiana,81
+2022-04-16,20,Kansas,21
+2022-04-16,21,Kentucky,92
+2022-04-16,22,Louisiana,41
+2022-04-16,25,Massachusetts,166
+2022-04-16,24,Maryland,48
+2022-04-16,23,Maine,15
+2022-04-16,26,Michigan,139
+2022-04-16,27,Minnesota,28
+2022-04-16,29,Missouri,78
+2022-04-16,28,Mississippi,23
+2022-04-16,30,Montana,18
+2022-04-16,37,North Carolina,53
+2022-04-16,38,North Dakota,7
+2022-04-16,31,Nebraska,25
+2022-04-16,33,New Hampshire,19
+2022-04-16,34,New Jersey,130
+2022-04-16,35,New Mexico,28
+2022-04-16,32,Nevada,75
+2022-04-16,36,New York,246
+2022-04-16,39,Ohio,123
+2022-04-16,40,Oklahoma,107
+2022-04-16,41,Oregon,15
+2022-04-16,42,Pennsylvania,206
+2022-04-16,72,Puerto Rico,77
+2022-04-16,44,Rhode Island,10
+2022-04-16,45,South Carolina,31
+2022-04-16,46,South Dakota,4
+2022-04-16,47,Tennessee,45
+2022-04-16,48,Texas,351
+2022-04-16,US,US,3413
+2022-04-16,49,Utah,17
+2022-04-16,51,Virginia,56
+2022-04-16,78,Virgin Islands,0
+2022-04-16,50,Vermont,8
+2022-04-16,53,Washington,37
+2022-04-16,55,Wisconsin,69
+2022-04-16,54,West Virginia,49
+2022-04-16,56,Wyoming,8
+2022-04-23,02,Alaska,1
+2022-04-23,01,Alabama,28
+2022-04-23,05,Arkansas,38
+2022-04-23,04,Arizona,143
+2022-04-23,06,California,165
+2022-04-23,08,Colorado,205
+2022-04-23,09,Connecticut,58
+2022-04-23,11,District of Columbia,1
+2022-04-23,10,Delaware,17
+2022-04-23,12,Florida,179
+2022-04-23,13,Georgia,52
+2022-04-23,15,Hawaii,6
+2022-04-23,19,Iowa,26
+2022-04-23,16,Idaho,15
+2022-04-23,17,Illinois,116
+2022-04-23,18,Indiana,62
+2022-04-23,20,Kansas,22
+2022-04-23,21,Kentucky,82
+2022-04-23,22,Louisiana,39
+2022-04-23,25,Massachusetts,193
+2022-04-23,24,Maryland,40
+2022-04-23,23,Maine,25
+2022-04-23,26,Michigan,135
+2022-04-23,27,Minnesota,31
+2022-04-23,29,Missouri,58
+2022-04-23,28,Mississippi,19
+2022-04-23,30,Montana,18
+2022-04-23,37,North Carolina,49
+2022-04-23,38,North Dakota,7
+2022-04-23,31,Nebraska,16
+2022-04-23,33,New Hampshire,33
+2022-04-23,34,New Jersey,132
+2022-04-23,35,New Mexico,45
+2022-04-23,32,Nevada,100
+2022-04-23,36,New York,305
+2022-04-23,39,Ohio,131
+2022-04-23,40,Oklahoma,67
+2022-04-23,41,Oregon,34
+2022-04-23,42,Pennsylvania,215
+2022-04-23,72,Puerto Rico,130
+2022-04-23,44,Rhode Island,10
+2022-04-23,45,South Carolina,50
+2022-04-23,46,South Dakota,5
+2022-04-23,47,Tennessee,58
+2022-04-23,48,Texas,381
+2022-04-23,US,US,3735
+2022-04-23,49,Utah,10
+2022-04-23,51,Virginia,48
+2022-04-23,78,Virgin Islands,0
+2022-04-23,50,Vermont,9
+2022-04-23,53,Washington,26
+2022-04-23,55,Wisconsin,56
+2022-04-23,54,West Virginia,43
+2022-04-23,56,Wyoming,1
