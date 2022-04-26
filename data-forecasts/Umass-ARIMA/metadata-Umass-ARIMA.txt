@@ -1,6 +1,6 @@
-team_name: UMass-Amherst
+team_name: Umass-Amherst
 model_name: ARIMA 
-model_abbr: UMass-ARIMA
+model_abbr: Umass-ARIMA
 model_contributors: Martha Zorn, Ariane Stark, Nick Reich <nick@umass.edu>, Evan Ray <elray@umass.edu>
 website_url: https://github.com/reichlab/flu-hosp-models-2021-2022
 license: cc-by-4.0
