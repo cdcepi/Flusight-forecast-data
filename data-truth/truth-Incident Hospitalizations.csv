@@ -6037,7 +6037,7 @@ date,location,location_name,value
 2022-04-23,23,Maine,28
 2022-04-23,26,Michigan,138
 2022-04-23,27,Minnesota,36
-2022-04-23,29,Missouri,60
+2022-04-23,29,Missouri,70
 2022-04-23,28,Mississippi,20
 2022-04-23,30,Montana,19
 2022-04-23,37,North Carolina,55
@@ -6049,7 +6049,7 @@ date,location,location_name,value
 2022-04-23,32,Nevada,76
 2022-04-23,36,New York,299
 2022-04-23,39,Ohio,136
-2022-04-23,40,Oklahoma,74
+2022-04-23,40,Oklahoma,76
 2022-04-23,41,Oregon,27
 2022-04-23,42,Pennsylvania,211
 2022-04-23,72,Puerto Rico,118
@@ -6058,9 +6058,9 @@ date,location,location_name,value
 2022-04-23,46,South Dakota,7
 2022-04-23,47,Tennessee,40
 2022-04-23,48,Texas,337
-2022-04-23,US,US,3602
+2022-04-23,US,US,3615
 2022-04-23,49,Utah,8
-2022-04-23,51,Virginia,50
+2022-04-23,51,Virginia,51
 2022-04-23,78,Virgin Islands,0
 2022-04-23,50,Vermont,8
 2022-04-23,53,Washington,33
