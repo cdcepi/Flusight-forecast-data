@@ -2,7 +2,7 @@ team_name: University of Georgia Center for the Ecology of Infectious Diseases F
 model_name: Walk
 model_abbr: CEID-Walk
 model_contributors: Avranil Basu (CEID) <avranil.basu@uga.edu>
-website_url: https://github.com/avranil26/random-walk-flu-challenge
+website_url: https://www.ceid.uga.edu/
 license: cc-by-4.0
 team_model_designation: primary
 ensemble_of_hub_models: false
