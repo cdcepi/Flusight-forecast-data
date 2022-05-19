@@ -5547,7 +5547,7 @@ date,location,location_name,value
 2022-02-19,21,Kentucky,20
 2022-02-19,22,Louisiana,40
 2022-02-19,25,Massachusetts,54
-2022-02-19,24,Maryland,15
+2022-02-19,24,Maryland,12
 2022-02-19,23,Maine,4
 2022-02-19,26,Michigan,52
 2022-02-19,27,Minnesota,28
@@ -5572,7 +5572,7 @@ date,location,location_name,value
 2022-02-19,46,South Dakota,14
 2022-02-19,47,Tennessee,29
 2022-02-19,48,Texas,284
-2022-02-19,US,US,1574
+2022-02-19,US,US,1571
 2022-02-19,49,Utah,6
 2022-02-19,51,Virginia,37
 2022-02-19,78,Virgin Islands,0
@@ -6122,7 +6122,7 @@ date,location,location_name,value
 2022-04-30,54,West Virginia,38
 2022-04-30,56,Wyoming,5
 2022-05-07,02,Alaska,4
-2022-05-07,01,Alabama,26
+2022-05-07,01,Alabama,25
 2022-05-07,05,Arkansas,23
 2022-05-07,04,Arizona,176
 2022-05-07,06,California,202
@@ -6143,7 +6143,7 @@ date,location,location_name,value
 2022-05-07,25,Massachusetts,184
 2022-05-07,24,Maryland,46
 2022-05-07,23,Maine,10
-2022-05-07,26,Michigan,176
+2022-05-07,26,Michigan,174
 2022-05-07,27,Minnesota,30
 2022-05-07,29,Missouri,68
 2022-05-07,28,Mississippi,21
@@ -6166,7 +6166,7 @@ date,location,location_name,value
 2022-05-07,46,South Dakota,4
 2022-05-07,47,Tennessee,23
 2022-05-07,48,Texas,165
-2022-05-07,US,US,3229
+2022-05-07,US,US,3226
 2022-05-07,49,Utah,17
 2022-05-07,51,Virginia,47
 2022-05-07,78,Virgin Islands,0
@@ -6177,25 +6177,25 @@ date,location,location_name,value
 2022-05-07,56,Wyoming,6
 2022-05-14,02,Alaska,5
 2022-05-14,01,Alabama,15
-2022-05-14,05,Arkansas,30
+2022-05-14,05,Arkansas,22
 2022-05-14,04,Arizona,212
 2022-05-14,06,California,308
-2022-05-14,08,Colorado,172
+2022-05-14,08,Colorado,171
 2022-05-14,09,Connecticut,79
 2022-05-14,11,District of Columbia,5
 2022-05-14,10,Delaware,4
-2022-05-14,12,Florida,305
+2022-05-14,12,Florida,306
 2022-05-14,13,Georgia,43
 2022-05-14,15,Hawaii,4
 2022-05-14,19,Iowa,17
 2022-05-14,16,Idaho,16
 2022-05-14,17,Illinois,128
-2022-05-14,18,Indiana,41
-2022-05-14,20,Kansas,9
-2022-05-14,21,Kentucky,39
+2022-05-14,18,Indiana,42
+2022-05-14,20,Kansas,10
+2022-05-14,21,Kentucky,40
 2022-05-14,22,Louisiana,20
 2022-05-14,25,Massachusetts,172
-2022-05-14,24,Maryland,66
+2022-05-14,24,Maryland,64
 2022-05-14,23,Maine,41
 2022-05-14,26,Michigan,184
 2022-05-14,27,Minnesota,15
@@ -6208,24 +6208,24 @@ date,location,location_name,value
 2022-05-14,33,New Hampshire,15
 2022-05-14,34,New Jersey,108
 2022-05-14,35,New Mexico,34
-2022-05-14,32,Nevada,88
-2022-05-14,36,New York,190
+2022-05-14,32,Nevada,82
+2022-05-14,36,New York,197
 2022-05-14,39,Ohio,82
 2022-05-14,40,Oklahoma,51
 2022-05-14,41,Oregon,30
 2022-05-14,42,Pennsylvania,186
-2022-05-14,72,Puerto Rico,34
+2022-05-14,72,Puerto Rico,36
 2022-05-14,44,Rhode Island,10
 2022-05-14,45,South Carolina,36
-2022-05-14,46,South Dakota,19
-2022-05-14,47,Tennessee,34
+2022-05-14,46,South Dakota,10
+2022-05-14,47,Tennessee,33
 2022-05-14,48,Texas,156
-2022-05-14,US,US,3317
+2022-05-14,US,US,3299
 2022-05-14,49,Utah,11
 2022-05-14,51,Virginia,47
 2022-05-14,78,Virgin Islands,0
 2022-05-14,50,Vermont,3
-2022-05-14,53,Washington,58
+2022-05-14,53,Washington,54
 2022-05-14,55,Wisconsin,37
 2022-05-14,54,West Virginia,23
 2022-05-14,56,Wyoming,4
