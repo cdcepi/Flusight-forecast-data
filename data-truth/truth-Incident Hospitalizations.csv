@@ -1966,7 +1966,7 @@ date,location,location_name,value
 2020-11-14,02,Alaska,0
 2020-11-14,01,Alabama,23
 2020-11-14,05,Arkansas,7
-2020-11-14,04,Arizona,26
+2020-11-14,04,Arizona,25
 2020-11-14,06,California,44
 2020-11-14,08,Colorado,3
 2020-11-14,09,Connecticut,0
@@ -2008,7 +2008,7 @@ date,location,location_name,value
 2020-11-14,46,South Dakota,2
 2020-11-14,47,Tennessee,36
 2020-11-14,48,Texas,145
-2020-11-14,US,US,586
+2020-11-14,US,US,585
 2020-11-14,49,Utah,1
 2020-11-14,51,Virginia,25
 2020-11-14,78,Virgin Islands,4
@@ -6234,12 +6234,12 @@ date,location,location_name,value
 2022-05-21,05,Arkansas,16
 2022-05-21,04,Arizona,237
 2022-05-21,06,California,386
-2022-05-21,08,Colorado,110
+2022-05-21,08,Colorado,113
 2022-05-21,09,Connecticut,63
 2022-05-21,11,District of Columbia,4
 2022-05-21,10,Delaware,4
-2022-05-21,12,Florida,404
-2022-05-21,13,Georgia,52
+2022-05-21,12,Florida,406
+2022-05-21,13,Georgia,53
 2022-05-21,15,Hawaii,10
 2022-05-21,19,Iowa,10
 2022-05-21,16,Idaho,13
@@ -6249,11 +6249,11 @@ date,location,location_name,value
 2022-05-21,21,Kentucky,45
 2022-05-21,22,Louisiana,17
 2022-05-21,25,Massachusetts,145
-2022-05-21,24,Maryland,42
+2022-05-21,24,Maryland,46
 2022-05-21,23,Maine,30
 2022-05-21,26,Michigan,132
 2022-05-21,27,Minnesota,12
-2022-05-21,29,Missouri,35
+2022-05-21,29,Missouri,36
 2022-05-21,28,Mississippi,27
 2022-05-21,30,Montana,7
 2022-05-21,37,North Carolina,54
@@ -6267,19 +6267,19 @@ date,location,location_name,value
 2022-05-21,39,Ohio,60
 2022-05-21,40,Oklahoma,35
 2022-05-21,41,Oregon,38
-2022-05-21,42,Pennsylvania,150
+2022-05-21,42,Pennsylvania,151
 2022-05-21,72,Puerto Rico,24
 2022-05-21,44,Rhode Island,5
 2022-05-21,45,South Carolina,44
 2022-05-21,46,South Dakota,6
 2022-05-21,47,Tennessee,21
 2022-05-21,48,Texas,149
-2022-05-21,US,US,3166
+2022-05-21,US,US,3182
 2022-05-21,49,Utah,7
-2022-05-21,51,Virginia,43
+2022-05-21,51,Virginia,42
 2022-05-21,78,Virgin Islands,0
 2022-05-21,50,Vermont,0
-2022-05-21,53,Washington,65
+2022-05-21,53,Washington,70
 2022-05-21,55,Wisconsin,28
 2022-05-21,54,West Virginia,14
 2022-05-21,56,Wyoming,4
