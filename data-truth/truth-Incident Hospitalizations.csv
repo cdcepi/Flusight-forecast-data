@@ -5547,7 +5547,7 @@ date,location,location_name,value
 2022-02-19,21,Kentucky,20
 2022-02-19,22,Louisiana,40
 2022-02-19,25,Massachusetts,54
-2022-02-19,24,Maryland,14
+2022-02-19,24,Maryland,12
 2022-02-19,23,Maine,4
 2022-02-19,26,Michigan,52
 2022-02-19,27,Minnesota,28
@@ -5572,7 +5572,7 @@ date,location,location_name,value
 2022-02-19,46,South Dakota,14
 2022-02-19,47,Tennessee,29
 2022-02-19,48,Texas,284
-2022-02-19,US,US,1573
+2022-02-19,US,US,1571
 2022-02-19,49,Utah,6
 2022-02-19,51,Virginia,37
 2022-02-19,78,Virgin Islands,0
@@ -6337,3 +6337,57 @@ date,location,location_name,value
 2022-05-28,55,Wisconsin,24
 2022-05-28,54,West Virginia,8
 2022-05-28,56,Wyoming,6
+2022-06-04,02,Alaska,0
+2022-06-04,01,Alabama,19
+2022-06-04,05,Arkansas,21
+2022-06-04,04,Arizona,221
+2022-06-04,06,California,448
+2022-06-04,08,Colorado,70
+2022-06-04,09,Connecticut,23
+2022-06-04,11,District of Columbia,5
+2022-06-04,10,Delaware,9
+2022-06-04,12,Florida,707
+2022-06-04,13,Georgia,65
+2022-06-04,15,Hawaii,7
+2022-06-04,19,Iowa,6
+2022-06-04,16,Idaho,8
+2022-06-04,17,Illinois,40
+2022-06-04,18,Indiana,25
+2022-06-04,20,Kansas,5
+2022-06-04,21,Kentucky,30
+2022-06-04,22,Louisiana,12
+2022-06-04,25,Massachusetts,50
+2022-06-04,24,Maryland,17
+2022-06-04,23,Maine,11
+2022-06-04,26,Michigan,65
+2022-06-04,27,Minnesota,4
+2022-06-04,29,Missouri,39
+2022-06-04,28,Mississippi,25
+2022-06-04,30,Montana,26
+2022-06-04,37,North Carolina,31
+2022-06-04,38,North Dakota,3
+2022-06-04,31,Nebraska,6
+2022-06-04,33,New Hampshire,8
+2022-06-04,34,New Jersey,51
+2022-06-04,35,New Mexico,57
+2022-06-04,32,Nevada,63
+2022-06-04,36,New York,122
+2022-06-04,39,Ohio,44
+2022-06-04,40,Oklahoma,34
+2022-06-04,41,Oregon,15
+2022-06-04,42,Pennsylvania,60
+2022-06-04,72,Puerto Rico,33
+2022-06-04,44,Rhode Island,11
+2022-06-04,45,South Carolina,36
+2022-06-04,46,South Dakota,3
+2022-06-04,47,Tennessee,24
+2022-06-04,48,Texas,119
+2022-06-04,US,US,2822
+2022-06-04,49,Utah,7
+2022-06-04,51,Virginia,40
+2022-06-04,78,Virgin Islands,0
+2022-06-04,50,Vermont,0
+2022-06-04,53,Washington,65
+2022-06-04,55,Wisconsin,15
+2022-06-04,54,West Virginia,7
+2022-06-04,56,Wyoming,10
