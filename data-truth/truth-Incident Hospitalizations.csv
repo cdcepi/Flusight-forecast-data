@@ -5547,7 +5547,7 @@ date,location,location_name,value
 2022-02-19,21,Kentucky,20
 2022-02-19,22,Louisiana,40
 2022-02-19,25,Massachusetts,54
-2022-02-19,24,Maryland,14
+2022-02-19,24,Maryland,15
 2022-02-19,23,Maine,4
 2022-02-19,26,Michigan,52
 2022-02-19,27,Minnesota,28
@@ -5572,7 +5572,7 @@ date,location,location_name,value
 2022-02-19,46,South Dakota,14
 2022-02-19,47,Tennessee,29
 2022-02-19,48,Texas,284
-2022-02-19,US,US,1573
+2022-02-19,US,US,1574
 2022-02-19,49,Utah,6
 2022-02-19,51,Virginia,37
 2022-02-19,78,Virgin Islands,0
@@ -6446,56 +6446,56 @@ date,location,location_name,value
 2022-06-11,54,West Virginia,15
 2022-06-11,56,Wyoming,6
 2022-06-18,02,Alaska,1
-2022-06-18,01,Alabama,17
+2022-06-18,01,Alabama,18
 2022-06-18,05,Arkansas,14
-2022-06-18,04,Arizona,58
-2022-06-18,06,California,318
+2022-06-18,04,Arizona,60
+2022-06-18,06,California,317
 2022-06-18,08,Colorado,32
-2022-06-18,09,Connecticut,15
+2022-06-18,09,Connecticut,14
 2022-06-18,11,District of Columbia,2
 2022-06-18,10,Delaware,2
-2022-06-18,12,Florida,459
-2022-06-18,13,Georgia,36
+2022-06-18,12,Florida,462
+2022-06-18,13,Georgia,37
 2022-06-18,15,Hawaii,4
 2022-06-18,19,Iowa,9
 2022-06-18,16,Idaho,6
-2022-06-18,17,Illinois,25
+2022-06-18,17,Illinois,24
 2022-06-18,18,Indiana,21
-2022-06-18,20,Kansas,1
+2022-06-18,20,Kansas,2
 2022-06-18,21,Kentucky,8
 2022-06-18,22,Louisiana,14
-2022-06-18,25,Massachusetts,13
+2022-06-18,25,Massachusetts,14
 2022-06-18,24,Maryland,22
 2022-06-18,23,Maine,4
 2022-06-18,26,Michigan,22
 2022-06-18,27,Minnesota,10
 2022-06-18,29,Missouri,25
-2022-06-18,28,Mississippi,18
+2022-06-18,28,Mississippi,19
 2022-06-18,30,Montana,1
 2022-06-18,37,North Carolina,65
 2022-06-18,38,North Dakota,0
-2022-06-18,31,Nebraska,4
-2022-06-18,33,New Hampshire,3
-2022-06-18,34,New Jersey,48
-2022-06-18,35,New Mexico,18
+2022-06-18,31,Nebraska,3
+2022-06-18,33,New Hampshire,2
+2022-06-18,34,New Jersey,46
+2022-06-18,35,New Mexico,16
 2022-06-18,32,Nevada,55
-2022-06-18,36,New York,81
-2022-06-18,39,Ohio,27
-2022-06-18,40,Oklahoma,27
-2022-06-18,41,Oregon,14
-2022-06-18,42,Pennsylvania,40
+2022-06-18,36,New York,84
+2022-06-18,39,Ohio,29
+2022-06-18,40,Oklahoma,26
+2022-06-18,41,Oregon,13
+2022-06-18,42,Pennsylvania,42
 2022-06-18,72,Puerto Rico,33
 2022-06-18,44,Rhode Island,1
-2022-06-18,45,South Carolina,29
+2022-06-18,45,South Carolina,30
 2022-06-18,46,South Dakota,2
-2022-06-18,47,Tennessee,32
-2022-06-18,48,Texas,135
-2022-06-18,US,US,1888
-2022-06-18,49,Utah,3
-2022-06-18,51,Virginia,36
+2022-06-18,47,Tennessee,29
+2022-06-18,48,Texas,140
+2022-06-18,US,US,1903
+2022-06-18,49,Utah,2
+2022-06-18,51,Virginia,37
 2022-06-18,78,Virgin Islands,0
 2022-06-18,50,Vermont,2
-2022-06-18,53,Washington,55
+2022-06-18,53,Washington,61
 2022-06-18,55,Wisconsin,10
 2022-06-18,54,West Virginia,8
 2022-06-18,56,Wyoming,3
