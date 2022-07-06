@@ -1966,7 +1966,7 @@ date,location,location_name,value
 2020-11-14,02,Alaska,0
 2020-11-14,01,Alabama,23
 2020-11-14,05,Arkansas,7
-2020-11-14,04,Arizona,25
+2020-11-14,04,Arizona,26
 2020-11-14,06,California,44
 2020-11-14,08,Colorado,3
 2020-11-14,09,Connecticut,0
@@ -2008,7 +2008,7 @@ date,location,location_name,value
 2020-11-14,46,South Dakota,2
 2020-11-14,47,Tennessee,36
 2020-11-14,48,Texas,145
-2020-11-14,US,US,585
+2020-11-14,US,US,586
 2020-11-14,49,Utah,1
 2020-11-14,51,Virginia,25
 2020-11-14,78,Virgin Islands,4
@@ -5547,7 +5547,7 @@ date,location,location_name,value
 2022-02-19,21,Kentucky,20
 2022-02-19,22,Louisiana,40
 2022-02-19,25,Massachusetts,54
-2022-02-19,24,Maryland,13
+2022-02-19,24,Maryland,15
 2022-02-19,23,Maine,4
 2022-02-19,26,Michigan,52
 2022-02-19,27,Minnesota,28
@@ -5572,7 +5572,7 @@ date,location,location_name,value
 2022-02-19,46,South Dakota,14
 2022-02-19,47,Tennessee,29
 2022-02-19,48,Texas,284
-2022-02-19,US,US,1572
+2022-02-19,US,US,1574
 2022-02-19,49,Utah,6
 2022-02-19,51,Virginia,37
 2022-02-19,78,Virgin Islands,0
@@ -6556,13 +6556,13 @@ date,location,location_name,value
 2022-07-02,02,Alaska,2
 2022-07-02,01,Alabama,11
 2022-07-02,05,Arkansas,10
-2022-07-02,04,Arizona,16
+2022-07-02,04,Arizona,17
 2022-07-02,06,California,213
 2022-07-02,08,Colorado,14
 2022-07-02,09,Connecticut,8
 2022-07-02,11,District of Columbia,1
 2022-07-02,10,Delaware,0
-2022-07-02,12,Florida,214
+2022-07-02,12,Florida,206
 2022-07-02,13,Georgia,31
 2022-07-02,15,Hawaii,4
 2022-07-02,19,Iowa,6
@@ -6572,20 +6572,20 @@ date,location,location_name,value
 2022-07-02,20,Kansas,3
 2022-07-02,21,Kentucky,4
 2022-07-02,22,Louisiana,4
-2022-07-02,25,Massachusetts,10
+2022-07-02,25,Massachusetts,8
 2022-07-02,24,Maryland,11
 2022-07-02,23,Maine,3
 2022-07-02,26,Michigan,10
 2022-07-02,27,Minnesota,1
 2022-07-02,29,Missouri,13
-2022-07-02,28,Mississippi,16
+2022-07-02,28,Mississippi,19
 2022-07-02,30,Montana,4
 2022-07-02,37,North Carolina,57
 2022-07-02,38,North Dakota,0
 2022-07-02,31,Nebraska,8
 2022-07-02,33,New Hampshire,3
 2022-07-02,34,New Jersey,17
-2022-07-02,35,New Mexico,14
+2022-07-02,35,New Mexico,13
 2022-07-02,32,Nevada,21
 2022-07-02,36,New York,42
 2022-07-02,39,Ohio,18
@@ -6598,12 +6598,12 @@ date,location,location_name,value
 2022-07-02,46,South Dakota,1
 2022-07-02,47,Tennessee,36
 2022-07-02,48,Texas,100
-2022-07-02,US,US,1185
+2022-07-02,US,US,1181
 2022-07-02,49,Utah,5
 2022-07-02,51,Virginia,43
 2022-07-02,78,Virgin Islands,0
 2022-07-02,50,Vermont,4
-2022-07-02,53,Washington,52
+2022-07-02,53,Washington,55
 2022-07-02,55,Wisconsin,8
 2022-07-02,54,West Virginia,4
 2022-07-02,56,Wyoming,1
