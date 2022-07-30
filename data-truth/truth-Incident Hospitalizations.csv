@@ -1879,7 +1879,7 @@ date,location,location_name,value
 2020-10-31,23,Maine,0
 2020-10-31,26,Michigan,9
 2020-10-31,27,Minnesota,0
-2020-10-31,29,Missouri,1
+2020-10-31,29,Missouri,0
 2020-10-31,28,Mississippi,7
 2020-10-31,30,Montana,1
 2020-10-31,37,North Carolina,9
@@ -1900,7 +1900,7 @@ date,location,location_name,value
 2020-10-31,46,South Dakota,0
 2020-10-31,47,Tennessee,21
 2020-10-31,48,Texas,110
-2020-10-31,US,US,428
+2020-10-31,US,US,427
 2020-10-31,49,Utah,2
 2020-10-31,51,Virginia,25
 2020-10-31,78,Virgin Islands,0
@@ -5547,7 +5547,7 @@ date,location,location_name,value
 2022-02-19,21,Kentucky,20
 2022-02-19,22,Louisiana,40
 2022-02-19,25,Massachusetts,54
-2022-02-19,24,Maryland,15
+2022-02-19,24,Maryland,14
 2022-02-19,23,Maine,4
 2022-02-19,26,Michigan,52
 2022-02-19,27,Minnesota,28
@@ -5572,7 +5572,7 @@ date,location,location_name,value
 2022-02-19,46,South Dakota,14
 2022-02-19,47,Tennessee,29
 2022-02-19,48,Texas,284
-2022-02-19,US,US,1574
+2022-02-19,US,US,1573
 2022-02-19,49,Utah,6
 2022-02-19,51,Virginia,37
 2022-02-19,78,Virgin Islands,0
@@ -6760,9 +6760,9 @@ date,location,location_name,value
 2022-07-23,46,South Dakota,8
 2022-07-23,47,Tennessee,15
 2022-07-23,48,Texas,99
-2022-07-23,US,US,702
+2022-07-23,US,US,701
 2022-07-23,49,Utah,0
-2022-07-23,51,Virginia,41
+2022-07-23,51,Virginia,40
 2022-07-23,78,Virgin Islands,0
 2022-07-23,50,Vermont,0
 2022-07-23,53,Washington,23
