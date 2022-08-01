@@ -5547,7 +5547,7 @@ date,location,location_name,value
 2022-02-19,21,Kentucky,20
 2022-02-19,22,Louisiana,40
 2022-02-19,25,Massachusetts,54
-2022-02-19,24,Maryland,12
+2022-02-19,24,Maryland,15
 2022-02-19,23,Maine,4
 2022-02-19,26,Michigan,52
 2022-02-19,27,Minnesota,28
@@ -5572,7 +5572,7 @@ date,location,location_name,value
 2022-02-19,46,South Dakota,14
 2022-02-19,47,Tennessee,29
 2022-02-19,48,Texas,284
-2022-02-19,US,US,1571
+2022-02-19,US,US,1574
 2022-02-19,49,Utah,6
 2022-02-19,51,Virginia,37
 2022-02-19,78,Virgin Islands,0
@@ -6769,3 +6769,57 @@ date,location,location_name,value
 2022-07-23,55,Wisconsin,0
 2022-07-23,54,West Virginia,4
 2022-07-23,56,Wyoming,0
+2022-07-30,02,Alaska,0
+2022-07-30,01,Alabama,21
+2022-07-30,05,Arkansas,6
+2022-07-30,04,Arizona,26
+2022-07-30,06,California,50
+2022-07-30,08,Colorado,9
+2022-07-30,09,Connecticut,2
+2022-07-30,11,District of Columbia,0
+2022-07-30,10,Delaware,3
+2022-07-30,12,Florida,84
+2022-07-30,13,Georgia,33
+2022-07-30,15,Hawaii,2
+2022-07-30,19,Iowa,0
+2022-07-30,16,Idaho,1
+2022-07-30,17,Illinois,11
+2022-07-30,18,Indiana,16
+2022-07-30,20,Kansas,7
+2022-07-30,21,Kentucky,7
+2022-07-30,22,Louisiana,1
+2022-07-30,25,Massachusetts,2
+2022-07-30,24,Maryland,8
+2022-07-30,23,Maine,0
+2022-07-30,26,Michigan,4
+2022-07-30,27,Minnesota,5
+2022-07-30,29,Missouri,14
+2022-07-30,28,Mississippi,15
+2022-07-30,30,Montana,0
+2022-07-30,37,North Carolina,7
+2022-07-30,38,North Dakota,0
+2022-07-30,31,Nebraska,6
+2022-07-30,33,New Hampshire,2
+2022-07-30,34,New Jersey,9
+2022-07-30,35,New Mexico,4
+2022-07-30,32,Nevada,6
+2022-07-30,36,New York,14
+2022-07-30,39,Ohio,6
+2022-07-30,40,Oklahoma,8
+2022-07-30,41,Oregon,1
+2022-07-30,42,Pennsylvania,26
+2022-07-30,72,Puerto Rico,13
+2022-07-30,44,Rhode Island,0
+2022-07-30,45,South Carolina,26
+2022-07-30,46,South Dakota,11
+2022-07-30,47,Tennessee,18
+2022-07-30,48,Texas,87
+2022-07-30,US,US,630
+2022-07-30,49,Utah,1
+2022-07-30,51,Virginia,33
+2022-07-30,78,Virgin Islands,0
+2022-07-30,50,Vermont,0
+2022-07-30,53,Washington,15
+2022-07-30,55,Wisconsin,6
+2022-07-30,54,West Virginia,1
+2022-07-30,56,Wyoming,2
