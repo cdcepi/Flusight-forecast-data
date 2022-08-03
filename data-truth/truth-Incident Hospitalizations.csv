@@ -6753,14 +6753,14 @@ date,location,location_name,value
 2022-07-23,39,Ohio,12
 2022-07-23,40,Oklahoma,6
 2022-07-23,41,Oregon,1
-2022-07-23,42,Pennsylvania,38
+2022-07-23,42,Pennsylvania,37
 2022-07-23,72,Puerto Rico,17
 2022-07-23,44,Rhode Island,0
 2022-07-23,45,South Carolina,17
 2022-07-23,46,South Dakota,8
 2022-07-23,47,Tennessee,15
 2022-07-23,48,Texas,99
-2022-07-23,US,US,701
+2022-07-23,US,US,700
 2022-07-23,49,Utah,0
 2022-07-23,51,Virginia,40
 2022-07-23,78,Virgin Islands,0
@@ -6773,53 +6773,53 @@ date,location,location_name,value
 2022-07-30,01,Alabama,19
 2022-07-30,05,Arkansas,5
 2022-07-30,04,Arizona,23
-2022-07-30,06,California,50
+2022-07-30,06,California,45
 2022-07-30,08,Colorado,9
-2022-07-30,09,Connecticut,2
+2022-07-30,09,Connecticut,4
 2022-07-30,11,District of Columbia,0
 2022-07-30,10,Delaware,2
-2022-07-30,12,Florida,80
+2022-07-30,12,Florida,81
 2022-07-30,13,Georgia,33
 2022-07-30,15,Hawaii,2
 2022-07-30,19,Iowa,0
 2022-07-30,16,Idaho,1
-2022-07-30,17,Illinois,11
-2022-07-30,18,Indiana,16
-2022-07-30,20,Kansas,6
+2022-07-30,17,Illinois,12
+2022-07-30,18,Indiana,17
+2022-07-30,20,Kansas,5
 2022-07-30,21,Kentucky,7
 2022-07-30,22,Louisiana,2
-2022-07-30,25,Massachusetts,4
+2022-07-30,25,Massachusetts,5
 2022-07-30,24,Maryland,9
 2022-07-30,23,Maine,0
 2022-07-30,26,Michigan,4
-2022-07-30,27,Minnesota,5
-2022-07-30,29,Missouri,13
-2022-07-30,28,Mississippi,15
+2022-07-30,27,Minnesota,3
+2022-07-30,29,Missouri,14
+2022-07-30,28,Mississippi,16
 2022-07-30,30,Montana,0
-2022-07-30,37,North Carolina,6
+2022-07-30,37,North Carolina,8
 2022-07-30,38,North Dakota,0
-2022-07-30,31,Nebraska,5
+2022-07-30,31,Nebraska,4
 2022-07-30,33,New Hampshire,2
 2022-07-30,34,New Jersey,10
 2022-07-30,35,New Mexico,3
-2022-07-30,32,Nevada,6
-2022-07-30,36,New York,13
-2022-07-30,39,Ohio,6
-2022-07-30,40,Oklahoma,8
-2022-07-30,41,Oregon,1
+2022-07-30,32,Nevada,5
+2022-07-30,36,New York,15
+2022-07-30,39,Ohio,7
+2022-07-30,40,Oklahoma,6
+2022-07-30,41,Oregon,2
 2022-07-30,42,Pennsylvania,28
-2022-07-30,72,Puerto Rico,13
+2022-07-30,72,Puerto Rico,15
 2022-07-30,44,Rhode Island,0
-2022-07-30,45,South Carolina,24
-2022-07-30,46,South Dakota,11
-2022-07-30,47,Tennessee,18
+2022-07-30,45,South Carolina,19
+2022-07-30,46,South Dakota,9
+2022-07-30,47,Tennessee,20
 2022-07-30,48,Texas,87
-2022-07-30,US,US,627
+2022-07-30,US,US,622
 2022-07-30,49,Utah,1
-2022-07-30,51,Virginia,42
+2022-07-30,51,Virginia,39
 2022-07-30,78,Virgin Islands,0
 2022-07-30,50,Vermont,0
-2022-07-30,53,Washington,15
-2022-07-30,55,Wisconsin,6
+2022-07-30,53,Washington,13
+2022-07-30,55,Wisconsin,7
 2022-07-30,54,West Virginia,1
 2022-07-30,56,Wyoming,2
