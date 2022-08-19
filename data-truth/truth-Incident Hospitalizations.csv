@@ -5547,7 +5547,7 @@ date,location,location_name,value
 2022-02-19,21,Kentucky,20
 2022-02-19,22,Louisiana,40
 2022-02-19,25,Massachusetts,54
-2022-02-19,24,Maryland,14
+2022-02-19,24,Maryland,15
 2022-02-19,23,Maine,4
 2022-02-19,26,Michigan,52
 2022-02-19,27,Minnesota,28
@@ -5572,7 +5572,7 @@ date,location,location_name,value
 2022-02-19,46,South Dakota,14
 2022-02-19,47,Tennessee,29
 2022-02-19,48,Texas,284
-2022-02-19,US,US,1573
+2022-02-19,US,US,1574
 2022-02-19,49,Utah,6
 2022-02-19,51,Virginia,37
 2022-02-19,78,Virgin Islands,0
@@ -6886,7 +6886,7 @@ date,location,location_name,value
 2022-08-13,09,Connecticut,0
 2022-08-13,11,District of Columbia,0
 2022-08-13,10,Delaware,1
-2022-08-13,12,Florida,88
+2022-08-13,12,Florida,89
 2022-08-13,13,Georgia,13
 2022-08-13,15,Hawaii,2
 2022-08-13,19,Iowa,2
@@ -6897,7 +6897,7 @@ date,location,location_name,value
 2022-08-13,21,Kentucky,6
 2022-08-13,22,Louisiana,7
 2022-08-13,25,Massachusetts,9
-2022-08-13,24,Maryland,4
+2022-08-13,24,Maryland,5
 2022-08-13,23,Maine,2
 2022-08-13,26,Michigan,5
 2022-08-13,27,Minnesota,5
@@ -6913,21 +6913,21 @@ date,location,location_name,value
 2022-08-13,32,Nevada,1
 2022-08-13,36,New York,10
 2022-08-13,39,Ohio,1
-2022-08-13,40,Oklahoma,8
+2022-08-13,40,Oklahoma,9
 2022-08-13,41,Oregon,2
-2022-08-13,42,Pennsylvania,26
+2022-08-13,42,Pennsylvania,30
 2022-08-13,72,Puerto Rico,22
 2022-08-13,44,Rhode Island,0
 2022-08-13,45,South Carolina,13
 2022-08-13,46,South Dakota,7
 2022-08-13,47,Tennessee,18
 2022-08-13,48,Texas,92
-2022-08-13,US,US,559
+2022-08-13,US,US,565
 2022-08-13,49,Utah,2
 2022-08-13,51,Virginia,35
 2022-08-13,78,Virgin Islands,0
 2022-08-13,50,Vermont,0
-2022-08-13,53,Washington,14
+2022-08-13,53,Washington,13
 2022-08-13,55,Wisconsin,1
 2022-08-13,54,West Virginia,1
 2022-08-13,56,Wyoming,0
