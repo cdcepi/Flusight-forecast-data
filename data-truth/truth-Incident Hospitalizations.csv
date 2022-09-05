@@ -1966,7 +1966,7 @@ date,location,location_name,value
 2020-11-14,02,Alaska,0
 2020-11-14,01,Alabama,23
 2020-11-14,05,Arkansas,7
-2020-11-14,04,Arizona,26
+2020-11-14,04,Arizona,25
 2020-11-14,06,California,44
 2020-11-14,08,Colorado,3
 2020-11-14,09,Connecticut,0
@@ -2008,7 +2008,7 @@ date,location,location_name,value
 2020-11-14,46,South Dakota,2
 2020-11-14,47,Tennessee,36
 2020-11-14,48,Texas,145
-2020-11-14,US,US,586
+2020-11-14,US,US,585
 2020-11-14,49,Utah,1
 2020-11-14,51,Virginia,25
 2020-11-14,78,Virgin Islands,4
@@ -5547,7 +5547,7 @@ date,location,location_name,value
 2022-02-19,21,Kentucky,20
 2022-02-19,22,Louisiana,40
 2022-02-19,25,Massachusetts,54
-2022-02-19,24,Maryland,14
+2022-02-19,24,Maryland,15
 2022-02-19,23,Maine,4
 2022-02-19,26,Michigan,52
 2022-02-19,27,Minnesota,28
@@ -5572,7 +5572,7 @@ date,location,location_name,value
 2022-02-19,46,South Dakota,14
 2022-02-19,47,Tennessee,29
 2022-02-19,48,Texas,284
-2022-02-19,US,US,1573
+2022-02-19,US,US,1574
 2022-02-19,49,Utah,6
 2022-02-19,51,Virginia,37
 2022-02-19,78,Virgin Islands,0
@@ -7039,3 +7039,57 @@ date,location,location_name,value
 2022-08-27,55,Wisconsin,3
 2022-08-27,54,West Virginia,4
 2022-08-27,56,Wyoming,0
+2022-09-03,02,Alaska,0
+2022-09-03,01,Alabama,34
+2022-09-03,05,Arkansas,5
+2022-09-03,04,Arizona,12
+2022-09-03,06,California,35
+2022-09-03,08,Colorado,1
+2022-09-03,09,Connecticut,3
+2022-09-03,11,District of Columbia,0
+2022-09-03,10,Delaware,3
+2022-09-03,12,Florida,72
+2022-09-03,13,Georgia,21
+2022-09-03,15,Hawaii,3
+2022-09-03,19,Iowa,3
+2022-09-03,16,Idaho,2
+2022-09-03,17,Illinois,13
+2022-09-03,18,Indiana,23
+2022-09-03,20,Kansas,2
+2022-09-03,21,Kentucky,6
+2022-09-03,22,Louisiana,8
+2022-09-03,25,Massachusetts,6
+2022-09-03,24,Maryland,0
+2022-09-03,23,Maine,0
+2022-09-03,26,Michigan,1
+2022-09-03,27,Minnesota,1
+2022-09-03,29,Missouri,10
+2022-09-03,28,Mississippi,21
+2022-09-03,30,Montana,0
+2022-09-03,37,North Carolina,13
+2022-09-03,38,North Dakota,7
+2022-09-03,31,Nebraska,8
+2022-09-03,33,New Hampshire,0
+2022-09-03,34,New Jersey,8
+2022-09-03,35,New Mexico,17
+2022-09-03,32,Nevada,6
+2022-09-03,36,New York,20
+2022-09-03,39,Ohio,10
+2022-09-03,40,Oklahoma,7
+2022-09-03,41,Oregon,0
+2022-09-03,42,Pennsylvania,40
+2022-09-03,72,Puerto Rico,33
+2022-09-03,44,Rhode Island,0
+2022-09-03,45,South Carolina,11
+2022-09-03,46,South Dakota,7
+2022-09-03,47,Tennessee,10
+2022-09-03,48,Texas,93
+2022-09-03,US,US,599
+2022-09-03,49,Utah,1
+2022-09-03,51,Virginia,16
+2022-09-03,78,Virgin Islands,0
+2022-09-03,50,Vermont,1
+2022-09-03,53,Washington,3
+2022-09-03,55,Wisconsin,2
+2022-09-03,54,West Virginia,1
+2022-09-03,56,Wyoming,0
