@@ -7040,21 +7040,21 @@ date,location,location_name,value
 2022-08-27,54,West Virginia,4
 2022-08-27,56,Wyoming,0
 2022-09-03,02,Alaska,0
-2022-09-03,01,Alabama,31
-2022-09-03,05,Arkansas,5
-2022-09-03,04,Arizona,11
-2022-09-03,06,California,36
+2022-09-03,01,Alabama,21
+2022-09-03,05,Arkansas,8
+2022-09-03,04,Arizona,16
+2022-09-03,06,California,125
 2022-09-03,08,Colorado,1
-2022-09-03,09,Connecticut,3
+2022-09-03,09,Connecticut,4
 2022-09-03,11,District of Columbia,0
 2022-09-03,10,Delaware,3
-2022-09-03,12,Florida,71
-2022-09-03,13,Georgia,20
+2022-09-03,12,Florida,70
+2022-09-03,13,Georgia,22
 2022-09-03,15,Hawaii,2
 2022-09-03,19,Iowa,3
-2022-09-03,16,Idaho,2
-2022-09-03,17,Illinois,15
-2022-09-03,18,Indiana,20
+2022-09-03,16,Idaho,3
+2022-09-03,17,Illinois,13
+2022-09-03,18,Indiana,22
 2022-09-03,20,Kansas,3
 2022-09-03,21,Kentucky,6
 2022-09-03,22,Louisiana,6
@@ -7064,27 +7064,27 @@ date,location,location_name,value
 2022-09-03,26,Michigan,1
 2022-09-03,27,Minnesota,1
 2022-09-03,29,Missouri,10
-2022-09-03,28,Mississippi,21
+2022-09-03,28,Mississippi,19
 2022-09-03,30,Montana,0
-2022-09-03,37,North Carolina,13
+2022-09-03,37,North Carolina,8
 2022-09-03,38,North Dakota,5
 2022-09-03,31,Nebraska,8
 2022-09-03,33,New Hampshire,0
-2022-09-03,34,New Jersey,8
-2022-09-03,35,New Mexico,17
-2022-09-03,32,Nevada,6
-2022-09-03,36,New York,21
-2022-09-03,39,Ohio,12
-2022-09-03,40,Oklahoma,8
+2022-09-03,34,New Jersey,9
+2022-09-03,35,New Mexico,21
+2022-09-03,32,Nevada,3
+2022-09-03,36,New York,22
+2022-09-03,39,Ohio,13
+2022-09-03,40,Oklahoma,9
 2022-09-03,41,Oregon,0
 2022-09-03,42,Pennsylvania,40
 2022-09-03,72,Puerto Rico,29
 2022-09-03,44,Rhode Island,0
 2022-09-03,45,South Carolina,14
 2022-09-03,46,South Dakota,7
-2022-09-03,47,Tennessee,12
-2022-09-03,48,Texas,95
-2022-09-03,US,US,624
+2022-09-03,47,Tennessee,17
+2022-09-03,48,Texas,83
+2022-09-03,US,US,705
 2022-09-03,49,Utah,1
 2022-09-03,51,Virginia,29
 2022-09-03,78,Virgin Islands,0
