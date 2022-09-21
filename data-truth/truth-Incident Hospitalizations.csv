@@ -5547,7 +5547,7 @@ date,location,location_name,value
 2022-02-19,21,Kentucky,20
 2022-02-19,22,Louisiana,40
 2022-02-19,25,Massachusetts,54
-2022-02-19,24,Maryland,13
+2022-02-19,24,Maryland,15
 2022-02-19,23,Maine,4
 2022-02-19,26,Michigan,52
 2022-02-19,27,Minnesota,28
@@ -5572,7 +5572,7 @@ date,location,location_name,value
 2022-02-19,46,South Dakota,14
 2022-02-19,47,Tennessee,29
 2022-02-19,48,Texas,284
-2022-02-19,US,US,1572
+2022-02-19,US,US,1574
 2022-02-19,49,Utah,6
 2022-02-19,51,Virginia,37
 2022-02-19,78,Virgin Islands,0
@@ -6192,7 +6192,7 @@ date,location,location_name,value
 2022-05-14,17,Illinois,128
 2022-05-14,18,Indiana,42
 2022-05-14,20,Kansas,10
-2022-05-14,21,Kentucky,40
+2022-05-14,21,Kentucky,41
 2022-05-14,22,Louisiana,20
 2022-05-14,25,Massachusetts,172
 2022-05-14,24,Maryland,61
@@ -6220,7 +6220,7 @@ date,location,location_name,value
 2022-05-14,46,South Dakota,10
 2022-05-14,47,Tennessee,33
 2022-05-14,48,Texas,156
-2022-05-14,US,US,3300
+2022-05-14,US,US,3301
 2022-05-14,49,Utah,11
 2022-05-14,51,Virginia,47
 2022-05-14,78,Virgin Islands,0
@@ -6354,7 +6354,7 @@ date,location,location_name,value
 2022-06-04,17,Illinois,41
 2022-06-04,18,Indiana,25
 2022-06-04,20,Kansas,3
-2022-06-04,21,Kentucky,24
+2022-06-04,21,Kentucky,25
 2022-06-04,22,Louisiana,16
 2022-06-04,25,Massachusetts,50
 2022-06-04,24,Maryland,18
@@ -6382,7 +6382,7 @@ date,location,location_name,value
 2022-06-04,46,South Dakota,1
 2022-06-04,47,Tennessee,22
 2022-06-04,48,Texas,125
-2022-06-04,US,US,2758
+2022-06-04,US,US,2759
 2022-06-04,49,Utah,5
 2022-06-04,51,Virginia,48
 2022-06-04,78,Virgin Islands,0
@@ -7138,9 +7138,9 @@ date,location,location_name,value
 2022-09-10,46,South Dakota,7
 2022-09-10,47,Tennessee,24
 2022-09-10,48,Texas,121
-2022-09-10,US,US,621
+2022-09-10,US,US,623
 2022-09-10,49,Utah,1
-2022-09-10,51,Virginia,18
+2022-09-10,51,Virginia,20
 2022-09-10,78,Virgin Islands,0
 2022-09-10,50,Vermont,0
 2022-09-10,53,Washington,10
@@ -7148,53 +7148,53 @@ date,location,location_name,value
 2022-09-10,54,West Virginia,0
 2022-09-10,56,Wyoming,0
 2022-09-17,02,Alaska,0
-2022-09-17,01,Alabama,23
-2022-09-17,05,Arkansas,4
+2022-09-17,01,Alabama,17
+2022-09-17,05,Arkansas,6
 2022-09-17,04,Arizona,7
-2022-09-17,06,California,17
+2022-09-17,06,California,24
 2022-09-17,08,Colorado,3
 2022-09-17,09,Connecticut,4
 2022-09-17,11,District of Columbia,0
 2022-09-17,10,Delaware,2
-2022-09-17,12,Florida,79
-2022-09-17,13,Georgia,32
-2022-09-17,15,Hawaii,1
+2022-09-17,12,Florida,78
+2022-09-17,13,Georgia,34
+2022-09-17,15,Hawaii,2
 2022-09-17,19,Iowa,1
 2022-09-17,16,Idaho,1
-2022-09-17,17,Illinois,3
-2022-09-17,18,Indiana,28
+2022-09-17,17,Illinois,5
+2022-09-17,18,Indiana,26
 2022-09-17,20,Kansas,0
-2022-09-17,21,Kentucky,6
+2022-09-17,21,Kentucky,3
 2022-09-17,22,Louisiana,17
-2022-09-17,25,Massachusetts,4
-2022-09-17,24,Maryland,9
+2022-09-17,25,Massachusetts,2
+2022-09-17,24,Maryland,8
 2022-09-17,23,Maine,0
 2022-09-17,26,Michigan,3
 2022-09-17,27,Minnesota,0
 2022-09-17,29,Missouri,6
-2022-09-17,28,Mississippi,35
+2022-09-17,28,Mississippi,32
 2022-09-17,30,Montana,1
-2022-09-17,37,North Carolina,22
+2022-09-17,37,North Carolina,20
 2022-09-17,38,North Dakota,0
-2022-09-17,31,Nebraska,12
+2022-09-17,31,Nebraska,13
 2022-09-17,33,New Hampshire,3
-2022-09-17,34,New Jersey,11
+2022-09-17,34,New Jersey,9
 2022-09-17,35,New Mexico,4
-2022-09-17,32,Nevada,10
-2022-09-17,36,New York,23
+2022-09-17,32,Nevada,8
+2022-09-17,36,New York,20
 2022-09-17,39,Ohio,5
-2022-09-17,40,Oklahoma,11
-2022-09-17,41,Oregon,0
-2022-09-17,42,Pennsylvania,29
-2022-09-17,72,Puerto Rico,43
+2022-09-17,40,Oklahoma,9
+2022-09-17,41,Oregon,1
+2022-09-17,42,Pennsylvania,28
+2022-09-17,72,Puerto Rico,45
 2022-09-17,44,Rhode Island,0
 2022-09-17,45,South Carolina,8
-2022-09-17,46,South Dakota,9
-2022-09-17,47,Tennessee,15
+2022-09-17,46,South Dakota,7
+2022-09-17,47,Tennessee,20
 2022-09-17,48,Texas,122
-2022-09-17,US,US,649
+2022-09-17,US,US,652
 2022-09-17,49,Utah,0
-2022-09-17,51,Virginia,16
+2022-09-17,51,Virginia,28
 2022-09-17,78,Virgin Islands,0
 2022-09-17,50,Vermont,0
 2022-09-17,53,Washington,19
