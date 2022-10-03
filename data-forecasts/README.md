@@ -25,7 +25,7 @@ that each model should provide.
 -   [Weekly ensemble build](#Weekly-ensemble-build)
 -   [Policy on late submissions](#policy-on-late-or-updated-submissions)
 
-## What is a forecast {#what-is-a-forecast}
+## What is a forecast 
 
 Models are asked to make specific quantitative forecasts about data that
 will be observed in the future. These forecasts are interpreted as
@@ -48,7 +48,7 @@ specific set of assumptions about how the main drivers of the pandemic
 (such as non-pharmaceutical intervention compliance, or vaccination
 uptake) may change over time.
 
-## Gold standard data {#gold-standard-data}
+## Gold standard data 
 
 This project treats hospitalization data reported from the HHS Protect
 system at [HealthData.gov](https://healthdata.gov/dataset/covid-19-reported-patient-impact-and-hospital-capacity-state-timeseries) as "gold standard" data. We create processed
@@ -57,7 +57,7 @@ versions of these data that are stored in this repository.
 Details on how gold standard data are defined can be found in the
 [data-truth folder README file](../data-truth/README.md).
 
-## Data formatting {#data-formatting}
+## Data formatting 
 
 The automatic checks in place for forecast files submitted to this
 repository validates both the filename and file contents to ensure the
@@ -138,7 +138,7 @@ the directory this file is in. Both `team` and `model` should be less
 than 15 characters, alpha-numeric and underscores only, with no spaces
 or hyphens.
 
-## Forecast file format {#forecast-file-format}
+## Forecast file format 
 
 The file must be a comma-separated value (csv) file with the following
 columns (in any order):
@@ -156,7 +156,7 @@ No additional columns are allowed.
 Each row in the file is either a point or quantile forecast for a
 location on a particular date for a particular target.
 
-### `forecast_date` {#forecast_date}
+### `forecast_date` 
 
 Values in the `forecast_date` column must be a date in the format
 
@@ -262,7 +262,7 @@ that row. For example, the 2.5 and 97.5 quantiles for a given target and
 location should capture 95% of the forecasted values and correspond to
 the 95% Prediction Intervals.
 
-## Forecast validation {#forecast-validation}
+## Forecast validation 
 
 To ensure proper data formatting, pull requests for new data in
 `data-forecasts/` will be automatically run.
@@ -277,12 +277,12 @@ intent for these tests are to validate the requirements above. Please
 [let us know](https://github.com/cdcepi/Flusight-forecast-data/issues)
 if you are facing issues while running the tests.
 
-## Weekly ensemble build {#weekly-ensemble-build}
+## Weekly ensemble build 
 
 Every Monday at 11pm ET, we will generate the ensemble forecast using a
 single valid forecast from each team that submitted in the current week.
 
-## Policy on late or updated submissions {#policy-on-late-or-updated-submissions}
+## Policy on late or updated submissions 
 
 In order to ensure that forecasting is done in real-time, all forecasts
 are required to be submitted to this repository by 11pm ET on Mondays
