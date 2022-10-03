@@ -1,19 +1,20 @@
-# Ground truth data 
+# Gold standard data 
 
-The data-truth folder contains the "ground truth" data that forecasts 
+The data-truth folder contains the "gold standard" data that forecasts 
 are eventually compared to. 
 
 *Table of Contents*
 
 -   [Data sources](#data-sources)
 -   [Hospitalization data](#hospitalization-data)
--   [Accessing truth data](#accessing-truth-data)
+-   [Accessing gold standard data](#accessing-gold-standard-data)
 
 
 Data sources
 ----------------------
 
-Influenza hospitalization data are taken from the [HealthData.gov COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries](https://healthdata.gov/dataset/covid-19-reported-patient-impact-and-hospital-capacity-state-timeseries). 
+Influenza hospitalization data are taken from the [HealthData.gov COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries](https://healthdata.gov/dataset/covid-19-reported-patient-impact-and-hospital-capacity-state-timeseries).
+
 
 Some of these data are also available progammatically through the [EpiData](https://cmu-delphi.github.io/delphi-epidata/) API. 
 
@@ -23,17 +24,19 @@ Hospitalization data
 
 ### HealthData.gov Hospitalization Timeseries
 
-The truth data that hospitalization forecasts (`inc hosp` targets) will
+The gold standard data that hospitalization forecasts (`inc hosp` targets) will
 be evaluated against are the [HealthData.gov COVID-19 Reported Patient
 Impact and Hospital Capacity by State
 Timeseries](https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh).
 These data are released weekly.
 
-A supplemental data source with daily counts that is updated more
-frequently (typically daily) but does not include the full time-series
-is [HealthData.gov COVID-19 Reported Patient Impact and Hospital
-Capacity by
-State](https://healthdata.gov/dataset/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/6xf2-c3ie).
+
+Previously collected influenza data from the 2020-21 influenza season ([Fields 33-38](https://www.hhs.gov/sites/default/files/covid-19-faqs-hospitals-hospital-laboratory-acute-care-facility-data-reporting.pdf)) are included in the [COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries](https://healthdata.gov/dataset/covid-19-reported-patient-impact-and-hospital-capacity-state-timeseries) dataset. This dataset is updated regularly based on data reported through the day prior. Therefore, datasets updated on Monday will include data reported through the immediately preceding Sunday, and this dataset will capture influenza hospital admissions that occurred through Saturday (see the data processing section for more information).
+
+Reporting of the influenza fields 33-35 became mandatory in February 2022, and additional details are provided in the current [hospital reporting guidance and FAQs](https://www.hhs.gov/sites/default/files/covid-19-faqs-hospitals-hospital-laboratory-acute-care-facility-data-reporting.pdf). Numbers of reporting hospitals increased after the period that reporting became mandatory in early 2022 but have since stabilized at high levels of compliance.  The number of hospitals reporting these data each day by state are available in the previous_day_admission_influenza_confirmed_coverage variable found in the [COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries](https://healthdata.gov/dataset/covid-19-reported-patient-impact-and-hospital-capacity-state-timeseries) dataset. 
+
+These data are also available in a [facility-level dataset](https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u); data values less than 4 are suppressed in the [facility-level dataset](https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u). Additional historical influenza surveillance data from other surveillance systems are available at [https://www.cdc.gov/flu/weekly/fluviewinteractive.htm](https://www.cdc.gov/flu/weekly/fluviewinteractive.htm). These data are updated every Friday at noon Eastern Time. The "cdcfluview" R package can be used to retrieve these data. Additional potential data sources are available in Carnegie Mellon University's [Epidata API](https://delphi.cmu.edu/).
+
 
 ### Resources for Accessing Hospitalization Data
 
@@ -80,11 +83,8 @@ Daily admission counts are then aggregated into epidemiological weeks.
 For week-ahead forecasts, we will use the specification of
 epidemiological weeks (EWs) [defined by the US
 CDC](https://wwwn.cdc.gov/nndss/document/MMWR_Week_overview.pdf) which
-run Sunday through Saturday. There are standard software packages to
-convert from dates to epidemic weeks and vice versa. E.g.
-[MMWRweek](https://cran.r-project.org/web/packages/MMWRweek/) for R and
-[pymmwr](https://pypi.org/project/pymmwr/) and
-[epiweeks](https://pypi.org/project/epiweeks/) for python.
+run Sunday through Saturday. For example, a 1-week-ahead forecast made for the Forecast Due Date of Monday, November 28, 2022, would correspond to EW48, which ends on (i.e., has a `target_end_date` of Saturday, December 3, 2022). A 2-week-ahead forecast made for that date would correspond to EW49 and have a `target_end_date` of Saturday, December 10, 2022. There are standard software packages to convert from dates to epidemic weeks and vice versa (e.g. [MMWRweek](https://cran.r-project.org/web/packages/MMWRweek/) for R and [pymmwr](https://pypi.org/project/pymmwr/) and [epiweeks](https://pypi.org/project/epiweeks/) for Python).
+
 
 ### Additional resources
 
@@ -97,9 +97,9 @@ data:
     reporting”](https://www.hhs.gov/sites/default/files/covid-19-faqs-hospitals-hospital-laboratory-acute-care-facility-data-reporting.pdf)
 
 
-Accessing truth data
+Accessing gold standard data
 ----------
-While we go to some pains to create accurate, verified, clean versions of the truth data, these should be seen as secondary sources to the original data at the HHS Protect site.
+While we go to some pains to create accurate, verified, clean versions of the gold standard data, these should be seen as secondary sources to the original data at the HHS Protect site.
 
 ### CSV files
 A set of comma-separated plain text files are automatically updated every week with the latest observed values for incident hospitalizations. A corresponding CSV file is created in `data-truth/truth-Incident Hospitalizations.csv`.
