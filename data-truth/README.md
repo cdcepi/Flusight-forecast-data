@@ -38,18 +38,7 @@ Reporting of the influenza fields 33-35 became mandatory in February 2022, and a
 These data are also available in a [facility-level dataset](https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u); data values less than 4 are suppressed in the [facility-level dataset](https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u). Additional historical influenza surveillance data from other surveillance systems are available at [https://www.cdc.gov/flu/weekly/fluviewinteractive.htm](https://www.cdc.gov/flu/weekly/fluviewinteractive.htm). These data are updated every Friday at noon Eastern Time. The "cdcfluview" R package can be used to retrieve these data. Additional potential data sources are available in Carnegie Mellon University's [Epidata API](https://delphi.cmu.edu/).
 
 
-### Resources for Accessing Hospitalization Data
 
-We are working with our collaborators at the [Delphi Group at
-CMU](https://delphi.cmu.edu/) to make these data available through
-their [Delphi Epidata
-API](https://cmu-delphi.github.io/delphi-epidata/api/README.html).
-The current weekly timeseries of the hospitalization data as well as
-prior versions of the data are available as the [`covid_hosp`
-endpoint of the
-API](https://cmu-delphi.github.io/delphi-epidata/api/covid_hosp.html).
-This endpoint is also available through the [COVIDcast
-Epidata API](https://cmu-delphi.github.io/delphi-epidata/api/covidcast-signals/hhs.html).
 
 ### Data processing
 
@@ -99,8 +88,35 @@ data:
 
 Accessing gold standard data
 ----------
-While we go to some pains to create accurate, verified, clean versions of the gold standard data, these should be seen as secondary sources to the original data at the HHS Protect site.
+While we make efforts to create accurate, verified, clean versions of the gold standard data, these should be seen as secondary sources to the original data at the HHS Protect site.
 
 ### CSV files
 A set of comma-separated plain text files are automatically updated every week with the latest observed values for incident hospitalizations. A corresponding CSV file is created in `data-truth/truth-Incident Hospitalizations.csv`.
+
+
+### Resources for Accessing Hospitalization Data
+
+Our collaborators at the [Delphi Group at
+CMU](https://delphi.cmu.edu/) have provided resources to make these data (as well as archived versions) available through their [Delphi Epidata
+API](https://cmu-delphi.github.io/delphi-epidata/api/README.html).
+The current weekly timeseries of the hospitalization data as well as
+prior versions of the data are available under the ["covidcast"
+endpoint of the
+API](https://cmu-delphi.github.io/delphi-epidata/api/covidcast.html). In particular, under the ["hhs" data source name](https://cmu-delphi.github.io/delphi-epidata/api/covidcast-signals/hhs.html), there are flu-related HHS signals:
+
+- *Confirmed Influenza Admissions per day* `confirmed_addmissions_influenza_1d`
+- *Confirmed Influenza Admissions (smoothed with a 7 day trailing average)* `confirmed_admissions_influenza_1d_7dav`
+
+Also under the "covidcast" endpoint, under the ["chng" data source name](https://cmu-delphi.github.io/delphi-epidata/api/covidcast-signals/chng.html), there are signals pertaining to confirmed influenza from outpatient visits:
+
+- *Confirmed Influenza from Doctor's Visits* `smoothed_outpatient_flu`
+- *Confirmed Influenza from Doctors'Visits (with weekday adjustment)* `smoothed_adj_outpatient_flu`
+
+Other related and potentially helpful endpoints of the Epidata API include:
+- [COVID-19 Hospitalization by State](https://cmu-delphi.github.io/delphi-epidata/api/covid_hosp.html)
+- [COVID-19 Hospitalization by Facility](https://cmu-delphi.github.io/delphi-epidata/api/covid_hosp_facility.html)
+- [COVID-19 Hospitalization:  Facility Lookup](https://cmu-delphi.github.io/delphi-epidata/api/covid_hosp_facility_lookup.html)
+
+To access these data, teams can utilize the COVIDCast [Rpackage](https://cmu-delphi.github.io/covidcast/covidcastR/) or [Python package](https://cmu-delphi.github.io/covidcast/covidcast-py/html/).
+
 
