@@ -7157,7 +7157,7 @@ date,location,location_name,value
 2022-09-17,11,District of Columbia,0
 2022-09-17,10,Delaware,2
 2022-09-17,12,Florida,78
-2022-09-17,13,Georgia,35
+2022-09-17,13,Georgia,36
 2022-09-17,15,Hawaii,2
 2022-09-17,19,Iowa,1
 2022-09-17,16,Idaho,1
@@ -7192,7 +7192,7 @@ date,location,location_name,value
 2022-09-17,46,South Dakota,7
 2022-09-17,47,Tennessee,20
 2022-09-17,48,Texas,122
-2022-09-17,US,US,643
+2022-09-17,US,US,644
 2022-09-17,49,Utah,0
 2022-09-17,51,Virginia,27
 2022-09-17,78,Virgin Islands,0
@@ -7211,7 +7211,7 @@ date,location,location_name,value
 2022-09-24,11,District of Columbia,1
 2022-09-24,10,Delaware,0
 2022-09-24,12,Florida,81
-2022-09-24,13,Georgia,44
+2022-09-24,13,Georgia,39
 2022-09-24,15,Hawaii,3
 2022-09-24,19,Iowa,7
 2022-09-24,16,Idaho,3
@@ -7246,7 +7246,7 @@ date,location,location_name,value
 2022-09-24,46,South Dakota,7
 2022-09-24,47,Tennessee,35
 2022-09-24,48,Texas,128
-2022-09-24,US,US,747
+2022-09-24,US,US,742
 2022-09-24,49,Utah,1
 2022-09-24,51,Virginia,18
 2022-09-24,78,Virgin Islands,0
@@ -7265,13 +7265,13 @@ date,location,location_name,value
 2022-10-01,11,District of Columbia,0
 2022-10-01,10,Delaware,0
 2022-10-01,12,Florida,77
-2022-10-01,13,Georgia,55
+2022-10-01,13,Georgia,54
 2022-10-01,15,Hawaii,5
 2022-10-01,19,Iowa,5
 2022-10-01,16,Idaho,2
 2022-10-01,17,Illinois,11
 2022-10-01,18,Indiana,33
-2022-10-01,20,Kansas,6
+2022-10-01,20,Kansas,5
 2022-10-01,21,Kentucky,3
 2022-10-01,22,Louisiana,38
 2022-10-01,25,Massachusetts,4
@@ -7279,7 +7279,7 @@ date,location,location_name,value
 2022-10-01,23,Maine,1
 2022-10-01,26,Michigan,4
 2022-10-01,27,Minnesota,2
-2022-10-01,29,Missouri,12
+2022-10-01,29,Missouri,14
 2022-10-01,28,Mississippi,32
 2022-10-01,30,Montana,2
 2022-10-01,37,North Carolina,20
@@ -7291,21 +7291,21 @@ date,location,location_name,value
 2022-10-01,32,Nevada,14
 2022-10-01,36,New York,28
 2022-10-01,39,Ohio,17
-2022-10-01,40,Oklahoma,5
+2022-10-01,40,Oklahoma,6
 2022-10-01,41,Oregon,1
 2022-10-01,42,Pennsylvania,53
 2022-10-01,72,Puerto Rico,42
 2022-10-01,44,Rhode Island,1
 2022-10-01,45,South Carolina,18
 2022-10-01,46,South Dakota,10
-2022-10-01,47,Tennessee,41
+2022-10-01,47,Tennessee,40
 2022-10-01,48,Texas,137
-2022-10-01,US,US,890
+2022-10-01,US,US,889
 2022-10-01,49,Utah,0
 2022-10-01,51,Virginia,28
 2022-10-01,78,Virgin Islands,0
 2022-10-01,50,Vermont,0
-2022-10-01,53,Washington,9
+2022-10-01,53,Washington,8
 2022-10-01,55,Wisconsin,1
 2022-10-01,54,West Virginia,1
 2022-10-01,56,Wyoming,0
