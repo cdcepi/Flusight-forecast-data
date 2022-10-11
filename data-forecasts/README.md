@@ -279,8 +279,8 @@ if you are facing issues while running the tests.
 
 ## Weekly ensemble build 
 
-Every Monday at 11pm ET, we will generate the ensemble forecast using a
-single valid forecast from each team that submitted in the current week.
+Every Tuesday morning, we will generate the ensemble forecast using a
+single valid forecast from each team that submitted in the current week by the Monday 11PM ET deadline.
 
 ## Policy on late or updated submissions 
 
