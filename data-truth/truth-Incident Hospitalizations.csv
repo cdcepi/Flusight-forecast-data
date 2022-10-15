@@ -1966,7 +1966,7 @@ date,location,location_name,value
 2020-11-14,02,Alaska,0
 2020-11-14,01,Alabama,23
 2020-11-14,05,Arkansas,7
-2020-11-14,04,Arizona,25
+2020-11-14,04,Arizona,26
 2020-11-14,06,California,44
 2020-11-14,08,Colorado,3
 2020-11-14,09,Connecticut,0
@@ -2008,7 +2008,7 @@ date,location,location_name,value
 2020-11-14,46,South Dakota,2
 2020-11-14,47,Tennessee,36
 2020-11-14,48,Texas,145
-2020-11-14,US,US,585
+2020-11-14,US,US,586
 2020-11-14,49,Utah,1
 2020-11-14,51,Virginia,25
 2020-11-14,78,Virgin Islands,4
@@ -5547,7 +5547,7 @@ date,location,location_name,value
 2022-02-19,21,Kentucky,20
 2022-02-19,22,Louisiana,40
 2022-02-19,25,Massachusetts,54
-2022-02-19,24,Maryland,14
+2022-02-19,24,Maryland,15
 2022-02-19,23,Maine,4
 2022-02-19,26,Michigan,52
 2022-02-19,27,Minnesota,28
@@ -5572,7 +5572,7 @@ date,location,location_name,value
 2022-02-19,46,South Dakota,14
 2022-02-19,47,Tennessee,29
 2022-02-19,48,Texas,284
-2022-02-19,US,US,1573
+2022-02-19,US,US,1574
 2022-02-19,49,Utah,6
 2022-02-19,51,Virginia,37
 2022-02-19,78,Virgin Islands,0
@@ -7298,9 +7298,9 @@ date,location,location_name,value
 2022-10-01,44,Rhode Island,1
 2022-10-01,45,South Carolina,18
 2022-10-01,46,South Dakota,10
-2022-10-01,47,Tennessee,40
+2022-10-01,47,Tennessee,41
 2022-10-01,48,Texas,137
-2022-10-01,US,US,895
+2022-10-01,US,US,896
 2022-10-01,49,Utah,0
 2022-10-01,51,Virginia,30
 2022-10-01,78,Virgin Islands,0
@@ -7333,8 +7333,8 @@ date,location,location_name,value
 2022-10-08,23,Maine,0
 2022-10-08,26,Michigan,13
 2022-10-08,27,Minnesota,11
-2022-10-08,29,Missouri,5
-2022-10-08,28,Mississippi,59
+2022-10-08,29,Missouri,6
+2022-10-08,28,Mississippi,58
 2022-10-08,30,Montana,0
 2022-10-08,37,North Carolina,22
 2022-10-08,38,North Dakota,0
@@ -7352,9 +7352,9 @@ date,location,location_name,value
 2022-10-08,44,Rhode Island,1
 2022-10-08,45,South Carolina,38
 2022-10-08,46,South Dakota,10
-2022-10-08,47,Tennessee,43
+2022-10-08,47,Tennessee,41
 2022-10-08,48,Texas,239
-2022-10-08,US,US,1331
+2022-10-08,US,US,1329
 2022-10-08,49,Utah,2
 2022-10-08,51,Virginia,49
 2022-10-08,78,Virgin Islands,0
