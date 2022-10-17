@@ -8,4 +8,3 @@ team_model_designation: primary
 ensemble_of_hub_models: false
 methods: Ensemble of time series models for U.S. state and national influenza hospitalizations.
 team_funding: CSTE
-twitter_handles: strnr
