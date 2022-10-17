@@ -1,6 +1,6 @@
 team_name: UGA_flucast
 model_name: UGA_flucast-OKeefe
-model_abbr: UGA-OKeefe
+model_abbr: UGA_flucast-OKeefe
 model_contributors: Spencer Fox, Graham Gibson, Lauren Meyers
 website_url: https://thefoxlab.wordpress.com/
 license: mit
