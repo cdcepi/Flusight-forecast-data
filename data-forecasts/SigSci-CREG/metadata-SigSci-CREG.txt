@@ -8,4 +8,3 @@ team_model_designation: secondary
 ensemble_of_hub_models: false
 methods: Count regression modeling for U.S. state and national influenza hospitalizations.
 team_funding: CSTE
-twitter_handles: strnr
