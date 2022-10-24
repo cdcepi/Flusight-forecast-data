@@ -3,7 +3,7 @@ model_name: CovidScenarioPipeline
 model_abbr: JHU_IDD-CovidSP
 model_contributors: Joseph C. Lemaitre (EPFL), Joshua Kaminsky (Johns Hopkins Infectious Disease Dynamics), Shaun A. Truelove (Johns Hopkins Infectious Disease Dynamics) <shauntruelove@jhu.edu>, Elizabeth C. Lee (Johns Hopkins Infectious Disease Dynamics), Justin Lessler (Johns Hopkins Infectious Disease Dynamics)<justin@jhu.edu>, Claire P. Smith (Johns Hopkins Infectious Disease Dynamics) <csmit390@jhu.edu>, Allison Hill (Johns Hopkins Infectious Disease Dynamics) <alhill@jhmi.edu>
 website_url: https://github.com/HopkinsIDD/COVIDScenarioPipeline
-license: MIT
+license: mit
 team_model_designation: primary
 methods: State-level metapopulation model with commuting and stochastic SEIR disease dynamics with non-pharmaceutical/behavioral interventions and humidity-driven seasonality.
 ensemble_of_hub_models: false
