@@ -1,6 +1,6 @@
 team_name: University of Guelph Dynamics Training Lab
 model_name: Influenza Piecewise Linear University of Guelph model
-model_abbr: FluPLUG
+model_abbr: UGuelph-FluPLUG
 model_contributors: Edward W. Thommes (Modeling, Epidemiology and Data Science, Sanofi Vaccines)(Department of Mathematics & Statistics, University of Guelph)<edward.thommes@sanofi.com>, Monica G. Cojocaru (Department of Mathematics & Statistics, University of Guelph)<mcojocar@uoguelph.ca>
 website_url: https://sites.google.com/site/mgcojocarumath/networks-and-dynamics-lab
 license: cc-by-4.0
