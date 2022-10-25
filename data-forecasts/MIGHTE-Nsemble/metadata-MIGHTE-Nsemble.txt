@@ -2,7 +2,7 @@ team_name: MIGHTE
 model_name: Nsemble
 model_abbr: MIGHTE-Nsemble
 model_contributors: Austin Meyer (Northeastern University), Fred Lu (Northeastern University), Leonardo Clemente (Northeastern University), Mauricio Santillana (Northeastern University)
-website_url: NA
+website_url:
 license: cc-by-4.0
 team_model_designation: primary
 methods: Combined exponential smoothing and vector autoregression model
