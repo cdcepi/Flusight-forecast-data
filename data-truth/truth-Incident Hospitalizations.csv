@@ -1966,7 +1966,7 @@ date,location,location_name,value
 2020-11-14,02,Alaska,0
 2020-11-14,01,Alabama,23
 2020-11-14,05,Arkansas,7
-2020-11-14,04,Arizona,26
+2020-11-14,04,Arizona,25
 2020-11-14,06,California,44
 2020-11-14,08,Colorado,3
 2020-11-14,09,Connecticut,0
@@ -2008,7 +2008,7 @@ date,location,location_name,value
 2020-11-14,46,South Dakota,2
 2020-11-14,47,Tennessee,36
 2020-11-14,48,Texas,145
-2020-11-14,US,US,586
+2020-11-14,US,US,585
 2020-11-14,49,Utah,1
 2020-11-14,51,Virginia,25
 2020-11-14,78,Virgin Islands,4
@@ -5547,7 +5547,7 @@ date,location,location_name,value
 2022-02-19,21,Kentucky,20
 2022-02-19,22,Louisiana,40
 2022-02-19,25,Massachusetts,54
-2022-02-19,24,Maryland,13
+2022-02-19,24,Maryland,14
 2022-02-19,23,Maine,4
 2022-02-19,26,Michigan,52
 2022-02-19,27,Minnesota,28
@@ -5572,7 +5572,7 @@ date,location,location_name,value
 2022-02-19,46,South Dakota,14
 2022-02-19,47,Tennessee,29
 2022-02-19,48,Texas,284
-2022-02-19,US,US,1572
+2022-02-19,US,US,1573
 2022-02-19,49,Utah,6
 2022-02-19,51,Virginia,37
 2022-02-19,78,Virgin Islands,0
@@ -7402,13 +7402,13 @@ date,location,location_name,value
 2022-10-15,40,Oklahoma,17
 2022-10-15,41,Oregon,2
 2022-10-15,42,Pennsylvania,76
-2022-10-15,72,Puerto Rico,54
+2022-10-15,72,Puerto Rico,56
 2022-10-15,44,Rhode Island,0
 2022-10-15,45,South Carolina,37
 2022-10-15,46,South Dakota,13
 2022-10-15,47,Tennessee,65
 2022-10-15,48,Texas,329
-2022-10-15,US,US,1685
+2022-10-15,US,US,1687
 2022-10-15,49,Utah,1
 2022-10-15,51,Virginia,52
 2022-10-15,78,Virgin Islands,0
@@ -7421,12 +7421,12 @@ date,location,location_name,value
 2022-10-22,01,Alabama,142
 2022-10-22,05,Arkansas,50
 2022-10-22,04,Arizona,22
-2022-10-22,06,California,122
+2022-10-22,06,California,124
 2022-10-22,08,Colorado,15
 2022-10-22,09,Connecticut,9
 2022-10-22,11,District of Columbia,8
 2022-10-22,10,Delaware,1
-2022-10-22,12,Florida,124
+2022-10-22,12,Florida,125
 2022-10-22,13,Georgia,119
 2022-10-22,15,Hawaii,4
 2022-10-22,19,Iowa,10
@@ -7442,7 +7442,7 @@ date,location,location_name,value
 2022-10-22,26,Michigan,17
 2022-10-22,27,Minnesota,11
 2022-10-22,29,Missouri,23
-2022-10-22,28,Mississippi,89
+2022-10-22,28,Mississippi,90
 2022-10-22,30,Montana,0
 2022-10-22,37,North Carolina,80
 2022-10-22,38,North Dakota,1
@@ -7451,18 +7451,18 @@ date,location,location_name,value
 2022-10-22,34,New Jersey,32
 2022-10-22,35,New Mexico,29
 2022-10-22,32,Nevada,14
-2022-10-22,36,New York,47
+2022-10-22,36,New York,48
 2022-10-22,39,Ohio,39
 2022-10-22,40,Oklahoma,35
 2022-10-22,41,Oregon,6
 2022-10-22,42,Pennsylvania,97
-2022-10-22,72,Puerto Rico,53
+2022-10-22,72,Puerto Rico,54
 2022-10-22,44,Rhode Island,2
-2022-10-22,45,South Carolina,87
+2022-10-22,45,South Carolina,88
 2022-10-22,46,South Dakota,12
 2022-10-22,47,Tennessee,94
 2022-10-22,48,Texas,509
-2022-10-22,US,US,2364
+2022-10-22,US,US,2371
 2022-10-22,49,Utah,8
 2022-10-22,51,Virginia,86
 2022-10-22,78,Virgin Islands,0
