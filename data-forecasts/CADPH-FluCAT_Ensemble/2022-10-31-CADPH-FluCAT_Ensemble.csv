@@ -1,0 +1,13 @@
+"forecast_date","target","target_end_date","location","type","quantile","value"
+2022-10-31,"1 wk ahead inc flu hosp",2022-11-05,"06","point",NA,108.111826928315
+2022-10-31,"1 wk ahead inc flu hosp",2022-11-05,"06","quantile",0.025,0
+2022-10-31,"1 wk ahead inc flu hosp",2022-11-05,"06","quantile",0.975,309.488227706794
+2022-10-31,"2 wk ahead inc flu hosp",2022-11-12,"06","point",NA,120.979124076969
+2022-10-31,"2 wk ahead inc flu hosp",2022-11-12,"06","quantile",0.025,0
+2022-10-31,"2 wk ahead inc flu hosp",2022-11-12,"06","quantile",0.975,322.355524855448
+2022-10-31,"3 wk ahead inc flu hosp",2022-11-19,"06","point",NA,142.712351310788
+2022-10-31,"3 wk ahead inc flu hosp",2022-11-19,"06","quantile",0.025,15.9718218475342
+2022-10-31,"3 wk ahead inc flu hosp",2022-11-19,"06","quantile",0.975,344.088752089268
+2022-10-31,"4 wk ahead inc flu hosp",2022-11-26,"06","point",NA,164.436314617503
+2022-10-31,"4 wk ahead inc flu hosp",2022-11-26,"06","quantile",0.025,37.6957851542487
+2022-10-31,"4 wk ahead inc flu hosp",2022-11-26,"06","quantile",0.975,365.812715395982
