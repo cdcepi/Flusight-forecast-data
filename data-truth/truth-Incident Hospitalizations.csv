@@ -7479,9 +7479,9 @@ date,location,location_name,value
 2022-10-29,08,Colorado,32
 2022-10-29,09,Connecticut,37
 2022-10-29,11,District of Columbia,11
-2022-10-29,10,Delaware,8
+2022-10-29,10,Delaware,4
 2022-10-29,12,Florida,260
-2022-10-29,13,Georgia,177
+2022-10-29,13,Georgia,175
 2022-10-29,15,Hawaii,6
 2022-10-29,19,Iowa,19
 2022-10-29,16,Idaho,1
@@ -7498,7 +7498,7 @@ date,location,location_name,value
 2022-10-29,29,Missouri,56
 2022-10-29,28,Mississippi,165
 2022-10-29,30,Montana,5
-2022-10-29,37,North Carolina,206
+2022-10-29,37,North Carolina,211
 2022-10-29,38,North Dakota,2
 2022-10-29,31,Nebraska,16
 2022-10-29,33,New Hampshire,0
@@ -7516,7 +7516,7 @@ date,location,location_name,value
 2022-10-29,46,South Dakota,9
 2022-10-29,47,Tennessee,130
 2022-10-29,48,Texas,744
-2022-10-29,US,US,4351
+2022-10-29,US,US,4350
 2022-10-29,49,Utah,11
 2022-10-29,51,Virginia,186
 2022-10-29,78,Virgin Islands,0
