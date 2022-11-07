@@ -1,6 +1,6 @@
 team_name: CEPH Lab at Indiana University
 model_name: Rtrend_fluH
-model_abbr: CEPH-Rtrent_fluH
+model_abbr: CEPH-Rtrend_fluH
 model_contributors: Marco Ajelli (majelli@iu.edu), Paulo C. Ventura (pventura@iu.edu), Maria Litvinova (malitv@iu.edu), Allisandra G. Kummer (alkummer@iu.edu), Alessandro Vespignani (a.vespignani@northeastern.edu)
 website_url: https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=majelli
 license: other
