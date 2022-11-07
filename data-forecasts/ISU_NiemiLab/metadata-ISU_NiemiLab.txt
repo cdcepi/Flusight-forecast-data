@@ -2,7 +2,7 @@ team_name: Iowa State Niemi Research Lab
 model_name: Flu Forecast
 model_abbr: ISU_NiemiLab
 model_contributors: Spencer Wadsworth (ISU) <sgw96@iastate.edu>, Jarad Niemi (ISU) <niemi@iastate.edu>
-website_url: 
+website_url: https://www.jarad.me/
 license: cc-by-4.0
 team_model_designation: primary
 ensemble_of_hub_models: false
