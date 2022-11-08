@@ -1,0 +1,1249 @@
+forecast_date,target,target_end_date,location,type,quantile,value
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,point,NA,534.9451765230335
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,point,NA,546.4256936126027
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,point,NA,569.9267158950647
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,point,NA,635.6467646435626
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,point,NA,20.22434060753546
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,point,NA,19.947951658057995
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,point,NA,18.57102494388883
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,point,NA,24.791247104719346
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,point,NA,27.35459167688684
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,point,NA,31.315722541347768
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,point,NA,29.134344974474025
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,point,NA,38.323801766343365
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,point,NA,98.67298312219674
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,point,NA,65.2146449274831
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,point,NA,33.135862210400035
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,point,NA,52.02189825296752
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,point,NA,157.17547176557972
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,point,NA,67.59927221908335
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,point,NA,102.76803081499935
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,point,NA,143.6074217802817
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,point,NA,94.28629858161952
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,point,NA,93.5484707618323
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,point,NA,106.40659237731654
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,point,NA,86.51279927792694
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,point,NA,126.6727809162527
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,point,NA,54.8955600752509
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,point,NA,44.92860162597832
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,point,NA,97.43469743852444
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,point,NA,94.32028257584244
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,point,NA,52.1738238957082
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,point,NA,47.85841248259911
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,point,NA,42.03674079188619
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,point,NA,129.49269755147097
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,point,NA,194.44091295983813
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,point,NA,171.97605288569383
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,point,NA,220.9783631651152
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,point,NA,134.05880416507517
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,point,NA,44.97672819975911
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,point,NA,104.81092481043854
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,point,NA,197.16789799248045
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,point,NA,25.93688549666676
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,point,NA,41.49306691016015
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,point,NA,48.95643429608833
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,point,NA,58.98078351161992
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,point,NA,66.04144677510749
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,point,NA,51.48357417334657
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,point,NA,42.0926925815856
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,point,NA,33.446193764525916
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,point,NA,7787.5289144676335
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,point,NA,6494.153076729377
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,point,NA,6623.031895200393
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,point,NA,8689.505468884736
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.01,85.45296441644633
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.025,129.06372754150073
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.05,214.34894919233534
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.1,309.4259170471259
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.15,354.06454416046756
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.2,417.8969289393247
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.25,454.20499086474734
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.3,485.01706258871985
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.35,510.6600291790485
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.4,522.0542067807272
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.45,532.9311321629643
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.5,534.9451765230335
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.55,535.7321233462258
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.6,536.5189602242291
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.65,550.5851962665025
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.7,563.2713864476302
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.75,614.6749226605567
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.8,686.0298253734832
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.85,781.4886958116684
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.9,959.0712480675364
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.95,1229.1723784238998
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.975,1506.9955153010787
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,California,quantile,0.99,4254.927373801239
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.01,57.35627904773311
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.025,111.68603055806585
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.05,174.81720281462486
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.1,262.57996992017644
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.15,318.35414334020504
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.2,361.21401003480247
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.25,405.5985251858567
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.3,442.68626427528403
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.35,479.03591294926616
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.4,507.4444268755416
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.45,530.5349930927955
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.5,546.4256936126027
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.55,556.6946564608144
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.6,577.547074546923
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.65,622.5707728953278
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.7,693.7031132167444
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.75,752.4813617215555
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.8,840.0805678866318
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.85,958.8386645082464
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.9,1197.3449654829774
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.95,1807.0208835390476
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.975,2781.1220782695905
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,California,quantile,0.99,8927.425694811098
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.01,53.54608581786411
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.025,102.45013724187955
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.05,146.52904757995918
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.1,225.9545000634014
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.15,285.03823377142055
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.2,328.99702894366203
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.25,370.31708806716284
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.3,414.72646524324915
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.35,463.9382494918474
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.4,502.12637556929667
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.45,534.3215130662973
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.5,569.9267158950647
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.55,606.0764732211617
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.6,650.6968389397578
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.65,709.4785703005065
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.7,789.811855001564
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.75,909.0381493128559
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.8,1033.651267552444
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.85,1201.3129102046637
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.9,1527.0504483467273
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.95,2403.5591073784185
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.975,4425.353265275126
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,California,quantile,0.99,9892.881819209708
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.01,40.10946480176822
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.025,84.5049642421653
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.05,141.58523879859655
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.1,225.46156013145648
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.15,281.39848324308133
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.2,326.5972830016032
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.25,377.3953519207123
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.3,434.73347924605775
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.35,483.05424939076045
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.4,531.531605298869
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.45,586.2681419844444
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.5,635.6467646435626
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.55,678.9070919979367
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.6,729.8797823139372
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.65,811.9812888161609
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.7,923.0766915722954
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.75,1043.1915312590206
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.8,1209.4614281999409
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.85,1444.2119133652093
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.9,1844.384024269203
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.95,2713.602525365456
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.975,6481.848201545659
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,California,quantile,0.99,15822.355707319164
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.01,3.6809152671678587
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.025,4.2453362697033885
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.05,6.835119479809931
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.1,12.25918095986452
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.15,15.800892214134068
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.2,17.194393452398447
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.25,18.19380036009774
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.3,18.979169482396166
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.35,19.27902893527807
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.4,19.451225034712564
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.45,19.796349672679817
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.5,20.22434060753546
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.55,20.69055096429731
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.6,21.797844753626975
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.65,23.81568496256809
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.7,25.454072423852555
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.75,29.378418266296347
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.8,31.071473642199578
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.85,35.32297220635698
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.9,42.44275632374789
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.95,66.86078464362778
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.975,85.03018683249344
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Colorado,quantile,0.99,115.82549835303054
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.01,2.531879823922315
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.025,3.358388271839024
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.05,4.9938078229929985
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.1,7.937892344284887
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.15,10.590600313916084
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.2,12.64001431129021
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.25,14.000685363646504
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.3,15.21873172133395
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.35,16.1778965749918
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.4,17.018953212364494
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.45,18.301958607850686
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.5,19.947951658057995
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.55,21.327963718782264
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.6,23.18052624092715
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.65,25.3319265396885
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.7,27.149653568464295
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.75,30.466678473520513
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.8,34.31140390973197
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.85,39.684179759656985
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.9,51.93073507559317
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.95,71.05244387388028
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.975,100.51976748974981
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Colorado,quantile,0.99,145.55654442361657
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.01,1.582498890946162
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.025,2.5554060144053796
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.05,3.6604120467259746
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.1,6.156664726961186
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.15,7.965949987233679
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.2,9.776159134561635
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.25,11.782348491458983
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.3,12.876322135189048
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.35,14.263691123734748
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.4,15.690242554460395
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.45,17.22829152998643
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.5,18.57102494388883
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.55,20.61115419543705
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.6,22.18869647695404
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.65,24.36391353057357
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.7,27.166973232810655
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.75,31.137597218338534
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.8,36.21210381804585
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.85,43.533794665581915
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.9,55.81583921118331
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.95,86.23147196948392
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.975,119.08228653640869
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Colorado,quantile,0.99,166.21843851201072
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.01,1.899430241462599
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.025,3.2575895467114195
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.05,4.5978007590668515
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.1,7.113657450259992
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.15,9.809180624192036
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.2,11.949078999959987
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.25,14.12326846122772
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.3,15.954888549198802
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.35,18.168858665613037
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.4,20.148788235384323
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.45,23.008793215515453
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.5,24.791247104719346
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.55,27.0801394068098
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.6,30.139779010471322
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.65,34.47966785099298
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.7,39.087355850086226
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.75,43.385874142264136
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.8,50.94416155985246
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.85,61.875221771113424
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.9,82.43643030511322
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.95,120.93767738342105
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.975,175.36412157319992
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Colorado,quantile,0.99,257.69810009972093
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.01,3.8474505132924994
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.025,6.542365680123298
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.05,7.804650440022312
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.1,17.237134754862293
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.15,20.890192973485377
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.2,24.716151761761328
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.25,25.646342645543886
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.3,26.361511418923797
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.35,26.541923032040927
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.4,26.717057292092807
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.45,27.16900397423796
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.5,27.35459167688684
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.55,28.936644863544444
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.6,30.89225600647299
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.65,33.42191028890924
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.7,36.08144886658572
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.75,40.580574584155684
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.8,46.4353124357905
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.85,53.93679253563735
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.9,65.02291649850432
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.95,81.31676498817127
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.975,120.87237015249016
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Connecticut,quantile,0.99,196.26087735712989
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.01,2.487410268814542
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.025,4.119368990630921
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.05,6.575385624002742
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.1,10.707519378994284
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.15,15.999187549347244
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.2,19.961836052683434
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.25,23.446951022605766
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.3,25.180230558727562
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.35,26.145156287523438
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.4,27.068643157216048
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.45,29.08537851600458
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.5,31.315722541347768
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.55,34.15280186027523
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.6,37.91351027952485
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.65,42.521754690041476
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.7,48.40441978560732
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.75,55.94534240613911
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.8,64.13049940584531
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.85,74.82668999266457
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.9,89.86633483225933
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.95,134.0483874673708
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.975,192.7207959656241
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Connecticut,quantile,0.99,303.80818368998763
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.01,1.735300860928202
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.025,2.5762051248942974
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.05,4.120346478726884
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.1,7.121732667303574
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.15,11.80526861100557
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.2,14.883632530945171
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.25,17.961864969897718
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.3,20.249419471482526
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.35,22.174034866306112
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.4,24.09552658815599
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.45,26.634277697168706
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.5,29.134344974474025
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.55,32.72387288947004
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.6,36.51188859090652
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.65,42.16129458880835
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.7,48.272490040236946
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.75,57.20348955558617
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.8,65.80106573035785
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.85,80.15399746094508
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.9,110.54288432754987
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.95,162.87278630834416
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.975,268.7756554619081
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Connecticut,quantile,0.99,896.3118768567007
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.01,1.7825306953833076
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.025,3.108894459205251
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.05,4.394116922880179
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.1,8.138918207817303
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.15,12.072819502950434
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.2,16.710302398945583
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.25,20.51688400869528
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.3,23.632618930152777
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.35,25.822968810078997
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.4,29.304802362810022
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.45,33.928039118547744
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.5,38.323801766343365
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.55,43.617680470667466
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.6,49.8480793483581
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.65,58.20283680314746
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.7,67.11482660615752
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.75,78.1531765208961
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.8,95.14689134891287
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.85,122.60825805502839
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.9,171.45131179651463
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.95,263.0825135954855
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.975,501.9222623153955
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Connecticut,quantile,0.99,1255.2192775944425
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.01,14.428416455509554
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.025,27.165207389694537
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.05,42.21480570118583
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.1,55.047733804920014
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.15,67.73479193058388
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.2,80.55432553313685
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.25,89.22481892084969
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.3,94.1706484421718
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.35,96.4553309837699
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.4,97.78424910722188
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.45,98.4644918098283
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.5,98.67298312219674
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.55,98.81992000555842
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.6,99.25262782165942
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.65,102.39420535113854
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.7,107.79300938556288
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.75,118.2674169263112
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.8,135.37143297561067
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.85,157.67303839192925
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.9,179.14531672592406
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.95,269.0491890742253
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.975,387.8100365784653
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Georgia,quantile,0.99,701.6896619623104
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.01,5.629421120810001
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.025,11.541187226902107
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.05,18.769838211470464
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.1,31.786745672981727
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.15,39.01457357906389
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.2,44.61132288490421
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.25,49.92391768686108
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.3,55.28730535400858
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.35,59.23174533114156
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.4,62.25228966954807
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.45,64.27836944385736
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.5,65.2146449274831
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.55,66.64898603900474
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.6,70.79649695207453
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.65,75.9040476296851
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.7,82.78821756076853
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.75,91.10249700504376
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.8,101.68007674898166
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.85,118.07540942656442
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.9,146.35364524771532
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.95,199.94781550444804
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.975,304.3073257106639
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Georgia,quantile,0.99,508.45744908267125
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.01,2.702465799523331
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.025,4.378485249041316
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.05,6.868741313244661
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.1,11.886831884490912
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.15,16.26676999262615
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.2,19.978152061682426
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.25,23.6189303855149
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.3,26.234581545564758
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.35,28.37498110453923
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.4,29.95511889849631
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.45,31.784389412445258
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.5,33.135862210400035
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.55,35.3387206397937
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.6,38.605810387721114
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.65,41.424389978401315
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.7,46.3282125033313
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.75,51.144226538475365
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.8,59.010378856888956
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.85,68.09853884807004
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.9,90.20214646859989
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.95,135.1113131878978
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.975,193.39406578727804
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Georgia,quantile,0.99,267.7259011169023
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.01,4.279421583881258
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.025,7.636293942377974
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.05,12.373211251848478
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.1,17.34188759088722
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.15,22.198060872474237
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.2,28.290541315199672
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.25,32.42848456938914
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.3,37.43294623252986
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.35,40.90387035505717
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.4,44.963906340194484
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.45,48.83727772716324
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.5,52.02189825296752
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.55,57.27313460857902
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.6,62.38011444694392
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.65,69.22526190544772
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.7,78.9649060672782
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.75,87.9762591021235
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.8,104.60799467777127
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.85,130.2487729183465
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.9,170.9826221076406
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.95,252.8078238632884
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.975,394.36853216917905
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Georgia,quantile,0.99,621.3875176416753
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.01,11.968501564151184
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.025,17.96573185954084
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.05,36.477442880923064
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.1,64.87174822348841
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.15,87.90467773558917
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.2,108.87249506693018
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.25,127.14041199579614
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.3,141.04522466002496
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.35,152.36901836537533
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.4,155.09023123306562
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.45,156.76987036789228
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.5,157.17547176557972
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.55,157.52411186814362
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.6,159.35676230880085
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.65,166.52074348170646
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.7,190.84758224358924
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.75,215.1192134545362
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.8,245.29674285482
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.85,294.0662616091076
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.9,391.6336915795934
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.95,604.6155068825833
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.975,1011.6766689757131
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Maryland,quantile,0.99,1225.2090646791787
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.01,4.779502873294225
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.025,7.313215669689471
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.05,14.646383912206991
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.1,21.94481633743568
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.15,30.671607264895755
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.2,38.28886012632374
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.25,45.2079431990705
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.3,52.12498470747053
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.35,58.63061570774586
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.4,63.326736530210276
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.45,66.19523399215213
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.5,67.59927221908335
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.55,72.21475082544447
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.6,78.36883026215519
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.65,87.14876201250901
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.7,97.56527804011706
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.75,110.44486676526773
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.8,126.8445628825896
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.85,150.8812147734233
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.9,193.5002689372253
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.95,289.8612474163229
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.975,432.0102674359132
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Maryland,quantile,0.99,505.09318344186977
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.01,5.0892570885807595
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.025,10.883675261723019
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.05,17.11299963439458
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.1,29.593154049040965
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.15,39.339410563001195
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.2,52.25246212745561
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.25,61.41200640022863
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.3,71.12937472097505
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.35,81.71499397657846
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.4,90.32027214183091
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.45,98.41105531494907
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.5,102.76803081499935
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.55,113.95018205855715
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.6,125.15172742584865
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.65,137.2635478236106
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.7,155.17425285863678
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.75,178.7922774643126
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.8,207.71231321392287
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.85,273.06841426285325
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.9,341.8235585757324
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.95,521.028500989656
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.975,767.6893491219587
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Maryland,quantile,0.99,1202.372993255715
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.01,7.118994341699372
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.025,12.238199767683028
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.05,22.162828682833734
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.1,33.23377421105746
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.15,48.14601154855147
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.2,61.76145099040698
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.25,77.30728121256793
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.3,92.84177407689182
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.35,104.32651254492191
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.4,116.54831609233199
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.45,130.0310401749885
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.5,143.6074217802817
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.55,161.57976337589747
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.6,184.53722806615272
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.65,211.66340544507486
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.7,237.9163607506514
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.75,282.4297452401005
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.8,341.46179845478235
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.85,419.32758337529157
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.9,548.3607876818797
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.95,891.2375552797743
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.975,1359.488434449359
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Maryland,quantile,0.99,2735.2571578911447
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.01,5.085540530253948
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.025,18.327143085726647
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.05,32.92493331585823
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.1,52.50112208968986
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.15,68.51736618493291
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.2,78.34781725920351
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.25,82.12662795915783
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.3,85.91459171460363
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.35,87.1398913715227
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.4,88.11724825859353
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.45,91.38597920359953
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.5,94.28629858161952
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.55,104.13757878751366
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.6,118.03424905970154
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.65,129.06054868711482
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.7,147.45978329138006
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.75,159.45954843311222
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.8,185.73898592425496
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.85,207.26138516939116
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.9,288.9922466133851
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.95,644.6242544819186
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.975,936.0672730254738
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Michigan,quantile,0.99,1734.9062073881494
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.01,2.931613826771087
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.025,7.116259979721007
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.05,12.495472324147809
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.1,25.563782705929697
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.15,36.42254426198067
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.2,49.053700270680274
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.25,59.52249578220035
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.3,66.20006451399291
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.35,70.01938636725455
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.4,77.01503709243443
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.45,84.70513883513723
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.5,93.5484707618323
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.55,103.97792617130055
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.6,113.35791310968261
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.65,122.36673045440688
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.7,138.3576323880252
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.75,158.772955680548
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.8,190.74667179614937
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.85,259.830591430025
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.9,377.517515638191
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.95,720.1274317065129
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.975,1091.34252440236
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Michigan,quantile,0.99,2214.1070655933936
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.01,3.304361632954959
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.025,5.535433014125722
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.05,11.137765549063802
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.1,24.021012064301527
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.15,34.18633510232188
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.2,43.46370341724794
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.25,54.32169201969562
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.3,62.902699110382
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.35,75.97908083185634
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.4,85.02861817765495
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.45,95.11256333573506
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.5,106.40659237731654
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.55,120.4783037365506
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.6,133.21198545132262
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.65,156.9400203164727
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.7,183.46851644324346
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.75,225.02135129555631
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.8,273.29149692714174
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.85,374.6456745739443
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.9,552.7648912185934
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.95,950.0565199546845
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.975,1264.1167275422936
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Michigan,quantile,0.99,2140.2695393223057
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.01,1.9310912762701495
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.025,3.4810501410925476
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.05,6.997796387261136
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.1,14.905090098740196
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.15,22.765685457404803
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.2,32.04150366802991
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.25,40.54545226102439
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.3,49.384096317826334
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.35,58.22600729010331
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.4,68.55959908157374
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.45,77.18353881382738
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.5,86.51279927792694
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.55,101.53416968011375
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.6,121.35225761867372
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.65,140.92398379321398
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.7,176.8587617206921
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.75,214.8061972929641
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.8,270.2267839687331
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.85,380.4572986658866
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.9,584.9033337283631
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.95,1031.968712261507
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.975,2425.7786667860773
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Michigan,quantile,0.99,4200.556650622762
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.01,16.116520580909715
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.025,23.429447761760052
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.05,42.56341498094061
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.1,61.27492414067475
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.15,79.83041210847563
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.2,98.12013439399506
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.25,111.40722674464362
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.3,119.73895436166222
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.35,122.49055155383928
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.4,124.98937714444186
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.45,126.36190903919484
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.5,126.6727809162527
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.55,126.97075428840662
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.6,128.0055639825795
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.65,134.10544828214083
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.7,142.30603649966335
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.75,155.71783083274084
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.8,177.87146290558226
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.85,212.28787254611262
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.9,255.52256513485918
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.95,453.7151077479719
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.975,667.2725609738391
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Minnesota,quantile,0.99,1302.6747131149127
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.01,3.5544707771106316
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.025,7.015785962762622
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.05,13.308626660616563
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.1,22.00071436707696
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.15,28.796349215286
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.2,34.53915407264838
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.25,40.88300580771666
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.3,44.57272902227126
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.35,49.28763646679225
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.4,52.29565386690352
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.45,53.995456607022405
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.5,54.8955600752509
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.55,57.03108678853178
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.6,61.5825969332045
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.65,66.58826698222546
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.7,73.08144399340034
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.75,82.37906717782073
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.8,91.96617442079913
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.85,109.31634785656854
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.9,148.43489041203054
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.95,235.7356818318128
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.975,354.9188456230596
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Minnesota,quantile,0.99,559.5088917096947
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.01,3.8879340557601654
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.025,6.282751133450017
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.05,9.098556451377226
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.1,14.914785881994556
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.15,18.641852018606542
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.2,24.62750270854552
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.25,29.006811757442843
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.3,32.98494313930779
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.35,36.229971815856175
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.4,40.84797695735908
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.45,43.05083939704667
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.5,44.92860162597832
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.55,47.522813315050115
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.6,51.52088786466979
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.65,56.42392267256231
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.7,62.33214562549192
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.75,69.37981320338494
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.8,82.9174982352459
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.85,100.79444481949028
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.9,130.43695655265614
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.95,193.03939481463632
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.975,265.0040015621323
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Minnesota,quantile,0.99,399.46460990567016
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.01,7.756301982078679
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.025,12.312567226420272
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.05,16.840235002004704
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.1,29.079920178470104
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.15,37.87599844373413
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.2,46.90048173521096
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.25,55.50320366848331
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.3,64.44106896480403
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.35,73.0106448765342
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.4,80.79426663012376
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.45,89.84501325838899
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.5,97.43469743852444
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.55,105.85183115980988
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.6,117.45947999590217
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.65,133.49442618806356
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.7,152.77579913371068
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.75,180.73567934159365
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.8,210.65034586720589
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.85,253.85476227964696
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.9,344.5433191112911
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.95,597.4339497039659
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.975,869.1523392555949
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Minnesota,quantile,0.99,1871.6185242660813
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.01,16.239553162118195
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.025,26.917665089569265
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.05,37.59514388880713
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.1,51.18274524087454
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.15,67.03544888706476
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.2,76.09228361411787
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.25,87.43999623740075
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.3,91.35594893303005
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.35,91.84159500157429
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.4,92.6988370421287
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.45,93.53281645077028
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.5,94.32028257584244
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.55,96.49722267141898
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.6,105.03465416610189
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.65,115.60447299562614
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.7,134.19707660514533
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.75,143.9396346387165
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.8,164.93123739135575
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.85,199.716580181481
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.9,271.3431418860199
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.95,361.0299157495139
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.975,416.06495046156033
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New Mexico,quantile,0.99,626.9103745497233
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.01,7.249830902588735
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.025,10.3003020816885
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.05,15.21951013893953
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.1,20.84792111089275
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.15,27.106566913669095
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.2,31.960996387032864
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.25,36.37425794015246
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.3,41.76690321570906
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.35,43.179967698462065
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.4,44.90713218176766
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.45,47.38587946353914
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.5,52.1738238957082
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.55,57.285345902829064
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.6,62.818765019100944
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.65,70.34066155865244
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.7,82.08626082433265
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.75,95.11802558061609
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.8,114.85136777967415
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.85,134.0076065373889
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.9,158.06114545011405
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.95,241.2030982490973
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.975,353.9512491368063
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New Mexico,quantile,0.99,572.4805311769558
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.01,4.670801199733707
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.025,6.301164835608893
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.05,8.824541698594746
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.1,14.991402766939203
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.15,19.544213095012186
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.2,23.61215994098194
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.25,27.223046958675177
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.3,31.51979127607777
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.35,34.76593368836581
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.4,38.629678704565414
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.45,43.06853841761642
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.5,47.85841248259911
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.55,53.893808737463985
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.6,61.04152928498156
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.65,68.56835437958978
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.7,79.96282381688565
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.75,92.28979864659233
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.8,106.16764379462174
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.85,125.5579763960387
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.9,158.34801273337916
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.95,253.25336725498858
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.975,401.07530427832154
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New Mexico,quantile,0.99,768.8689287808656
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.01,3.899691767665821
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.025,5.348170007562353
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.05,6.99037317145271
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.1,11.34495403938865
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.15,15.168038144601981
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.2,18.176567749368594
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.25,21.671960859949714
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.3,25.40377124281049
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.35,28.723435555019833
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.4,32.1233317843808
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.45,35.736720381321206
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.5,42.03674079188619
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.55,48.48067801470479
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.6,56.14367292937416
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.65,64.38676485269315
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.7,75.63744471492853
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.75,88.28341214604542
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.8,106.65715170017157
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.85,138.26680366646764
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.9,182.7124462655069
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.95,306.8211774501172
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.975,491.08614913115605
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New Mexico,quantile,0.99,847.140103003952
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.01,6.753088486130457
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.025,28.24214010873494
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.05,39.322815513301926
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.1,52.08195033350677
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.15,69.17176992192731
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.2,84.06470937510973
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.25,96.0652039314962
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.3,110.7435157744216
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.35,118.66938462844283
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.4,122.44720366196105
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.45,129.42051229151386
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.5,129.49269755147097
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.55,130.03541947347654
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.6,130.36733081328336
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.65,132.37434281689428
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.7,138.94249311098673
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.75,154.0094768789014
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.8,165.58723654441087
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.85,199.9589347223795
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.9,245.28543610765598
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.95,363.6421508299329
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.975,700.7387237542523
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,New York,quantile,0.99,1851.6467386048087
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.01,17.590403999354606
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.025,30.601802550332014
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.05,46.964634524943875
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.1,80.71769305948774
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.15,102.51012559087974
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.2,116.1921625942183
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.25,132.00010541322905
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.3,147.18151252036935
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.35,161.04883750496188
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.4,172.3723165300617
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.45,183.31207777515112
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.5,194.44091295983813
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.55,199.01508154834926
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.6,209.21289757145357
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.65,223.14984953782331
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.7,246.20866716090342
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.75,269.4763598234131
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.8,302.45837770658045
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.85,373.21285778752997
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.9,482.31194751202406
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.95,1039.6378081344385
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.975,1590.188122106059
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,New York,quantile,0.99,2937.2691925953195
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.01,8.04702432276453
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.025,18.29858315149095
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.05,35.77217664148784
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.1,58.05674752825193
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.15,75.63504578892632
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.2,91.34454240944876
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.25,105.81938917625192
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.3,120.73573622473343
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.35,132.20267041069974
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.4,146.42563322309493
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.45,160.30092464766102
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.5,171.97605288569383
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.55,181.03950766354788
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.6,193.1086621363655
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.65,211.21468711632104
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.7,231.24246311094362
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.75,257.3616518056125
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.8,305.36976642373736
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.85,380.50144067775364
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.9,530.8006614058189
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.95,911.9905586542626
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.975,1474.931277724682
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,New York,quantile,0.99,2888.623615061358
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.01,12.129542314116941
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.025,23.65508570200314
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.05,45.131465991791494
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.1,66.53411658241787
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.15,85.7092980240302
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.2,106.86149422460193
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.25,124.93812299551215
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.3,142.15874288238632
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.35,162.1964913994758
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.4,178.59075458715142
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.45,197.4286552514327
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.5,220.9783631651152
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.55,238.50991362405432
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.6,260.7506805988702
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.65,291.7961346417515
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.7,327.02521541918463
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.75,365.69774815393816
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.8,425.82017088295805
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.85,558.6742294702979
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.9,806.2384771122945
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.95,1674.0748760574431
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.975,2940.3170376576436
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,New York,quantile,0.99,6339.759070076979
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.01,8.22136519982524
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.025,20.29330865078384
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.05,30.605429895937686
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.1,56.88701081850249
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.15,78.27124890012226
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.2,101.35900287098285
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.25,113.9463439771516
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.3,125.62095541730486
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.35,130.67252387143708
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.4,131.89283535189983
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.45,133.7183682642938
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.5,134.05880416507517
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.55,134.4206379274384
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.6,136.60770559796126
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.65,138.7053878694142
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.7,154.29672701887452
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.75,171.90891333313706
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.8,203.11017169019362
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.85,255.31637021479955
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.9,369.9478082189408
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.95,574.7226744094548
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.975,1227.9427044479241
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Ohio,quantile,0.99,3113.0920964699476
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.01,2.4678119999089163
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.025,4.319636016893692
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.05,9.518055574328889
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.1,16.372641697431693
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.15,19.26542917945823
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.2,24.49254094096949
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.25,29.081780609602227
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.3,34.05262062848459
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.35,39.38629238990909
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.4,42.35471941169977
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.45,43.94729151537143
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.5,44.97672819975911
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.55,46.50910016233009
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.6,50.65491079445685
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.65,55.336307549990785
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.7,62.86519547429927
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.75,73.18598507468539
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.8,85.84625197958626
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.85,103.94743716767975
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.9,134.60538535047118
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.95,238.94878828358517
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.975,453.30296363815546
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Ohio,quantile,0.99,854.9616898013671
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.01,5.158181369099767
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.025,11.058240225667891
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.05,19.79658226279104
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.1,37.02964863494407
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.15,48.45415606453268
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.2,57.545070298795984
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.25,65.51052345980274
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.3,73.27199350808257
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.35,82.09422731974712
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.4,90.786444361479
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.45,100.40595294246789
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.5,104.81092481043854
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.55,111.60283129662002
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.6,125.9410555498662
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.65,141.73898659369246
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.7,162.81991216608603
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.75,188.716698336157
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.8,223.56797763010667
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.85,276.57692222397907
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.9,422.5435634451841
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.95,614.7024848518791
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.975,1365.6848529633703
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Ohio,quantile,0.99,2440.0405952484184
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.01,10.008792914116842
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.025,18.567579069952025
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.05,35.846358713556704
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.1,55.483770974713075
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.15,76.66783528306175
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.2,95.5290788638345
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.25,116.36069542753299
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.3,129.06999529415796
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.35,145.600582952097
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.4,163.62828372358786
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.45,182.44109472179753
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.5,197.16789799248045
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.55,214.61710288348078
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.6,241.02461905980192
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.65,275.80660141400887
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.7,322.3436818869262
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.75,367.78256506837675
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.8,439.46182103410035
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.85,543.6573580209508
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.9,748.1186699804387
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.95,1300.4682352299194
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.975,2225.1554555436956
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Ohio,quantile,0.99,5442.446635473914
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.01,7.530650090330951
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.025,10.580036188308377
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.05,11.700966274098306
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.1,14.44333337710586
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.15,18.264851626323335
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.2,20.131009303457688
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.25,21.517351327061007
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.3,23.71152105424867
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.35,24.95371576495704
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.4,25.18528150519439
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.45,25.434048803387828
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.5,25.93688549666676
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.55,26.68357458909853
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.6,28.63534969128344
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.65,30.93362807541107
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.7,33.565501104830155
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.75,36.85725426371802
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.8,41.72164421140246
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.85,48.612747452677624
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.9,56.68495233423801
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.95,74.52896976214437
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.975,110.09917145275799
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Oregon,quantile,0.99,169.90610869609333
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.01,9.213220711468301
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.025,11.205406319949503
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.05,15.812418627043124
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.1,19.510693270932713
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.15,22.821879211045875
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.2,25.287925170179513
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.25,28.731483065599548
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.3,30.983728771281463
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.35,34.10636966083347
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.4,35.81182344066478
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.45,38.879288447315474
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.5,41.49306691016015
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.55,45.02148973186571
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.6,49.055825316444
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.65,53.18987998889162
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.7,59.801172340042974
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.75,67.1639257499971
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.8,74.7732787382729
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.85,83.75634212938854
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.9,100.8625300102697
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.95,149.65381358332223
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.975,198.3200483627824
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Oregon,quantile,0.99,270.4350532745817
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.01,7.866788232702086
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.025,9.463122669162509
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.05,12.535601017885972
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.1,17.69303027703402
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.15,21.651062187764595
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.2,25.717599686633914
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.25,29.819896474300087
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.3,33.80101463961194
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.35,37.34560158157213
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.4,40.74223250028592
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.45,44.66518921909288
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.5,48.95643429608833
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.55,53.83232860287796
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.6,60.528549152044555
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.65,66.64918265385438
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.7,74.38477704811713
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.75,84.0624796601023
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.8,96.17851917869989
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.85,116.72861078752213
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.9,148.01053900896574
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.95,224.3490419889836
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.975,345.28731096427737
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Oregon,quantile,0.99,498.6138257415006
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.01,7.959304823861472
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.025,10.306694894980689
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.05,13.511029079340235
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.1,18.129688668015785
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.15,22.40429490122299
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.2,26.968293081112876
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.25,31.46504417176768
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.3,37.240897616815836
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.35,41.8638222198825
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.4,46.77828922043915
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.45,52.62173750697572
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.5,58.98078351161992
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.55,66.81663753114287
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.6,72.3792384727711
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.65,83.20304433699648
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.7,95.4564499034639
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.75,108.78468707424827
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.8,131.80934237149026
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.85,159.0107335606707
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.9,211.68944273472235
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.95,332.07160903597855
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.975,469.7732294953775
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Oregon,quantile,0.99,975.2565770770515
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.01,6.934409105807776
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.025,18.510922461590383
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.05,30.266535593706816
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.1,41.02964451287288
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.15,50.72270773896539
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.2,56.4803822263808
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.25,57.41710002662776
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.3,58.595026472977615
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.35,59.23174730014907
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.4,60.74562567328243
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.45,61.37434171178214
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.5,66.04144677510749
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.55,69.42950232796835
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.6,73.05734074740852
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.65,80.1203018866113
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.7,86.5879922505202
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.75,93.52573060056845
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.8,102.79104727351042
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.85,116.01416429588875
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.9,139.11423506529908
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.95,202.20775541729483
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.975,394.64295843100314
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,Tennessee,quantile,0.99,641.0871970485417
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.01,4.535033679975089
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.025,7.500188459830396
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.05,14.804947762333562
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.1,22.107236128270856
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.15,27.686717666569105
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.2,32.78839291710728
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.25,35.89614446791848
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.3,38.54990498629275
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.35,41.280546600533505
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.4,43.80041372599106
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.45,47.32131470539498
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.5,51.48357417334657
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.55,55.42009483764055
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.6,59.40696371386741
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.65,66.26209205160772
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.7,71.29931617010686
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.75,78.99657099561547
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.8,92.99403048647795
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.85,111.23673663836693
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.9,149.25022912260366
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.95,234.3815570521901
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.975,435.2585133540378
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,Tennessee,quantile,0.99,636.371454953898
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.01,3.2978197309846413
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.025,5.717358471521544
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.05,8.550350840542972
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.1,15.75530478803839
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.15,19.601741984022745
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.2,23.530720225934836
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.25,26.458604049701655
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.3,29.217312884730987
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.35,32.26764371012354
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.4,35.520291277961014
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.45,38.99547949728678
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.5,42.0926925815856
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.55,45.818608610151934
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.6,51.41574786915841
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.65,57.703320485130654
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.7,64.73190121276855
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.75,75.03406761883244
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.8,88.46238547766251
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.85,108.97109498660826
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.9,142.6125360609813
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.95,254.39098163637715
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.975,369.6936222754806
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,Tennessee,quantile,0.99,631.0452264725085
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.01,2.144754059507473
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.025,3.6112263041477526
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.05,5.351418867973826
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.1,9.631624522814372
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.15,13.650466158513034
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.2,16.604819900348847
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.25,19.403566915051996
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.3,22.41961342767711
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.35,25.38613923119255
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.4,28.131405420166026
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.45,30.335418704542448
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.5,33.446193764525916
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.55,37.85426416416338
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.6,43.09373608631478
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.65,48.739149954575524
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.7,55.102709019753895
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.75,63.92768497073095
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.8,76.53070901471865
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.85,96.94135505941759
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.9,138.96710850878367
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.95,229.09789467246355
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.975,315.04540415462867
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,Tennessee,quantile,0.99,565.2059230578435
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.01,2615.139749216876
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.025,3889.307914312282
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.05,5202.580324950122
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.1,5983.38278052372
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.15,6494.265149983344
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.2,7105.626560253212
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.25,7397.646577236272
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.3,7581.015276543791
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.35,7656.280332418768
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.4,7728.149107723731
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.45,7766.460620567809
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.5,7787.5289144676335
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.55,7802.614581732122
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.6,7816.7699002588415
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.65,7936.232265067236
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.7,8348.494704507157
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.75,8997.068751823754
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.8,9704.387672365781
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.85,10186.107943116353
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.9,10947.056429048618
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.95,12231.276512821809
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.975,15168.376121515348
+2022-11-07,1 wk ahead inc flu hosp,2022-11-12,United States,quantile,0.99,21826.45565381312
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.01,20.547711515512677
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.025,799.84221477542
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.05,3170.694909403167
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.1,4340.026264975304
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.15,4754.496468340741
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.2,5161.55867080861
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.25,5557.269552879272
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.3,5856.040996632013
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.35,6143.276948158833
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.4,6296.395272552687
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.45,6413.903175467026
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.5,6494.153076729377
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.55,6675.6253497936
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.6,7103.552481456165
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.65,7518.369650948987
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.7,8001.21560227274
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.75,8509.991650904243
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.8,9081.6416996721
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.85,9700.67069488396
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.9,10622.802758905435
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.95,13705.62241183789
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.975,18141.790677531884
+2022-11-07,2 wk ahead inc flu hosp,2022-11-19,United States,quantile,0.99,1386162.2974031765
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.01,14.214582893958122
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.025,673.1342843232379
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.05,2322.3186613046855
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.1,3606.00800204492
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.15,4336.3160429696745
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.2,4776.16662881984
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.25,5197.915738676288
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.3,5599.308641317705
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.35,5955.218286846614
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.4,6228.382548879292
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.45,6377.0223148906725
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.5,6623.031895200393
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.55,7006.468285866491
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.6,7548.875639954749
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.65,8005.961786397367
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.7,8545.693138580174
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.75,9181.886455217622
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.8,9810.558111383796
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.85,10655.815485683399
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.9,12538.162511164745
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.95,17196.2357529685
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.975,25476.5049709434
+2022-11-07,3 wk ahead inc flu hosp,2022-11-26,United States,quantile,0.99,1945074.6245356093
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.01,28.399421923093975
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.025,887.5637645269222
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.05,2438.4538352483314
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.1,3940.6528427572603
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.15,4884.234470217951
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.2,5720.680222191153
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.25,6288.053560035994
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.3,6793.865505898577
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.35,7349.716713972107
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.4,7746.6294945627615
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.45,8169.608775484454
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.5,8689.505468884736
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.55,9382.529717264624
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.6,10134.651749369188
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.65,10691.869763323379
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.7,11421.028519765294
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.75,12311.061956461293
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.8,13615.155683558954
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.85,15406.052047335332
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.9,18995.221183220503
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.95,27812.35659277459
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.975,77328.72606910183
+2022-11-07,4 wk ahead inc flu hosp,2022-12-03,United States,quantile,0.99,3053669.609480913
