@@ -5547,7 +5547,7 @@ date,location,location_name,value
 2022-02-19,21,Kentucky,20
 2022-02-19,22,Louisiana,40
 2022-02-19,25,Massachusetts,54
-2022-02-19,24,Maryland,15
+2022-02-19,24,Maryland,14
 2022-02-19,23,Maine,4
 2022-02-19,26,Michigan,52
 2022-02-19,27,Minnesota,28
@@ -5572,7 +5572,7 @@ date,location,location_name,value
 2022-02-19,46,South Dakota,14
 2022-02-19,47,Tennessee,29
 2022-02-19,48,Texas,284
-2022-02-19,US,US,1574
+2022-02-19,US,US,1573
 2022-02-19,49,Utah,6
 2022-02-19,51,Virginia,37
 2022-02-19,78,Virgin Islands,0
@@ -7367,7 +7367,7 @@ date,location,location_name,value
 2022-10-15,01,Alabama,86
 2022-10-15,05,Arkansas,40
 2022-10-15,04,Arizona,14
-2022-10-15,06,California,90
+2022-10-15,06,California,97
 2022-10-15,08,Colorado,5
 2022-10-15,09,Connecticut,9
 2022-10-15,11,District of Columbia,2
@@ -7408,7 +7408,7 @@ date,location,location_name,value
 2022-10-15,46,South Dakota,13
 2022-10-15,47,Tennessee,65
 2022-10-15,48,Texas,329
-2022-10-15,US,US,1687
+2022-10-15,US,US,1694
 2022-10-15,49,Utah,1
 2022-10-15,51,Virginia,52
 2022-10-15,78,Virgin Islands,0
@@ -7481,7 +7481,7 @@ date,location,location_name,value
 2022-10-29,11,District of Columbia,11
 2022-10-29,10,Delaware,4
 2022-10-29,12,Florida,260
-2022-10-29,13,Georgia,175
+2022-10-29,13,Georgia,176
 2022-10-29,15,Hawaii,6
 2022-10-29,19,Iowa,19
 2022-10-29,16,Idaho,1
@@ -7505,7 +7505,7 @@ date,location,location_name,value
 2022-10-29,34,New Jersey,76
 2022-10-29,35,New Mexico,56
 2022-10-29,32,Nevada,12
-2022-10-29,36,New York,105
+2022-10-29,36,New York,107
 2022-10-29,39,Ohio,115
 2022-10-29,40,Oklahoma,59
 2022-10-29,41,Oregon,5
@@ -7516,7 +7516,7 @@ date,location,location_name,value
 2022-10-29,46,South Dakota,9
 2022-10-29,47,Tennessee,130
 2022-10-29,48,Texas,744
-2022-10-29,US,US,4350
+2022-10-29,US,US,4353
 2022-10-29,49,Utah,11
 2022-10-29,51,Virginia,186
 2022-10-29,78,Virgin Islands,0
@@ -7525,3 +7525,57 @@ date,location,location_name,value
 2022-10-29,55,Wisconsin,17
 2022-10-29,54,West Virginia,66
 2022-10-29,56,Wyoming,5
+2022-11-05,02,Alaska,10
+2022-11-05,01,Alabama,361
+2022-11-05,05,Arkansas,141
+2022-11-05,04,Arizona,84
+2022-11-05,06,California,456
+2022-11-05,08,Colorado,32
+2022-11-05,09,Connecticut,41
+2022-11-05,11,District of Columbia,36
+2022-11-05,10,Delaware,11
+2022-11-05,12,Florida,305
+2022-11-05,13,Georgia,217
+2022-11-05,15,Hawaii,8
+2022-11-05,19,Iowa,16
+2022-11-05,16,Idaho,20
+2022-11-05,17,Illinois,176
+2022-11-05,18,Indiana,149
+2022-11-05,20,Kansas,35
+2022-11-05,21,Kentucky,139
+2022-11-05,22,Louisiana,170
+2022-11-05,25,Massachusetts,31
+2022-11-05,24,Maryland,165
+2022-11-05,23,Maine,3
+2022-11-05,26,Michigan,59
+2022-11-05,27,Minnesota,85
+2022-11-05,29,Missouri,71
+2022-11-05,28,Mississippi,254
+2022-11-05,30,Montana,5
+2022-11-05,37,North Carolina,279
+2022-11-05,38,North Dakota,5
+2022-11-05,31,Nebraska,28
+2022-11-05,33,New Hampshire,3
+2022-11-05,34,New Jersey,183
+2022-11-05,35,New Mexico,97
+2022-11-05,32,Nevada,31
+2022-11-05,36,New York,206
+2022-11-05,39,Ohio,211
+2022-11-05,40,Oklahoma,46
+2022-11-05,41,Oregon,46
+2022-11-05,42,Pennsylvania,221
+2022-11-05,72,Puerto Rico,101
+2022-11-05,44,Rhode Island,3
+2022-11-05,45,South Carolina,258
+2022-11-05,46,South Dakota,9
+2022-11-05,47,Tennessee,257
+2022-11-05,48,Texas,984
+2022-11-05,US,US,6535
+2022-11-05,49,Utah,5
+2022-11-05,51,Virginia,313
+2022-11-05,78,Virgin Islands,0
+2022-11-05,50,Vermont,1
+2022-11-05,53,Washington,42
+2022-11-05,55,Wisconsin,34
+2022-11-05,54,West Virginia,84
+2022-11-05,56,Wyoming,8
