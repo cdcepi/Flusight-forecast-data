@@ -1,0 +1,10 @@
+team_name: UNC Infectious Disease Dynamics
+model_name: InfluPaint
+model_abbr: UNC_IDD-InfluPaint
+model_contributors: Joseph C. Lemaitre (University of North Carolina at Chapel Hill) <jo.lemaitresamra@gmail.com>, Justin Lessler (University of North Carolina at Chapel Hill) <justin@jhu.edu>
+website_url: https://github.com/jcblemai/inpainting-idforecasts
+license: cc-by-4.0
+team_model_designation: primary
+methods: We train a denoising diffusion probabilistic models to generate possible flu seasons from noise. To produce forecasts, we "inpaint" the future from the ground-truth data provided.
+ensemble_of_hub_models: false
+twitter_handles: JosephLemaitre_, JustinLessler
