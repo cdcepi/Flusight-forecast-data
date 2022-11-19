@@ -5547,7 +5547,7 @@ date,location,location_name,value
 2022-02-19,21,Kentucky,20
 2022-02-19,22,Louisiana,40
 2022-02-19,25,Massachusetts,54
-2022-02-19,24,Maryland,12
+2022-02-19,24,Maryland,15
 2022-02-19,23,Maine,4
 2022-02-19,26,Michigan,52
 2022-02-19,27,Minnesota,28
@@ -5572,7 +5572,7 @@ date,location,location_name,value
 2022-02-19,46,South Dakota,14
 2022-02-19,47,Tennessee,29
 2022-02-19,48,Texas,284
-2022-02-19,US,US,1571
+2022-02-19,US,US,1574
 2022-02-19,49,Utah,6
 2022-02-19,51,Virginia,37
 2022-02-19,78,Virgin Islands,0
@@ -7563,16 +7563,16 @@ date,location,location_name,value
 2022-11-05,39,Ohio,211
 2022-11-05,40,Oklahoma,46
 2022-11-05,41,Oregon,46
-2022-11-05,42,Pennsylvania,244
+2022-11-05,42,Pennsylvania,238
 2022-11-05,72,Puerto Rico,101
 2022-11-05,44,Rhode Island,3
 2022-11-05,45,South Carolina,258
 2022-11-05,46,South Dakota,9
 2022-11-05,47,Tennessee,261
 2022-11-05,48,Texas,984
-2022-11-05,US,US,6566
+2022-11-05,US,US,6557
 2022-11-05,49,Utah,5
-2022-11-05,51,Virginia,313
+2022-11-05,51,Virginia,310
 2022-11-05,78,Virgin Islands,0
 2022-11-05,50,Vermont,1
 2022-11-05,53,Washington,42
@@ -7604,7 +7604,7 @@ date,location,location_name,value
 2022-11-12,26,Michigan,90
 2022-11-12,27,Minnesota,182
 2022-11-12,29,Missouri,115
-2022-11-12,28,Mississippi,255
+2022-11-12,28,Mississippi,257
 2022-11-12,30,Montana,12
 2022-11-12,37,North Carolina,374
 2022-11-12,38,North Dakota,10
@@ -7624,12 +7624,12 @@ date,location,location_name,value
 2022-11-12,46,South Dakota,13
 2022-11-12,47,Tennessee,317
 2022-11-12,48,Texas,1129
-2022-11-12,US,US,8849
+2022-11-12,US,US,8854
 2022-11-12,49,Utah,14
-2022-11-12,51,Virginia,338
+2022-11-12,51,Virginia,340
 2022-11-12,78,Virgin Islands,0
 2022-11-12,50,Vermont,0
 2022-11-12,53,Washington,105
-2022-11-12,55,Wisconsin,49
+2022-11-12,55,Wisconsin,50
 2022-11-12,54,West Virginia,130
 2022-11-12,56,Wyoming,13
