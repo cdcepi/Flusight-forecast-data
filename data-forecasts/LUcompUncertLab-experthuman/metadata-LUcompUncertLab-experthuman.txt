@@ -1,0 +1,13 @@
+team_name: computational uncertainty lab
+model_name: Interpolated and Projected Expert Human Predictions
+model_abbr: LUcompUncertLab-experthuman
+model_contributors: tom mcandrew (Lehigh Univeristy), Evan Ray (Umass Amherst), Nikos Bosse (LSHTM), Thomas Liptay (Metaculus)
+website_url: https://github.com/computationalUncertaintyLab/2022Flu_LUcompUncertLab 
+license: cc-by-4.0
+team_model_designation: proposed
+ensemble_of_hub_models: false 
+methods: A model built by expert judgement predictions.
+team_funding:
+data_inputs: Expert judgement prob densities
+citation:
+methods_long: ""
