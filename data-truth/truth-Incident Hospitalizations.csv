@@ -7647,7 +7647,7 @@ date,location,location_name,value
 2022-11-19,15,Hawaii,10
 2022-11-19,19,Iowa,36
 2022-11-19,16,Idaho,60
-2022-11-19,17,Illinois,446
+2022-11-19,17,Illinois,447
 2022-11-19,18,Indiana,264
 2022-11-19,20,Kansas,68
 2022-11-19,21,Kentucky,313
@@ -7678,7 +7678,7 @@ date,location,location_name,value
 2022-11-19,46,South Dakota,28
 2022-11-19,47,Tennessee,300
 2022-11-19,48,Texas,1230
-2022-11-19,US,US,11414
+2022-11-19,US,US,11415
 2022-11-19,49,Utah,8
 2022-11-19,51,Virginia,273
 2022-11-19,78,Virgin Islands,0
@@ -7689,9 +7689,9 @@ date,location,location_name,value
 2022-11-19,56,Wyoming,47
 2022-11-26,02,Alaska,60
 2022-11-26,01,Alabama,261
-2022-11-26,05,Arkansas,447
+2022-11-26,05,Arkansas,445
 2022-11-26,04,Arizona,612
-2022-11-26,06,California,2791
+2022-11-26,06,California,2792
 2022-11-26,08,Colorado,157
 2022-11-26,09,Connecticut,199
 2022-11-26,11,District of Columbia,70
@@ -7701,7 +7701,7 @@ date,location,location_name,value
 2022-11-26,15,Hawaii,12
 2022-11-26,19,Iowa,139
 2022-11-26,16,Idaho,155
-2022-11-26,17,Illinois,904
+2022-11-26,17,Illinois,901
 2022-11-26,18,Indiana,505
 2022-11-26,20,Kansas,186
 2022-11-26,21,Kentucky,603
@@ -7712,27 +7712,27 @@ date,location,location_name,value
 2022-11-26,26,Michigan,313
 2022-11-26,27,Minnesota,382
 2022-11-26,29,Missouri,548
-2022-11-26,28,Mississippi,281
+2022-11-26,28,Mississippi,282
 2022-11-26,30,Montana,50
 2022-11-26,37,North Carolina,471
 2022-11-26,38,North Dakota,28
-2022-11-26,31,Nebraska,61
+2022-11-26,31,Nebraska,62
 2022-11-26,33,New Hampshire,12
 2022-11-26,34,New Jersey,581
 2022-11-26,35,New Mexico,190
 2022-11-26,32,Nevada,252
-2022-11-26,36,New York,858
+2022-11-26,36,New York,863
 2022-11-26,39,Ohio,646
 2022-11-26,40,Oklahoma,422
 2022-11-26,41,Oregon,397
 2022-11-26,42,Pennsylvania,812
-2022-11-26,72,Puerto Rico,92
+2022-11-26,72,Puerto Rico,96
 2022-11-26,44,Rhode Island,16
 2022-11-26,45,South Carolina,233
 2022-11-26,46,South Dakota,63
-2022-11-26,47,Tennessee,530
+2022-11-26,47,Tennessee,534
 2022-11-26,48,Texas,1929
-2022-11-26,US,US,19760
+2022-11-26,US,US,19771
 2022-11-26,49,Utah,29
 2022-11-26,51,Virginia,435
 2022-11-26,78,Virgin Islands,0
