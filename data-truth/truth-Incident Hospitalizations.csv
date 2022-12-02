@@ -5547,7 +5547,7 @@ date,location,location_name,value
 2022-02-19,21,Kentucky,20
 2022-02-19,22,Louisiana,40
 2022-02-19,25,Massachusetts,54
-2022-02-19,24,Maryland,12
+2022-02-19,24,Maryland,15
 2022-02-19,23,Maine,4
 2022-02-19,26,Michigan,52
 2022-02-19,27,Minnesota,28
@@ -5572,7 +5572,7 @@ date,location,location_name,value
 2022-02-19,46,South Dakota,14
 2022-02-19,47,Tennessee,29
 2022-02-19,48,Texas,284
-2022-02-19,US,US,1571
+2022-02-19,US,US,1574
 2022-02-19,49,Utah,6
 2022-02-19,51,Virginia,37
 2022-02-19,78,Virgin Islands,0
@@ -7645,7 +7645,7 @@ date,location,location_name,value
 2022-11-19,12,Florida,504
 2022-11-19,13,Georgia,193
 2022-11-19,15,Hawaii,10
-2022-11-19,19,Iowa,36
+2022-11-19,19,Iowa,37
 2022-11-19,16,Idaho,60
 2022-11-19,17,Illinois,447
 2022-11-19,18,Indiana,264
@@ -7678,7 +7678,7 @@ date,location,location_name,value
 2022-11-19,46,South Dakota,28
 2022-11-19,47,Tennessee,300
 2022-11-19,48,Texas,1230
-2022-11-19,US,US,11415
+2022-11-19,US,US,11416
 2022-11-19,49,Utah,8
 2022-11-19,51,Virginia,273
 2022-11-19,78,Virgin Islands,0
@@ -7687,11 +7687,11 @@ date,location,location_name,value
 2022-11-19,55,Wisconsin,109
 2022-11-19,54,West Virginia,135
 2022-11-19,56,Wyoming,47
-2022-11-26,02,Alaska,60
+2022-11-26,02,Alaska,61
 2022-11-26,01,Alabama,261
 2022-11-26,05,Arkansas,445
 2022-11-26,04,Arizona,612
-2022-11-26,06,California,2792
+2022-11-26,06,California,2790
 2022-11-26,08,Colorado,157
 2022-11-26,09,Connecticut,199
 2022-11-26,11,District of Columbia,70
@@ -7702,7 +7702,7 @@ date,location,location_name,value
 2022-11-26,19,Iowa,139
 2022-11-26,16,Idaho,155
 2022-11-26,17,Illinois,901
-2022-11-26,18,Indiana,505
+2022-11-26,18,Indiana,504
 2022-11-26,20,Kansas,186
 2022-11-26,21,Kentucky,603
 2022-11-26,22,Louisiana,240
@@ -7723,7 +7723,7 @@ date,location,location_name,value
 2022-11-26,32,Nevada,252
 2022-11-26,36,New York,863
 2022-11-26,39,Ohio,646
-2022-11-26,40,Oklahoma,422
+2022-11-26,40,Oklahoma,425
 2022-11-26,41,Oregon,397
 2022-11-26,42,Pennsylvania,812
 2022-11-26,72,Puerto Rico,96
@@ -7732,7 +7732,7 @@ date,location,location_name,value
 2022-11-26,46,South Dakota,63
 2022-11-26,47,Tennessee,534
 2022-11-26,48,Texas,1929
-2022-11-26,US,US,19771
+2022-11-26,US,US,19772
 2022-11-26,49,Utah,29
 2022-11-26,51,Virginia,435
 2022-11-26,78,Virgin Islands,0
