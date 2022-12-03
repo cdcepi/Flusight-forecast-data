@@ -5547,7 +5547,7 @@ date,location,location_name,value
 2022-02-19,21,Kentucky,20
 2022-02-19,22,Louisiana,40
 2022-02-19,25,Massachusetts,54
-2022-02-19,24,Maryland,15
+2022-02-19,24,Maryland,14
 2022-02-19,23,Maine,4
 2022-02-19,26,Michigan,52
 2022-02-19,27,Minnesota,28
@@ -5572,7 +5572,7 @@ date,location,location_name,value
 2022-02-19,46,South Dakota,14
 2022-02-19,47,Tennessee,29
 2022-02-19,48,Texas,284
-2022-02-19,US,US,1574
+2022-02-19,US,US,1573
 2022-02-19,49,Utah,6
 2022-02-19,51,Virginia,37
 2022-02-19,78,Virgin Islands,0
@@ -7552,7 +7552,7 @@ date,location,location_name,value
 2022-11-05,29,Missouri,71
 2022-11-05,28,Mississippi,255
 2022-11-05,30,Montana,5
-2022-11-05,37,North Carolina,279
+2022-11-05,37,North Carolina,281
 2022-11-05,38,North Dakota,5
 2022-11-05,31,Nebraska,28
 2022-11-05,33,New Hampshire,3
@@ -7570,9 +7570,9 @@ date,location,location_name,value
 2022-11-05,46,South Dakota,9
 2022-11-05,47,Tennessee,261
 2022-11-05,48,Texas,984
-2022-11-05,US,US,6564
+2022-11-05,US,US,6571
 2022-11-05,49,Utah,5
-2022-11-05,51,Virginia,310
+2022-11-05,51,Virginia,315
 2022-11-05,78,Virgin Islands,0
 2022-11-05,50,Vermont,1
 2022-11-05,53,Washington,42
@@ -7701,7 +7701,7 @@ date,location,location_name,value
 2022-11-26,15,Hawaii,12
 2022-11-26,19,Iowa,139
 2022-11-26,16,Idaho,155
-2022-11-26,17,Illinois,901
+2022-11-26,17,Illinois,907
 2022-11-26,18,Indiana,504
 2022-11-26,20,Kansas,186
 2022-11-26,21,Kentucky,603
@@ -7714,7 +7714,7 @@ date,location,location_name,value
 2022-11-26,29,Missouri,548
 2022-11-26,28,Mississippi,282
 2022-11-26,30,Montana,50
-2022-11-26,37,North Carolina,471
+2022-11-26,37,North Carolina,467
 2022-11-26,38,North Dakota,28
 2022-11-26,31,Nebraska,62
 2022-11-26,33,New Hampshire,12
@@ -7725,14 +7725,14 @@ date,location,location_name,value
 2022-11-26,39,Ohio,646
 2022-11-26,40,Oklahoma,425
 2022-11-26,41,Oregon,397
-2022-11-26,42,Pennsylvania,812
+2022-11-26,42,Pennsylvania,814
 2022-11-26,72,Puerto Rico,96
 2022-11-26,44,Rhode Island,16
 2022-11-26,45,South Carolina,233
 2022-11-26,46,South Dakota,63
 2022-11-26,47,Tennessee,534
 2022-11-26,48,Texas,1929
-2022-11-26,US,US,19772
+2022-11-26,US,US,19776
 2022-11-26,49,Utah,29
 2022-11-26,51,Virginia,435
 2022-11-26,78,Virgin Islands,0
