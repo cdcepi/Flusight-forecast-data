@@ -7718,7 +7718,7 @@ date,location,location_name,value
 2022-11-26,38,North Dakota,28
 2022-11-26,31,Nebraska,62
 2022-11-26,33,New Hampshire,12
-2022-11-26,34,New Jersey,581
+2022-11-26,34,New Jersey,580
 2022-11-26,35,New Mexico,190
 2022-11-26,32,Nevada,252
 2022-11-26,36,New York,863
@@ -7732,7 +7732,7 @@ date,location,location_name,value
 2022-11-26,46,South Dakota,63
 2022-11-26,47,Tennessee,534
 2022-11-26,48,Texas,1929
-2022-11-26,US,US,19776
+2022-11-26,US,US,19775
 2022-11-26,49,Utah,29
 2022-11-26,51,Virginia,435
 2022-11-26,78,Virgin Islands,0
@@ -7741,3 +7741,57 @@ date,location,location_name,value
 2022-11-26,55,Wisconsin,258
 2022-11-26,54,West Virginia,209
 2022-11-26,56,Wyoming,45
+2022-12-03,02,Alaska,66
+2022-12-03,01,Alabama,357
+2022-12-03,05,Arkansas,468
+2022-12-03,04,Arizona,840
+2022-12-03,06,California,3160
+2022-12-03,08,Colorado,175
+2022-12-03,09,Connecticut,461
+2022-12-03,11,District of Columbia,58
+2022-12-03,10,Delaware,83
+2022-12-03,12,Florida,926
+2022-12-03,13,Georgia,238
+2022-12-03,15,Hawaii,12
+2022-12-03,19,Iowa,191
+2022-12-03,16,Idaho,151
+2022-12-03,17,Illinois,1126
+2022-12-03,18,Indiana,871
+2022-12-03,20,Kansas,266
+2022-12-03,21,Kentucky,837
+2022-12-03,22,Louisiana,286
+2022-12-03,25,Massachusetts,451
+2022-12-03,24,Maryland,391
+2022-12-03,23,Maine,116
+2022-12-03,26,Michigan,494
+2022-12-03,27,Minnesota,474
+2022-12-03,29,Missouri,887
+2022-12-03,28,Mississippi,263
+2022-12-03,30,Montana,72
+2022-12-03,37,North Carolina,691
+2022-12-03,38,North Dakota,53
+2022-12-03,31,Nebraska,110
+2022-12-03,33,New Hampshire,34
+2022-12-03,34,New Jersey,999
+2022-12-03,35,New Mexico,365
+2022-12-03,32,Nevada,404
+2022-12-03,36,New York,1392
+2022-12-03,39,Ohio,912
+2022-12-03,40,Oklahoma,839
+2022-12-03,41,Oregon,529
+2022-12-03,42,Pennsylvania,1366
+2022-12-03,72,Puerto Rico,92
+2022-12-03,44,Rhode Island,25
+2022-12-03,45,South Carolina,243
+2022-12-03,46,South Dakota,68
+2022-12-03,47,Tennessee,682
+2022-12-03,48,Texas,2248
+2022-12-03,US,US,26882
+2022-12-03,49,Utah,36
+2022-12-03,51,Virginia,474
+2022-12-03,78,Virgin Islands,0
+2022-12-03,50,Vermont,32
+2022-12-03,53,Washington,711
+2022-12-03,55,Wisconsin,482
+2022-12-03,54,West Virginia,303
+2022-12-03,56,Wyoming,72
