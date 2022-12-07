@@ -1,118 +1,58 @@
 # Experimental Target Data submission instructions
 
 This page is intended to provide teams with all the information they
-need to submit experimental target forecasts. We note that these instructions have been
-adapted from the [COVID-19 Forecast
+need to submit experimental target forecasts for the 2022-2023 influenza. We note that these instructions have been adapted from the [COVID-19 Forecast
 Hub](https://github.com/reichlab/covid19-forecast-hub).
 
-All forecasts should be submitted directly to the [data-experimental/](./)
-folder. Data in this directory should be added to the repository through a pull request that is separate from pull requests containing standard forecasts. Please note that automatic data validation checks will not be run for experimental targets and additional file formatting diligence will be appreciated.
+All experimental target forecasts should be submitted directly to the [data-experimental/](./)
+folder. Data in this directory should be added to the repository through a pull request that is separate from pull requests containing standard forecasts. Please note that automatic data validation checks will not be run for experimental targets and additional file formatting diligence is appreciated.
 
-These instructions provide detail about the [data
-format](#Data-formatting) needed prior to submitting a pull request. 
 
 *Table of Contents*
 
--   [What is a forecast](#What-is-a-forecast)
--   [Gold standard data](#Gold-standard-data)
--   [Data formatting](#Data-formatting)
+-   [Objective](#Objective)
+-   [Proposal](#Proposal)
 -   [Forecast file format](#Forecast-file-format)
--   [Forecast data validation](#Forecast-validation)
--   [Weekly ensemble build](#Weekly-ensemble-build)
--   [Policy on late submissions](#policy-on-late-or-updated-submissions)
 
-## What is a forecast 
+## Objective
 
-Models are asked to make specific quantitative forecasts about data that
-will be observed in the future. These forecasts are interpreted as
-"unconditional" predictions about the future. That is, they are not
-predictions only for a limited set of possible future scenarios in which
-a certain set of conditions (e.g. vaccination uptake is strong, or new
-social-distancing mandates are put in place) hold about the future --
-rather, they should characterize uncertainty across all reasonable
-future scenarios. In practice, all forecasting models make some
-assumptions about how current trends in data may change and impact the
-forecasted outcome; some teams select a "most likely" scenario or
-combine predictions across multiple scenarios that may occur. Forecasts
-submitted to this repository will be evaluated against observed data.
+The purpose of introducing an additional experimental target is to provide an opportunity for forecasting teams to submit forecasts for increasing and decreasing activity. While forecasting the magnitude of change during periods of rapid changes in hospitalizations is difficult, it may be possible to reliably forecast the direction of change. If categorical forecasts are shown to be reliable, they would provide valuable information for public health stakeholders. 
 
-We note that other modeling efforts, such as the [COVID-19 Scenario
-Modeling Hub](https://covid19scenariomodelinghub.org/), have been
-launched to collect and aggregate model outputs from "scenario
-projection" models. These models create longer-term projections under a
-specific set of assumptions about how the main drivers of the pandemic
-(such as non-pharmaceutical intervention compliance, or vaccination
-uptake) may change over time.
+## Proposal
+For the 2022-23 influenza season, we define categorical rate changes as follows. State-level changes in hospital admission incidence will be considered in terms of differences on a rate scale (counts per 100k people). Thresholds separating categories of change (e.g., separating "stable" forecasts from "increase" forecasts) will be the same across states, but are translatable into counts using the state's population size (see locations.csv, in the data-locations subfolder of the Flusight-forecast-data repository). The experimental target, named "2 wk flu hosp rate change" will be submitted as estimates of the probability of occurrence for each rate change category in a new subdirectory of the Flusight-forecast data repository: data-experimental.
 
-## Gold standard data 
+Observed changes, for the purpose of evaluating experimental target forecasts, will be determined by final reported values for weekly influenza admissions in the HHS Protect dataset (see FluSight Guidelines for the 2022-23 season for additional details). As such, forecasting teams are encouraged to consider uncertainty in values as they are reported in real time.
 
-This project treats hospitalization data reported from the HHS Protect
-system at [HealthData.gov](https://healthdata.gov/dataset/covid-19-reported-patient-impact-and-hospital-capacity-state-timeseries) as "gold standard" data. We create processed
-versions of these data that are stored in this repository.
+*Note:* This season we will solicit these targets for two-week ahead horizons (i.e., rate difference between week t+2 and current week t). The utility of providing categorical forecasts at other time horizons may be considered in future seasons.
 
-Details on how gold standard data are defined can be found in the
-[data-truth folder README file](../data-truth/README.md).
+The experimental rate change targets will be reported as probabilities of occurrence and binned into the following categories: stable, increase, decrease, large increase, large decrease, and defined as follows (see Appendix 2 for equivalent diagram):
 
-## Data formatting 
+A forecasted change will be defined as the rate change between the 2-week-ahead and finalized hospitalization rates in the preceding week the forecast were made (i.e., rate_change = yt+2 - yt, where yt denotes the rate of weekly hospitalizations at time t in units of counts/100k). Corresponding count changes are based on state-level population sizes (i.e., count_change = rate_change*state_population / 100,000). See the locations.csv file in [data-locations/](../data-locations) for the population sizes that will be used to calculate rates.  
 
-The automatic checks in place for forecast files submitted to this
-repository validates both the filename and file contents to ensure the
-file can be used in the visualization and ensemble forecasting.
+*Stable:* forecasted changes in hospitalizations qualify as stable if either the magnitude of the rate change is less than 1/100k OR the corresponding magnitude of the count change is less than 20. 
+  
+*Increase:* positive forecasted changes that do not qualify as stable and for which the forecasted rate change is less than 2/100k OR the magnitude of the count change is less than 40.
+
+*Large increase:* positive forecasted rate changes that are larger than or equal to 2/100k, AND the count change is larger than or equal to 40. 
+
+*Decrease:* negative forecasted rate changes that do not qualify as stable and for which the forecasted rate change is less than 2/100k OR the magnitude of the count change is less than 40.
+
+*Large decrease:* negative forecasted rate changes that have a magnitude larger than or equal to 2/100k, AND the magnitude of count change is larger than or equal to 40. 
+
+
+
+## Experimental Target forecast formatting
 
 ### Subdirectory
 
-Each subdirectory within the [data-forecasts/](data-forecasts/)
-directory has the format
+Each model that submits experimental target forecasts will have a unique subdirectory within the GitHub repository where forecasts will be submitted. These subdirectories should be located in the data-experimental subdirectory and must be named in accordance with the [guidelines for general forecast submissions](../data-forecasts/README.md).
 
-    team-model
+In addition to forecast files (see formatting details below), subdirectories may also contain an optional metadata file or license file.  These are particularly encouraged if needed to document any differences from the corresponding files associated with a team's standard forecasts.   
 
-where
-
--   `team` is the teamname and
--   `model` is the name of your model.
-
-Both team and model should be less than 15 characters and not include
-hyphens Both team and model should be less than 15 characters and not
-include hyphens or other special characters, with the exception of "\_".
-The `model` should be unique from any other model in the project.
-
-Note that teams that submitted forecasts during the 2021-2022 season
-should add new forecasts to the existing subdirectory, provided that the
-forecasts were generated using the same model. New teams or modeling
-groups that submit forecasts generated by a new model will need to add a
-subdirectory using the above conventions.
-
-Within each subdirectory, there should be a metadata file, a license
-file (optional), and a set of forecasts.
-
-### Metadata
-
-The metadata file should have the following format
-
-    metadata-team-model.txt
-
-and here is [the structure of the metadata
-file](https://github.com/cdcepi/Flusight-forecast-data/blob/master/data-forecasts/METADATA.md).
-Note that returning teams should update the metadata file provided
-during the 2021-2022 season to document any changes that have been made
-to their model.
-
-### License (optional)
-
-By default, forecasts are released under a CC-BY 4.0 license. If you
-would like to release your forecasts under a different license, please
-specify a [standard license](../accepted-licenses.csv) in the `license`
-field of your metadata file. Alternatively, if you wish to use a license
-that is not in the list of [standard
-licenses](../accepted-licenses.csv), you may include a
-
-    LICENSE.txt
-
-file in your model directory.
 
 ### Forecasts
 
-Each forecast file within the subdirectory should have the following
+Each experimental forecast file should have the following
 format
 
     YYYY-MM-DD-team-model.csv
@@ -126,8 +66,7 @@ where
 -   `model` is the name of your model.
 
 The date YYYY-MM-DD is the [`forecast_date`](#forecast_date). For this
-project, the `forecast_date` should always be the Monday on which the
-submission is due.
+project, the `forecast_date` should always be the Monday Forecast Due Date.
 
 The `team` and `model` in this file must match the `team` and `model` in
 the directory this file is in. Both `team` and `model` should be less
@@ -141,143 +80,72 @@ columns (in any order):
 
 -   `forecast_date`
 -   `target`
--   `target_end_date`
 -   `location`
 -   `type`
--   `quantile`
+-   `type_id`
 -   `value`
 
 No additional columns are allowed.
 
-Each row in the file is either a point or quantile forecast for a
-location on a particular date for a particular target.
+Each row in the file is a point forecast for a location on a particular date for the experimental target.
 
 ### `forecast_date` 
 
-Values in the `forecast_date` column must be a date in the format
+Values in the `forecast_date` column must be a date in the ISO format
 
     YYYY-MM-DD
 
-This is the Forecast Due Date for the submission and will always be a
-Monday. `forecast_date` should correspond and be redundant with the date
-in the filename, and is included here by request from some analysts.
+This is the Forecast Due Date for the submission and will always match the weekly date of standard forecast submissions. `forecast_date` should correspond and be redundant with the date in the filename but is included here to facilitate validation and analysis.
 
 ### `target`
 
-Values in the `target` column must be a character (string) and be one of
-the following specific targets:
+Values in the `target` column must be a character (string):
 
--   “N wk ahead inc flu hosp” where N is a number between 1 and 4
+"2 wk flu hosp rate change".
 
-For week-ahead forecasts, we will use the specification of
-epidemiological weeks (EWs) [defined by the US
-CDC](https://wwwn.cdc.gov/nndss/document/MMWR_Week_overview.pdf) which
-run Sunday through Saturday. There are standard software packages to
-convert from dates to epidemic weeks and vice versa. E.g.
-[MMWRweek](https://cran.r-project.org/web/packages/MMWRweek/) for R and
-[pymmwr](https://pypi.org/project/pymmwr/) and
-[epiweeks](https://pypi.org/project/epiweeks/) for python.
-
-For week-ahead forecasts with `forecast_date` of Monday of EW12, a 1
-week ahead forecast corresponds to EW12 and should have
-`target_end_date` of the Saturday of EW12.
-
-#### N week ahead inc flu hosp
-
-This target is the number of new weekly hospitalizations predicted by
-the model during the week that is N weeks after `forecast_date`.
-
-### `target_end_date`
-
-Values in the `target_end_date` column must be a date in the format
-
-    YYYY-MM-DD
-
-This is the date for the forecast `target`. For “# wk” targets,
-`target_end_date` will be the Saturday at the end of the forecasted
-week. As a reminder, the `target_end_date` is the end date of the week
-during which the admissions occur, not the date the admission is
-reported (see the data processing section for more details).
 
 ### `location`
 
-Values in the `location` column must be one of the “locations” in
+Values in the `location` column must be one of the "locations" in
 this [FIPS numeric code file](../data-locations/locations.csv) which
 includes numeric FIPS codes for U.S. states and selected jurisdictions
 (Washington DC, Puerto Rico, and the US Virgin Islands) as well as
-“US” for national forecasts.
+"US" for national forecasts.
 
 Please note that when writing FIPS codes, they should be written in as a
 character string to preserve any leading zeroes.
 
+Difference in weekly rates will not be evaluated for the following territories due to small population sizes: American Samoa, Guam, Northern Mariana Islands, and Virgin Islands.
+
 ### `type`
 
-Values in the `type` column are either
+Values in the `type` column are "category" for this experimental target.
 
--   “point” or
--   “quantile”.
+This value indicates that the row corresponds to a categorical forecast.
 
-This value indicates whether that row corresponds to a point forecast or
-a quantile forecast. Point forecasts may be used in visualization while
-quantile forecasts are used in visualization and in ensemble
-construction.
 
-**When point forecasts are not included, the median for every
-location-target pair will be interpreted as the point forecast.**
+### `type_id`
 
-### `quantile`
+Values in the `type_id` column must be a character (string) indicating the experimental rate change category, formatted as follows:
 
-Values in the `quantile` column are either “NA” (if `type` is
-“point”) or a quantile in the format
+- "stable"
+- "increase"
+- "decrease"
+- "large_increase"
+- "large_decrease"
 
-    0.###
-
-For quantile forecasts, this value indicates the quantile for the
-`value` in this row.
-
-Teams must provide the following 23 quantiles:
-
-0.010, 0.025, 0.050, 0.100, 0.150, 0.200, 0.250, 0.300, 0.350, 0.400,
-0.450, 0.500, 0.550, 0.600, 0.650, 0.700, 0.750, 0.800, 0.850, 0.900,
-0.950, 0.975, and 0.990
-
-R: c(0.01, 0.025, seq(0.05, 0.95, by = 0.05), 0.975, 0.99) Python:
-quantiles =
-np.append(np.append([0.01,0.025],np.arange(0.05,0.95+0.05,0.050)),
-[0.975,0.99])
 
 ### `value`
 
-Values in the `value` column are non-negative numbers indicating the
-“point” or “quantile” prediction for this row. For a “point”
-prediction, `value` is simply the value of that point prediction for the
-`target` and `location` associated with that row. For a “quantile”
-prediction, `value` is the inverse of the cumulative distribution
-function for the `target`, `location`, and `quantile` associated with
-that row. For example, the 2.5 and 97.5 quantiles for a given target and
-location should capture 95% of the forecasted values and correspond to
-the 95% Prediction Intervals.
+Values in the value column are probabilities (non-negative numbers that are greater than or equal to 0 and less than or equal to 1) indicating the estimated probability for the category specified in the `type_id` column for this row. 
 
-## Forecast validation 
 
-To ensure proper data formatting, pull requests for new data in
-`data-forecasts/` will be automatically run.
 
-### Pull request forecast validation
+### Forecast submission
 
-When a pull request is submitted, the data are validated through [Github
-Actions](https://docs.github.com/en/actions) which runs the tests
-present in [the validations
-repository](https://github.com/cdcepi/Flusight-forecast-validation). The
-intent for these tests are to validate the requirements above. Please
+Experimental Target Forecasts should be submitted via pull request to CDC EPI GitHub repository [https://github.com/cdcepi/Flusight-forecast-data](https://github.com/cdcepi/Flusight-forecast-data) in the data-experimental subdirectory.  
+After pull requests are submitted, submissions will be scanned for formatting issues. Please
 [let us know](https://github.com/cdcepi/Flusight-forecast-data/issues)
-if you are facing issues while running the tests.
+if you have any questions about submitting experimental target forecasts.
 
-## Weekly ensemble build 
 
-Every Tuesday morning, we will generate the ensemble forecast using a
-single valid forecast from each team that submitted in the current week by the Monday 11PM ET deadline.
-
-## Policy on late or updated submissions 
-
-In order to ensure that forecasting is done in real-time, all forecasts are required to be submitted to this repository by 11pm ET on Mondays each week. We do not accept late forecasts.
