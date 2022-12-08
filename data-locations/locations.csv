@@ -1,12 +1,12 @@
 ﻿abbreviation,location,location_name,population,count_rate1per100k,count_rate2per100k
 US,US,US,331893745,3319,6638
-AL,1,Alabama,5039877,50,101
-AK,2,Alaska,732673,7,15
-AZ,4,Arizona,7276316,73,146
-AR,5,Arkansas,3025891,30,61
-CA,6,California,39237836,392,785
-CO,8,Colorado,5812069,58,116
-CT,9,Connecticut,3605597,36,72
+AL,01,Alabama,5039877,50,101
+AK,02,Alaska,732673,7,15
+AZ,04,Arizona,7276316,73,146
+AR,05,Arkansas,3025891,30,61
+CA,06,California,39237836,392,785
+CO,08,Colorado,5812069,58,116
+CT,09,Connecticut,3605597,36,72
 DE,10,Delaware,1003384,10,20
 DC,11,District of Columbia,670050,7,13
 FL,12,Florida,21781128,218,436
