@@ -1,0 +1,10 @@
+team_name: Fogarty International Center, National Institutes of Health (NIH)
+model_name: Flu_ARIMA
+model_abbr: NIH-Flu_ARIMA
+model_contributors: Amanda Perofsky (NIH) <amanda.perofsky@nih.gov>, Cécile Viboud (NIH) <viboudc@mail.nih.gov>
+website_url: https://github.com/midas-network/flu-scenario-modeling-hub/tree/main/data-processed/NIH-Flu_TS
+license: cc-by-4.0
+team_model_designation: primary
+methods: Seasonal ARIMA model with exogenous covariates for cumulative vaccination coverage, seasonal vaccine effectiveness, weekly A/H3N2 circulation, and influenza transmissibility.
+ensemble_of_hub_models: false
+data_inputs: Forecasts use HHS influenza hospitalization data, CDC FluSurv-NET hospitalization rates, syndromic and virologic surveillance data from CDC FluView, vaccination coverage estimates from the National Center for Immunization and Respiratory Diseases, and seasonal vaccine effectiveness estimates from published observational studies and the CDC.

@@ -1,10 +1,16 @@
 team_name: University of Virginia, Biocomplexity Institute
 model_name: Ensemble model
 model_abbr: UVAFluX-Ensemble
-model_contributors: Aniruddha Adiga (UVA)<aniruddha@virginia.edu>,  Lijing Wang(UVA), Srinivasan Venkatramanan (UVA), Akhil Sai Peddireddy (UVA), Benjamin Hurt (UVA), Bryan Lewis (UVA), Madhav Marathe (UVA), Jiangzhou Chen, Anil Vullikanti.
+model_contributors: Aniruddha Adiga (UVA)<aniruddha@virginia.edu>,
+  Srinivasan Venkatramanan (UVA), Gursharn Kaur (UVA), Benjamin Hurt (UVA),
+  Bryan Lewis (UVA), and Madhav Marathe (UVA).
 website_url: https://biocomplexity.virginia.edu/
 license: cc-by-4.0
 team_model_designation: primary
 ensemble_of_hub_models: false
-methods: An ensemble of multiple methods such as auto-regressive (AR) models with exogenous variables, ARIMA and Long short-term memory (lSTM) models.
-methods_long: "This is a US national and state-level multi-method model forecasting the new influenza hospitalizations. Multiple methods include AR methods with exogenous variables such as other county case countstime-series,ARIMA and LSTM model. The model forecasts are combined using Bayesian model averaging."
+methods: An ensemble of multiple methods such as ARIMA, Long short-term
+  memory (lSTM) and piecewise-linear fit model.
+methods_long: "This is a US national and state-level multi-method model
+  forecasting the new influenza hospitalizations. Multiple methods include
+  ARIMA (optimized for length of observed data), LSTM model, and
+  piecewise-linear approximation model for trend projection. The model forecasts are combined using Bayesian model averaging."

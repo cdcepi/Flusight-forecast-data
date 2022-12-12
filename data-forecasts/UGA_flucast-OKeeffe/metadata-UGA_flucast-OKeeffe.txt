@@ -1,0 +1,11 @@
+team_name: UGA_flucast
+model_name: UGA_flucast-OKeeffe
+model_abbr: UGA_flucast-OKeeffe
+model_contributors: Spencer Fox, Graham Gibson, Lauren Meyers
+website_url: https://thefoxlab.wordpress.com/
+license: mit
+team_model_designation: primary
+ensemble_of_hub_models: false
+methods: See github page 
+data_inputs: previous_day_admission_influenza_confirmed_coverage 
+methods_long: See Github page 
