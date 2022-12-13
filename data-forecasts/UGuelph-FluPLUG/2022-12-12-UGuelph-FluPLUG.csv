@@ -88,6 +88,6 @@
 2022-12-12,"3 wk ahead inc flu hosp",2022-12-31,"US","quantile",0.975,7068824.804053
 2022-12-12,"4 wk ahead inc flu hosp",2023-01-07,"US","quantile",0.975,29697299.9972424
 2022-12-12,"1 wk ahead inc flu hosp",2022-12-17,"US","quantile",0.99,35798697.7434972
-2022-12-12,"2 wk ahead inc flu hosp",2022-12-24,"US","quantile",0.99,1004386659.0947
-2022-12-12,"3 wk ahead inc flu hosp",2022-12-31,"US","quantile",0.99,30636226313.0309
-2022-12-12,"4 wk ahead inc flu hosp",2023-01-07,"US","quantile",0.99,968225120284.139
+2022-12-12,"2 wk ahead inc flu hosp",2022-12-24,"US","quantile",0.99,298704370.5
+2022-12-12,"3 wk ahead inc flu hosp",2022-12-31,"US","quantile",0.99,298704370.5
+2022-12-12,"4 wk ahead inc flu hosp",2023-01-07,"US","quantile",0.99,298704370.5
