@@ -1,0 +1,9 @@
+team_name: University of Georgia Center for the Ecology of Infectious Diseases Forecasting Working Group
+model_name: Walk
+model_abbr: CEID-Walk
+model_contributors: Avranil Basu (CEID) <avranil.basu@uga.edu>
+website_url: https://www.ceid.uga.edu/
+license: cc-by-4.0
+team_model_designation: primary
+ensemble_of_hub_models: false
+methods: We use a random walk model without drift. The last few observations of a target time series are used to estimate the variance in step size of the random walk.

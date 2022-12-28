@@ -1,0 +1,13 @@
+team_name: computational uncertainty lab
+model_name: hierarchical compartmental model
+model_abbr: LUcompUncertLab-hier_mech_model
+model_contributors: tom mcandrew (Lehigh Univeristy), Casey Gibson
+website_url: https://github.com/computationalUncertaintyLab/
+license: cc-by-4.0
+team_model_designation: other
+ensemble_of_hub_models: false 
+methods: We fit a compartmental model where S0 is shared between seasons
+team_funding: 
+data_inputs: HHS daily confirmed influenza hospitilizations.
+citation:
+methods_long: ""

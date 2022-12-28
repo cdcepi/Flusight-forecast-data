@@ -1,0 +1,15 @@
+team_name: Umass-Amherst
+model_name: ARIMA 
+model_abbr: Umass-ARIMA
+model_contributors: Martha Zorn, Ariane Stark, Nick Reich <nick@umass.edu>, Evan Ray <elray@umass.edu>
+website_url: https://github.com/reichlab/flu-hosp-models-2021-2022
+license: cc-by-4.0
+team_model_designation: secondary
+ensemble_of_hub_models: false
+methods: 'Autoregressive integrated moving average of time-series model'
+methods_long: 'Autoregressive integrated moving average (ARIMA) of time-series model. Cube root
+   transformations are used with ARIMA method. Non-seasonal components (p,d,q) are selected each week 
+   based on the lowest AIC, AICc, or BIC value.'
+data_inputs: MA DPH Syndromic Surveillance (SyS) for 2017 to 2021 and Influenza hospitaliztion data from HealthData from October 2021 on
+team_funding: This model development is supported by NIGMS grant R35GM119582 and CDC grant U01IP001122. The content is solely the responsibility of the authors and does not necessarily represent the official views of CDC, NIGMS, or the National Institutes of Health.
+twitter_handles: reichlab
