@@ -1,0 +1,10 @@
+team_name: Virginia Tech, Sanghani Center for Artificial Intelligence and Data Analytics
+model_name: Exogenous Model
+model_abbr: VTSanghani-ExogModel
+model_contributors: Patrick Butler <pabutler@vt.edu>, Andrew Farabow, Nikhil Muralidhar, Naren Ramakrishnan
+website_url: https://sanghani.cs.vt.edu/
+license: cc-by-4.0
+team_model_designation: primary
+ensemble_of_hub_models: false
+methods: A deep learning model that makes use of various exogenous datasets
+methods_long: "This is a state-level model that makes use of exogenous datasets such as weather and air quality data to predict influenza hospitalizations"

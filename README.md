@@ -1,4 +1,4 @@
-## CDC FluSight Hospitalization Forecasts, 2021-2022
+## CDC FluSight Hospitalization Forecasts
 
 This is the data repository for CDC FluSight hospitalization forecasts. 
 
