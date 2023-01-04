@@ -1,0 +1,13 @@
+team_name: computational uncertainty lab
+model_name: RCLP Ensemble
+model_abbr: LUcompUncertLab-ensemble_rclp
+model_contributors: tom mcandrew (Lehigh Univeristy), evan ray (Umass amherst)
+website_url: https://github.com/computationalUncertaintyLab/
+license: cc-by-4.0
+team_model_designation: primary
+ensemble_of_hub_models: true 
+methods: A model that combines component models and recalibrates using a mixture of beta distributions
+team_funding: 
+data_inputs: HHS confirmed influenza hospitilizations. Models form LU
+citation:
+methods_long: ""
