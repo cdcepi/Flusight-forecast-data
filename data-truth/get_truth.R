@@ -155,6 +155,7 @@ library(covidcast)
 library(lubridate)
 library(httr)
 library(jsonlite)
+library(RSocrata)
 # generate the latest weekly truth data file
 truth <- load_flu_hosp_data(temporal_resolution = 'weekly', na.rm = TRUE)
 # write truth data file
