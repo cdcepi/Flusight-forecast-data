@@ -80,14 +80,17 @@ load_flu_hosp_data <- function(as_of = NULL,
       dplyr::select(geo_value, epiyear, epiweek, time_value, value) %>%
       dplyr::rename(date = time_value)
   } else {
-    temp <- httr::GET(
-      "https://healthdata.gov/resource/qqte-vkut.json",
-      config = httr::config(ssl_verifypeer = FALSE)
-    ) %>%
-      as.character() %>%
-      jsonlite::fromJSON() %>%
+    # temp <- httr::GET(
+    #   "https://healthdata.gov/resource/qqte-vkut.json",
+    #   config = httr::config(ssl_verifypeer = FALSE)
+    # ) %>%
+    #   as.character() %>%
+    #   jsonlite::fromJSON() %>%
+    #   dplyr::arrange(update_date)
+    # csv_path <- tail(temp$archive_link$url, 1)
+    temp <- RSocrata::read.socrata(url = "https://healthdata.gov/resource/qqte-vkut.json") %>% 
       dplyr::arrange(update_date)
-    csv_path <- tail(temp$archive_link$url, 1)
+    csv_path <- tail(temp$url, 1)
     data <- readr::read_csv(csv_path)
     state_dat <- data %>%
       dplyr::transmute(
