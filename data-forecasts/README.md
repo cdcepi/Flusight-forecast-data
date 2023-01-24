@@ -130,7 +130,7 @@ where
 -   `model` is the name of your model.
 
 The date YYYY-MM-DD is the [`forecast_date`](#forecast_date). For this
-project, the `forecast_date` should always be the Monday on which the
+project, the `forecast_date` should always be the Monday of the week the
 submission is due.
 
 The `team` and `model` in this file must match the `team` and `model` in
@@ -162,8 +162,8 @@ Values in the `forecast_date` column must be a date in the format
 
     YYYY-MM-DD
 
-This is the Forecast Due Date for the submission and will always be a
-Monday. `forecast_date` should correspond and be redundant with the date
+This is the Forecast Date for the submission and will always be a
+Monday (previously also the forecast due date until 1/6/2023). `forecast_date` should correspond and be redundant with the date
 in the filename, and is included here by request from some analysts.
 
 ### `target`
@@ -277,13 +277,15 @@ intent for these tests are to validate the requirements above. Please
 [let us know](https://github.com/cdcepi/Flusight-forecast-data/issues)
 if you are facing issues while running the tests.
 
+
 ## Weekly ensemble build 
 
-Every Tuesday morning, we will generate the ensemble forecast using a
-single valid forecast from each team that submitted in the current week by the Monday 11PM ET deadline.
+Every Wednesday morning, we will generate the ensemble forecast using a
+single valid forecast from each team that submitted in the current week by the Tuesday 11PM ET deadline.
+
 
 ## Policy on late or updated submissions 
 
 In order to ensure that forecasting is done in real-time, all forecasts
-are required to be submitted to this repository by 11pm ET on Mondays
+are required to be submitted to this repository by 11pm ET on Tuesdays
 each week. We do not accept late forecasts.
