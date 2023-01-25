@@ -1,0 +1,10 @@
+team_name: Signature Science
+model_name: Time series model ensemble
+model_abbr: SigSci-TSENS
+model_contributors: VP Nagraj (Signature Science), Stephen D. Turner (Signature Science), Chris Hulme-Lowe (Signature Science)
+website_url: http://www.signaturescience.com/
+license: cc-by-4.0
+team_model_designation: primary
+ensemble_of_hub_models: false
+methods: Ensemble of time series models for U.S. state and national influenza hospitalizations.
+team_funding: CSTE
