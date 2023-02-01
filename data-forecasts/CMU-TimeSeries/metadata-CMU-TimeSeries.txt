@@ -11,7 +11,8 @@ website_url: https://delphi.cmu.edu
 license: cc-by-4.0
 team_model_designation: primary
 methods: A basic quantile autoregression fit using influenza-related
-  hospitalizations and doctors visits.
+  hospitalizations and doctors visits, jointly trained across locations using
+  the most recently available 21 days of data.
 ensemble_of_hub_models: false
 team_funding: CDC Center of Excellence, gifts from Google and Facebook
 data_inputs: US Dept. of Health and Human Services (confirmed influenza
@@ -22,8 +23,10 @@ methods_long: "A basic quantile autoregression fit using lagged values of\
   \ percentage of doctors visits related to influenza.  The data are smoothed\
   \ in time, and the latter data source is adjusted to remove systematic\
   \ day-of-week effects.  The model is fit jointly across all 50 US states,\
-  \ the District of Columbia, Puerto Rico, and the Virgin Islands.  Each\
-  \ of the 23 quantiles is learned using a separate quantile regression, with\
+  \ the District of Columbia, Puerto Rico, and the Virgin Islands, using the\
+  \ most recently available 21 days of training data.  Each of the 23\
+  \ quantiles is learned using a separate quantile regression, with\
   \ nonnegativity and sorting constraints applied post hoc.  All signals are\
   \ available as indicators through Delphi Epidata\
   \ (https://cmu-delphi.github.io/delphi-epidata/)."
+repo_url: https://github.com/cmu-delphi/flu-hosp-forecast/

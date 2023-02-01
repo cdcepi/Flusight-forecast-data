@@ -1,0 +1,13 @@
+team_name: computational uncertainty lab
+model_name: VAR of hosps and ILI
+model_abbr: LUcompUncertLab-stacked_ili
+model_contributors: tom mcandrew (Lehigh University)
+website_url: https://github.com/computationalUncertaintyLab/
+license: cc-by-4.0
+team_model_designation: other
+ensemble_of_hub_models: false 
+methods: A model that incorporates ILI data
+team_funding: 
+data_inputs: HHS confirmed influenza hospitilizations and infuenza-like illness data.
+citation:
+methods_long: ""

@@ -1,0 +1,13 @@
+team_name: computational uncertainty lab
+model_name: hierarchical compartmental model
+model_abbr: LUcompUncertLab-hier_mech_model
+model_contributors: tom mcandrew (Lehigh Univeristy), Casey Gibson
+website_url: https://github.com/computationalUncertaintyLab/
+license: cc-by-4.0
+team_model_designation: proposed
+ensemble_of_hub_models: false 
+methods: We fit a SIRHD compartmental model where S0 is shared between seasons
+team_funding: 
+data_inputs: HHS daily hosps and deaths, weekly num of ILI from ILInet.
+citation:
+methods_long: "We fit a SIRHD compartmental model and assume that (i) the force of infection follows a step function which may change every 7 days, (ii) that the proportion of susceptible individuals this season is the same as last season, and (iii) include daily hosps and death and also the number of weekly cases of influenza-like illness. This model has priors on the step function and on the observation model which are selected to minimize the out of sample average WIS over the past four weeks where ground truth data is available."

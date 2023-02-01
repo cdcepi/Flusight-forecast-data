@@ -1,0 +1,13 @@
+team_name: computational uncertainty lab
+model_name: Holt Winters Plus AR2
+model_abbr: LUcompUncertLab-HWAR2
+model_contributors: tom mcandrew (Lehigh Univeristy)
+website_url: https://github.com/computationalUncertaintyLab/
+license: cc-by-4.0
+team_model_designation: other
+ensemble_of_hub_models: false 
+methods: We detrend with Holt Winters and then fit the residuals with a Bayesian AR(2) process 
+team_funding: 
+data_inputs: HHS confirmed influenza hospitilizations.
+citation:
+methods_long: ""
