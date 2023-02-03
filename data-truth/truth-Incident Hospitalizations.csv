@@ -7913,7 +7913,7 @@ date,location,location_name,value
 2022-12-24,11,District of Columbia,26
 2022-12-24,10,Delaware,29
 2022-12-24,12,Florida,889
-2022-12-24,13,Georgia,134
+2022-12-24,13,Georgia,135
 2022-12-24,15,Hawaii,31
 2022-12-24,19,Iowa,335
 2022-12-24,16,Idaho,195
@@ -7948,7 +7948,7 @@ date,location,location_name,value
 2022-12-24,46,South Dakota,71
 2022-12-24,47,Tennessee,234
 2022-12-24,48,Texas,1215
-2022-12-24,US,US,19079
+2022-12-24,US,US,19080
 2022-12-24,49,Utah,62
 2022-12-24,51,Virginia,264
 2022-12-24,78,Virgin Islands,0
@@ -8121,7 +8121,7 @@ date,location,location_name,value
 2023-01-14,56,Wyoming,16
 2023-01-21,02,Alaska,10
 2023-01-21,01,Alabama,58
-2023-01-21,05,Arkansas,60
+2023-01-21,05,Arkansas,61
 2023-01-21,04,Arizona,109
 2023-01-21,06,California,198
 2023-01-21,08,Colorado,33
@@ -8164,7 +8164,7 @@ date,location,location_name,value
 2023-01-21,46,South Dakota,11
 2023-01-21,47,Tennessee,76
 2023-01-21,48,Texas,454
-2023-01-21,US,US,4104
+2023-01-21,US,US,4105
 2023-01-21,49,Utah,17
 2023-01-21,51,Virginia,64
 2023-01-21,78,Virgin Islands,0
