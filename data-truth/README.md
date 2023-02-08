@@ -15,8 +15,14 @@ Data sources
 
 Influenza hospitalization data are taken from the [HealthData.gov COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries](https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh).
 
+*Please note the following detail from the [dataset description](https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh)*: 
 
-Some of these data are also available progammatically through the [EpiData](https://cmu-delphi.github.io/delphi-epidata/) API. 
+"The file will be updated regularly and provides the latest values reported by each facility within the last four days for all time. This allows for a more comprehensive picture of the hospital utilization within a state by ensuring a hospital is represented, even if they miss a single day of reporting."  
+
+This implies that some values may be repeated. Extra caution should be applied in these cases and in particular for interpreting data for the current day, as hospitals report hospital admissions for the previous day (further detail below).
+
+
+Some of these data are also available programmatically through the [EpiData](https://cmu-delphi.github.io/delphi-epidata/) API. 
 
 
 Hospitalization data

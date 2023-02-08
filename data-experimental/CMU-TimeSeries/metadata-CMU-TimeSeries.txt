@@ -1,0 +1,7 @@
+methods: Impute CDF from CMU-TimeSeries quantile forecast, and extract
+  probability of each direction category, naively using the real-time version of
+  "at time t" data without adjustment. (Fall back to the latest available 7-day
+  sum available if the reporting latency is to large to give even an initial
+  version of "at time t" data.) Mix with a uniform distribution with mixing
+  weight based on rule of three with heuristics for accounting for correlations
+  between available observations.
