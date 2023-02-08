@@ -7858,7 +7858,7 @@ date,location,location_name,value
 2022-12-17,09,Connecticut,352
 2022-12-17,11,District of Columbia,20
 2022-12-17,10,Delaware,27
-2022-12-17,12,Florida,865
+2022-12-17,12,Florida,862
 2022-12-17,13,Georgia,136
 2022-12-17,15,Hawaii,17
 2022-12-17,19,Iowa,358
@@ -7888,13 +7888,13 @@ date,location,location_name,value
 2022-12-17,40,Oklahoma,763
 2022-12-17,41,Oregon,649
 2022-12-17,42,Pennsylvania,1037
-2022-12-17,72,Puerto Rico,92
+2022-12-17,72,Puerto Rico,88
 2022-12-17,44,Rhode Island,47
 2022-12-17,45,South Carolina,137
 2022-12-17,46,South Dakota,105
 2022-12-17,47,Tennessee,257
 2022-12-17,48,Texas,1462
-2022-12-17,US,US,21405
+2022-12-17,US,US,21398
 2022-12-17,49,Utah,41
 2022-12-17,51,Virginia,282
 2022-12-17,78,Virgin Islands,0
@@ -8104,13 +8104,13 @@ date,location,location_name,value
 2023-01-14,40,Oklahoma,268
 2023-01-14,41,Oregon,62
 2023-01-14,42,Pennsylvania,427
-2023-01-14,72,Puerto Rico,77
+2023-01-14,72,Puerto Rico,75
 2023-01-14,44,Rhode Island,10
 2023-01-14,45,South Carolina,78
 2023-01-14,46,South Dakota,16
 2023-01-14,47,Tennessee,88
 2023-01-14,48,Texas,705
-2023-01-14,US,US,6582
+2023-01-14,US,US,6580
 2023-01-14,49,Utah,27
 2023-01-14,51,Virginia,109
 2023-01-14,78,Virgin Islands,0
@@ -8141,7 +8141,7 @@ date,location,location_name,value
 2023-01-21,25,Massachusetts,122
 2023-01-21,24,Maryland,61
 2023-01-21,23,Maine,31
-2023-01-21,26,Michigan,152
+2023-01-21,26,Michigan,150
 2023-01-21,27,Minnesota,25
 2023-01-21,29,Missouri,94
 2023-01-21,28,Mississippi,60
@@ -8158,13 +8158,13 @@ date,location,location_name,value
 2023-01-21,40,Oklahoma,139
 2023-01-21,41,Oregon,25
 2023-01-21,42,Pennsylvania,285
-2023-01-21,72,Puerto Rico,49
+2023-01-21,72,Puerto Rico,47
 2023-01-21,44,Rhode Island,14
 2023-01-21,45,South Carolina,60
 2023-01-21,46,South Dakota,11
 2023-01-21,47,Tennessee,76
 2023-01-21,48,Texas,454
-2023-01-21,US,US,4110
+2023-01-21,US,US,4106
 2023-01-21,49,Utah,17
 2023-01-21,51,Virginia,64
 2023-01-21,78,Virgin Islands,0
@@ -8202,7 +8202,7 @@ date,location,location_name,value
 2023-01-28,30,Montana,10
 2023-01-28,37,North Carolina,35
 2023-01-28,38,North Dakota,21
-2023-01-28,31,Nebraska,22
+2023-01-28,31,Nebraska,19
 2023-01-28,33,New Hampshire,20
 2023-01-28,34,New Jersey,70
 2023-01-28,35,New Mexico,17
@@ -8218,7 +8218,7 @@ date,location,location_name,value
 2023-01-28,46,South Dakota,16
 2023-01-28,47,Tennessee,38
 2023-01-28,48,Texas,329
-2023-01-28,US,US,2686
+2023-01-28,US,US,2683
 2023-01-28,49,Utah,5
 2023-01-28,51,Virginia,53
 2023-01-28,78,Virgin Islands,0
@@ -8230,49 +8230,49 @@ date,location,location_name,value
 2023-02-04,02,Alaska,5
 2023-02-04,01,Alabama,28
 2023-02-04,05,Arkansas,21
-2023-02-04,04,Arizona,59
-2023-02-04,06,California,118
+2023-02-04,04,Arizona,61
+2023-02-04,06,California,115
 2023-02-04,08,Colorado,38
 2023-02-04,09,Connecticut,14
 2023-02-04,11,District of Columbia,8
 2023-02-04,10,Delaware,15
-2023-02-04,12,Florida,312
-2023-02-04,13,Georgia,70
+2023-02-04,12,Florida,314
+2023-02-04,13,Georgia,71
 2023-02-04,15,Hawaii,6
 2023-02-04,19,Iowa,11
 2023-02-04,16,Idaho,4
 2023-02-04,17,Illinois,24
 2023-02-04,18,Indiana,45
-2023-02-04,20,Kansas,7
-2023-02-04,21,Kentucky,12
-2023-02-04,22,Louisiana,94
+2023-02-04,20,Kansas,10
+2023-02-04,21,Kentucky,13
+2023-02-04,22,Louisiana,34
 2023-02-04,25,Massachusetts,52
-2023-02-04,24,Maryland,62
+2023-02-04,24,Maryland,56
 2023-02-04,23,Maine,9
 2023-02-04,26,Michigan,86
 2023-02-04,27,Minnesota,16
 2023-02-04,29,Missouri,51
-2023-02-04,28,Mississippi,26
+2023-02-04,28,Mississippi,27
 2023-02-04,30,Montana,14
 2023-02-04,37,North Carolina,47
 2023-02-04,38,North Dakota,8
-2023-02-04,31,Nebraska,8
+2023-02-04,31,Nebraska,7
 2023-02-04,33,New Hampshire,1
 2023-02-04,34,New Jersey,31
 2023-02-04,35,New Mexico,9
 2023-02-04,32,Nevada,6
-2023-02-04,36,New York,97
+2023-02-04,36,New York,94
 2023-02-04,39,Ohio,63
 2023-02-04,40,Oklahoma,77
 2023-02-04,41,Oregon,10
 2023-02-04,42,Pennsylvania,95
 2023-02-04,72,Puerto Rico,52
 2023-02-04,44,Rhode Island,3
-2023-02-04,45,South Carolina,42
+2023-02-04,45,South Carolina,40
 2023-02-04,46,South Dakota,12
-2023-02-04,47,Tennessee,44
+2023-02-04,47,Tennessee,41
 2023-02-04,48,Texas,275
-2023-02-04,US,US,2254
+2023-02-04,US,US,2186
 2023-02-04,49,Utah,8
 2023-02-04,51,Virginia,64
 2023-02-04,78,Virgin Islands,0
