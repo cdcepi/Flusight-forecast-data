@@ -7991,7 +7991,7 @@ date,location,location_name,value
 2022-12-31,34,New Jersey,505
 2022-12-31,35,New Mexico,269
 2022-12-31,32,Nevada,169
-2022-12-31,36,New York,1268
+2022-12-31,36,New York,1273
 2022-12-31,39,Ohio,696
 2022-12-31,40,Oklahoma,702
 2022-12-31,41,Oregon,344
@@ -8002,7 +8002,7 @@ date,location,location_name,value
 2022-12-31,46,South Dakota,57
 2022-12-31,47,Tennessee,246
 2022-12-31,48,Texas,1452
-2022-12-31,US,US,19202
+2022-12-31,US,US,19207
 2022-12-31,49,Utah,90
 2022-12-31,51,Virginia,257
 2022-12-31,78,Virgin Islands,0
@@ -8389,3 +8389,57 @@ date,location,location_name,value
 2023-02-18,55,Wisconsin,5
 2023-02-18,54,West Virginia,10
 2023-02-18,56,Wyoming,1
+2023-02-25,02,Alaska,4
+2023-02-25,01,Alabama,38
+2023-02-25,05,Arkansas,28
+2023-02-25,04,Arizona,49
+2023-02-25,06,California,70
+2023-02-25,08,Colorado,13
+2023-02-25,09,Connecticut,18
+2023-02-25,11,District of Columbia,5
+2023-02-25,10,Delaware,0
+2023-02-25,12,Florida,191
+2023-02-25,13,Georgia,64
+2023-02-25,15,Hawaii,8
+2023-02-25,19,Iowa,8
+2023-02-25,16,Idaho,2
+2023-02-25,17,Illinois,37
+2023-02-25,18,Indiana,48
+2023-02-25,20,Kansas,7
+2023-02-25,21,Kentucky,16
+2023-02-25,22,Louisiana,25
+2023-02-25,25,Massachusetts,22
+2023-02-25,24,Maryland,24
+2023-02-25,23,Maine,0
+2023-02-25,26,Michigan,53
+2023-02-25,27,Minnesota,10
+2023-02-25,29,Missouri,30
+2023-02-25,28,Mississippi,47
+2023-02-25,30,Montana,3
+2023-02-25,37,North Carolina,27
+2023-02-25,38,North Dakota,12
+2023-02-25,31,Nebraska,9
+2023-02-25,33,New Hampshire,1
+2023-02-25,34,New Jersey,42
+2023-02-25,35,New Mexico,12
+2023-02-25,32,Nevada,3
+2023-02-25,36,New York,48
+2023-02-25,39,Ohio,24
+2023-02-25,40,Oklahoma,39
+2023-02-25,41,Oregon,3
+2023-02-25,42,Pennsylvania,130
+2023-02-25,72,Puerto Rico,27
+2023-02-25,44,Rhode Island,4
+2023-02-25,45,South Carolina,43
+2023-02-25,46,South Dakota,3
+2023-02-25,47,Tennessee,32
+2023-02-25,48,Texas,194
+2023-02-25,US,US,1609
+2023-02-25,49,Utah,3
+2023-02-25,51,Virginia,67
+2023-02-25,78,Virgin Islands,0
+2023-02-25,50,Vermont,2
+2023-02-25,53,Washington,44
+2023-02-25,55,Wisconsin,7
+2023-02-25,54,West Virginia,13
+2023-02-25,56,Wyoming,0
