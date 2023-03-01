@@ -1,7 +1,7 @@
 team_name: MOBS Lab at Northeastern
 model_name: GLEAM_FLUH
 model_abbr: MOBS-GLEAM_FLUH
-model_contributors: "Alessandro Vespignani <alexves@gmail.com>, Matteo Chinazzi <m.chinazzi@northeastern.edu>, Jessica T. Davis <davis.jes@northeastern.edu>, Kunpeng\
+model_contributors: "Alessandro Vespignani <alexves@gmail.com>, Matteo Chinazzi <m.chinazzi@northeastern.edu>, Jessica T. Davis <jes.davis@northeastern.edu>, Kunpeng\
   \ Mu <mu.k@northeastern.edu>, Ana Pastore y Piontti <anapastore@gmail.com>, Nicole Samay, Xinyue Xiong <xiong.xin@northeastern.edu>"
 website_url: https://www.mobs-lab.org/
 license: other
