@@ -8164,13 +8164,13 @@ date,location,location_name,value
 2023-01-21,46,South Dakota,11
 2023-01-21,47,Tennessee,75
 2023-01-21,48,Texas,452
-2023-01-21,US,US,4114
+2023-01-21,US,US,4112
 2023-01-21,49,Utah,17
 2023-01-21,51,Virginia,72
 2023-01-21,78,Virgin Islands,0
 2023-01-21,50,Vermont,11
 2023-01-21,53,Washington,80
-2023-01-21,55,Wisconsin,95
+2023-01-21,55,Wisconsin,93
 2023-01-21,54,West Virginia,13
 2023-01-21,56,Wyoming,11
 2023-01-28,02,Alaska,3
@@ -8326,13 +8326,13 @@ date,location,location_name,value
 2023-02-11,46,South Dakota,9
 2023-02-11,47,Tennessee,36
 2023-02-11,48,Texas,276
-2023-02-11,US,US,2128
+2023-02-11,US,US,2129
 2023-02-11,49,Utah,6
 2023-02-11,51,Virginia,63
 2023-02-11,78,Virgin Islands,0
 2023-02-11,50,Vermont,0
 2023-02-11,53,Washington,42
-2023-02-11,55,Wisconsin,23
+2023-02-11,55,Wisconsin,24
 2023-02-11,54,West Virginia,16
 2023-02-11,56,Wyoming,2
 2023-02-18,02,Alaska,5
@@ -8380,13 +8380,13 @@ date,location,location_name,value
 2023-02-18,46,South Dakota,10
 2023-02-18,47,Tennessee,53
 2023-02-18,48,Texas,231
-2023-02-18,US,US,1827
+2023-02-18,US,US,1831
 2023-02-18,49,Utah,4
-2023-02-18,51,Virginia,52
+2023-02-18,51,Virginia,54
 2023-02-18,78,Virgin Islands,0
 2023-02-18,50,Vermont,2
 2023-02-18,53,Washington,37
-2023-02-18,55,Wisconsin,5
+2023-02-18,55,Wisconsin,7
 2023-02-18,54,West Virginia,10
 2023-02-18,56,Wyoming,1
 2023-02-25,02,Alaska,4
@@ -8399,7 +8399,7 @@ date,location,location_name,value
 2023-02-25,11,District of Columbia,4
 2023-02-25,10,Delaware,0
 2023-02-25,12,Florida,193
-2023-02-25,13,Georgia,69
+2023-02-25,13,Georgia,70
 2023-02-25,15,Hawaii,5
 2023-02-25,19,Iowa,9
 2023-02-25,16,Idaho,3
@@ -8423,7 +8423,7 @@ date,location,location_name,value
 2023-02-25,34,New Jersey,41
 2023-02-25,35,New Mexico,12
 2023-02-25,32,Nevada,3
-2023-02-25,36,New York,48
+2023-02-25,36,New York,50
 2023-02-25,39,Ohio,24
 2023-02-25,40,Oklahoma,35
 2023-02-25,41,Oregon,5
@@ -8434,7 +8434,7 @@ date,location,location_name,value
 2023-02-25,46,South Dakota,4
 2023-02-25,47,Tennessee,41
 2023-02-25,48,Texas,203
-2023-02-25,US,US,1598
+2023-02-25,US,US,1601
 2023-02-25,49,Utah,5
 2023-02-25,51,Virginia,61
 2023-02-25,78,Virgin Islands,0
