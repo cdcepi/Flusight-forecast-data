@@ -8434,9 +8434,9 @@ date,location,location_name,value
 2023-02-25,46,South Dakota,4
 2023-02-25,47,Tennessee,41
 2023-02-25,48,Texas,203
-2023-02-25,US,US,1656
+2023-02-25,US,US,1657
 2023-02-25,49,Utah,5
-2023-02-25,51,Virginia,61
+2023-02-25,51,Virginia,62
 2023-02-25,78,Virgin Islands,0
 2023-02-25,50,Vermont,2
 2023-02-25,53,Washington,34
@@ -8447,25 +8447,25 @@ date,location,location_name,value
 2023-03-04,01,Alabama,14
 2023-03-04,05,Arkansas,27
 2023-03-04,04,Arizona,49
-2023-03-04,06,California,61
-2023-03-04,08,Colorado,17
+2023-03-04,06,California,62
+2023-03-04,08,Colorado,16
 2023-03-04,09,Connecticut,11
 2023-03-04,11,District of Columbia,4
 2023-03-04,10,Delaware,5
-2023-03-04,12,Florida,179
+2023-03-04,12,Florida,182
 2023-03-04,13,Georgia,47
 2023-03-04,15,Hawaii,1
 2023-03-04,19,Iowa,5
 2023-03-04,16,Idaho,1
-2023-03-04,17,Illinois,22
-2023-03-04,18,Indiana,44
+2023-03-04,17,Illinois,23
+2023-03-04,18,Indiana,43
 2023-03-04,20,Kansas,2
-2023-03-04,21,Kentucky,12
+2023-03-04,21,Kentucky,11
 2023-03-04,22,Louisiana,25
 2023-03-04,25,Massachusetts,16
 2023-03-04,24,Maryland,7
-2023-03-04,23,Maine,5
-2023-03-04,26,Michigan,58
+2023-03-04,23,Maine,3
+2023-03-04,26,Michigan,49
 2023-03-04,27,Minnesota,12
 2023-03-04,29,Missouri,52
 2023-03-04,28,Mississippi,31
@@ -8474,26 +8474,26 @@ date,location,location_name,value
 2023-03-04,38,North Dakota,9
 2023-03-04,31,Nebraska,3
 2023-03-04,33,New Hampshire,1
-2023-03-04,34,New Jersey,27
-2023-03-04,35,New Mexico,18
+2023-03-04,34,New Jersey,28
+2023-03-04,35,New Mexico,15
 2023-03-04,32,Nevada,5
-2023-03-04,36,New York,50
-2023-03-04,39,Ohio,35
+2023-03-04,36,New York,51
+2023-03-04,39,Ohio,33
 2023-03-04,40,Oklahoma,33
-2023-03-04,41,Oregon,6
-2023-03-04,42,Pennsylvania,163
-2023-03-04,72,Puerto Rico,39
+2023-03-04,41,Oregon,7
+2023-03-04,42,Pennsylvania,154
+2023-03-04,72,Puerto Rico,37
 2023-03-04,44,Rhode Island,1
-2023-03-04,45,South Carolina,32
+2023-03-04,45,South Carolina,28
 2023-03-04,46,South Dakota,7
-2023-03-04,47,Tennessee,38
-2023-03-04,48,Texas,162
-2023-03-04,US,US,1532
-2023-03-04,49,Utah,2
-2023-03-04,51,Virginia,64
+2023-03-04,47,Tennessee,39
+2023-03-04,48,Texas,166
+2023-03-04,US,US,1514
+2023-03-04,49,Utah,1
+2023-03-04,51,Virginia,63
 2023-03-04,78,Virgin Islands,0
 2023-03-04,50,Vermont,0
-2023-03-04,53,Washington,63
+2023-03-04,53,Washington,68
 2023-03-04,55,Wisconsin,5
 2023-03-04,54,West Virginia,8
 2023-03-04,56,Wyoming,0
