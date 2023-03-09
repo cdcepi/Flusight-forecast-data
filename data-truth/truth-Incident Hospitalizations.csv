@@ -7907,7 +7907,7 @@ date,location,location_name,value
 2022-12-24,01,Alabama,122
 2022-12-24,05,Arkansas,189
 2022-12-24,04,Arizona,603
-2022-12-24,06,California,1571
+2022-12-24,06,California,1570
 2022-12-24,08,Colorado,350
 2022-12-24,09,Connecticut,275
 2022-12-24,11,District of Columbia,26
@@ -7948,7 +7948,7 @@ date,location,location_name,value
 2022-12-24,46,South Dakota,71
 2022-12-24,47,Tennessee,226
 2022-12-24,48,Texas,1221
-2022-12-24,US,US,19217
+2022-12-24,US,US,19216
 2022-12-24,49,Utah,62
 2022-12-24,51,Virginia,274
 2022-12-24,78,Virgin Islands,0
@@ -8414,7 +8414,7 @@ date,location,location_name,value
 2023-02-25,26,Michigan,57
 2023-02-25,27,Minnesota,8
 2023-02-25,29,Missouri,33
-2023-02-25,28,Mississippi,28
+2023-02-25,28,Mississippi,31
 2023-02-25,30,Montana,3
 2023-02-25,37,North Carolina,31
 2023-02-25,38,North Dakota,9
@@ -8434,7 +8434,7 @@ date,location,location_name,value
 2023-02-25,46,South Dakota,4
 2023-02-25,47,Tennessee,41
 2023-02-25,48,Texas,203
-2023-02-25,US,US,1653
+2023-02-25,US,US,1656
 2023-02-25,49,Utah,5
 2023-02-25,51,Virginia,62
 2023-02-25,78,Virgin Islands,0
@@ -8445,7 +8445,7 @@ date,location,location_name,value
 2023-02-25,56,Wyoming,1
 2023-03-04,02,Alaska,3
 2023-03-04,01,Alabama,18
-2023-03-04,05,Arkansas,31
+2023-03-04,05,Arkansas,32
 2023-03-04,04,Arizona,45
 2023-03-04,06,California,57
 2023-03-04,08,Colorado,17
@@ -8453,11 +8453,11 @@ date,location,location_name,value
 2023-03-04,11,District of Columbia,5
 2023-03-04,10,Delaware,5
 2023-03-04,12,Florida,184
-2023-03-04,13,Georgia,47
+2023-03-04,13,Georgia,44
 2023-03-04,15,Hawaii,1
 2023-03-04,19,Iowa,9
 2023-03-04,16,Idaho,3
-2023-03-04,17,Illinois,24
+2023-03-04,17,Illinois,23
 2023-03-04,18,Indiana,43
 2023-03-04,20,Kansas,2
 2023-03-04,21,Kentucky,10
@@ -8467,7 +8467,7 @@ date,location,location_name,value
 2023-03-04,23,Maine,4
 2023-03-04,26,Michigan,45
 2023-03-04,27,Minnesota,7
-2023-03-04,29,Missouri,44
+2023-03-04,29,Missouri,38
 2023-03-04,28,Mississippi,34
 2023-03-04,30,Montana,6
 2023-03-04,37,North Carolina,34
@@ -8479,7 +8479,7 @@ date,location,location_name,value
 2023-03-04,32,Nevada,4
 2023-03-04,36,New York,51
 2023-03-04,39,Ohio,25
-2023-03-04,40,Oklahoma,29
+2023-03-04,40,Oklahoma,27
 2023-03-04,41,Oregon,8
 2023-03-04,42,Pennsylvania,157
 2023-03-04,72,Puerto Rico,21
@@ -8488,7 +8488,7 @@ date,location,location_name,value
 2023-03-04,46,South Dakota,9
 2023-03-04,47,Tennessee,35
 2023-03-04,48,Texas,168
-2023-03-04,US,US,1458
+2023-03-04,US,US,1447
 2023-03-04,49,Utah,1
 2023-03-04,51,Virginia,56
 2023-03-04,78,Virgin Islands,0
