@@ -7966,7 +7966,7 @@ date,location,location_name,value
 2022-12-31,09,Connecticut,248
 2022-12-31,11,District of Columbia,27
 2022-12-31,10,Delaware,46
-2022-12-31,12,Florida,1296
+2022-12-31,12,Florida,1297
 2022-12-31,13,Georgia,173
 2022-12-31,15,Hawaii,28
 2022-12-31,19,Iowa,301
@@ -8002,7 +8002,7 @@ date,location,location_name,value
 2022-12-31,46,South Dakota,57
 2022-12-31,47,Tennessee,247
 2022-12-31,48,Texas,1453
-2022-12-31,US,US,19349
+2022-12-31,US,US,19350
 2022-12-31,49,Utah,90
 2022-12-31,51,Virginia,280
 2022-12-31,78,Virgin Islands,0
@@ -8445,7 +8445,7 @@ date,location,location_name,value
 2023-02-25,56,Wyoming,1
 2023-03-04,02,Alaska,3
 2023-03-04,01,Alabama,18
-2023-03-04,05,Arkansas,32
+2023-03-04,05,Arkansas,33
 2023-03-04,04,Arizona,45
 2023-03-04,06,California,59
 2023-03-04,08,Colorado,17
@@ -8465,7 +8465,7 @@ date,location,location_name,value
 2023-03-04,25,Massachusetts,15
 2023-03-04,24,Maryland,12
 2023-03-04,23,Maine,4
-2023-03-04,26,Michigan,45
+2023-03-04,26,Michigan,43
 2023-03-04,27,Minnesota,7
 2023-03-04,29,Missouri,38
 2023-03-04,28,Mississippi,34
@@ -8488,7 +8488,7 @@ date,location,location_name,value
 2023-03-04,46,South Dakota,9
 2023-03-04,47,Tennessee,35
 2023-03-04,48,Texas,168
-2023-03-04,US,US,1450
+2023-03-04,US,US,1449
 2023-03-04,49,Utah,1
 2023-03-04,51,Virginia,56
 2023-03-04,78,Virgin Islands,0
@@ -8497,3 +8497,57 @@ date,location,location_name,value
 2023-03-04,55,Wisconsin,3
 2023-03-04,54,West Virginia,8
 2023-03-04,56,Wyoming,0
+2023-03-11,02,Alaska,5
+2023-03-11,01,Alabama,16
+2023-03-11,05,Arkansas,18
+2023-03-11,04,Arizona,48
+2023-03-11,06,California,61
+2023-03-11,08,Colorado,11
+2023-03-11,09,Connecticut,21
+2023-03-11,11,District of Columbia,1
+2023-03-11,10,Delaware,1
+2023-03-11,12,Florida,185
+2023-03-11,13,Georgia,60
+2023-03-11,15,Hawaii,4
+2023-03-11,19,Iowa,8
+2023-03-11,16,Idaho,4
+2023-03-11,17,Illinois,11
+2023-03-11,18,Indiana,34
+2023-03-11,20,Kansas,6
+2023-03-11,21,Kentucky,17
+2023-03-11,22,Louisiana,18
+2023-03-11,25,Massachusetts,19
+2023-03-11,24,Maryland,16
+2023-03-11,23,Maine,0
+2023-03-11,26,Michigan,41
+2023-03-11,27,Minnesota,4
+2023-03-11,29,Missouri,37
+2023-03-11,28,Mississippi,38
+2023-03-11,30,Montana,3
+2023-03-11,37,North Carolina,28
+2023-03-11,38,North Dakota,10
+2023-03-11,31,Nebraska,8
+2023-03-11,33,New Hampshire,6
+2023-03-11,34,New Jersey,25
+2023-03-11,35,New Mexico,5
+2023-03-11,32,Nevada,3
+2023-03-11,36,New York,59
+2023-03-11,39,Ohio,27
+2023-03-11,40,Oklahoma,27
+2023-03-11,41,Oregon,4
+2023-03-11,42,Pennsylvania,112
+2023-03-11,72,Puerto Rico,14
+2023-03-11,44,Rhode Island,0
+2023-03-11,45,South Carolina,26
+2023-03-11,46,South Dakota,13
+2023-03-11,47,Tennessee,31
+2023-03-11,48,Texas,162
+2023-03-11,US,US,1370
+2023-03-11,49,Utah,7
+2023-03-11,51,Virginia,45
+2023-03-11,78,Virgin Islands,0
+2023-03-11,50,Vermont,6
+2023-03-11,53,Washington,48
+2023-03-11,55,Wisconsin,10
+2023-03-11,54,West Virginia,4
+2023-03-11,56,Wyoming,3
