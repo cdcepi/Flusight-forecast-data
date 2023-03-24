@@ -1,0 +1,122 @@
+{
+    "schema_version": "https://github.com/Infectious-Disease-Modeling-Hubs/schemas/blob/version-schema/v0.0.1/tasks-schema.json",
+    "rounds": [{
+            "round_id_from_variable": true,
+            "round_id": "forecast_date",
+            "model_tasks": [{
+                "task_ids": {
+                    "forecast_date": {
+                        "required": null,
+                        "optional": [
+                            "2022-12-12", "2022-12-19", "2022-12-26", "2023-01-02", "2023-01-09",
+                            "2023-01-16", "2023-01-23", "2023-01-30", "2023-02-06", "2023-02-13",
+                            "2023-02-20", "2023-02-27", "2023-03-06", "2023-03-13", "2023-03-20",
+                            "2023-03-27", "2023-04-03", "2023-04-10", "2023-04-17", "2023-04-24",
+                            "2023-05-01", "2023-05-08", "2023-05-15"
+                        ]
+                    },
+                    "target": {
+                        "required": "wk flu hosp rate change",
+                        "optional": null
+                    },
+                    "horizon": {
+                        "required": [2],
+                        "optional": [1]
+                    },
+                    "location": {
+                        "required": null,
+                        "optional": [
+                            "US",
+                            "01",
+                            "02",
+                            "04",
+                            "05",
+                            "06",
+                            "08",
+                            "09",
+                            "10",
+                            "11",
+                            "12",
+                            "13",
+                            "15",
+                            "16",
+                            "17",
+                            "18",
+                            "19",
+                            "20",
+                            "21",
+                            "22",
+                            "23",
+                            "24",
+                            "25",
+                            "26",
+                            "27",
+                            "28",
+                            "29",
+                            "30",
+                            "31",
+                            "32",
+                            "33",
+                            "34",
+                            "35",
+                            "36",
+                            "37",
+                            "38",
+                            "39",
+                            "40",
+                            "41",
+                            "42",
+                            "44",
+                            "45",
+                            "46",
+                            "47",
+                            "48",
+                            "49",
+                            "50",
+                            "51",
+                            "53",
+                            "54",
+                            "55",
+                            "56",
+                            "72",
+                            "78"
+                        ]
+                    }
+                },
+                "output_type": {
+                    "category": {
+                        "type_id": {
+                            "required": ["large_decrease","decrease", "stable", "increase","large_increase"],
+                            "optional": null
+                        },
+                        "value": {
+                            "type": "numeric",
+                            "minimum": 0,
+                            "maximum": 1
+                        }
+                    },
+                    "target_metadata": [
+                        {
+                            "target_id": "wk flu hosp rate change",
+                            "target_name": "weekly influenza hospitalization rate change",
+                            "target_units": "rate per 100,000 population",
+                            "target_keys": {
+                                "target": ["wk flu hosp rate change"]
+                            },
+                            "target_type": "category",
+                            "description": "This target represents the change in the rate of new hospitalizations per week comparing the week ending two days prior to the forecast_date to the week ending h weeks after the forecast_date.",
+                            "is_step_ahead": true,
+                            "time_unit": "week"
+                        }
+                    ]
+                }
+            }],
+            "submissions_due": {
+                "relative_to": "forecast_date",
+                "start": -6,
+                "end": 2
+            }
+        }
+
+    ]
+}

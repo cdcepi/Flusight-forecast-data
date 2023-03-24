@@ -1,0 +1,14 @@
+{
+    "schema_version": "https://github.com/Infectious-Disease-Modeling-Hubs/schemas/blob/version-schema/v0.0.1/admin-schema.json",
+    "name": "US CDC FluSight",
+    "maintainer": "US CDC",
+    "contact": {
+        "name": "Rebecca Borchering",
+        "email": "xhq2@cdc.gov"
+    },
+    "repository_host": "GitHub",
+    "repository_url": "https://github.com/cdcepi/Flusight-forecast-data",
+    "file_format": "csv",
+    "timezone": ["US/Eastern"],
+    "model_output_dir": "data-experimental"
+}
