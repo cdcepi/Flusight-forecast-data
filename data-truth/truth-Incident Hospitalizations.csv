@@ -8507,7 +8507,7 @@ date,location,location_name,value
 2023-03-11,11,District of Columbia,1
 2023-03-11,10,Delaware,1
 2023-03-11,12,Florida,188
-2023-03-11,13,Georgia,58
+2023-03-11,13,Georgia,55
 2023-03-11,15,Hawaii,4
 2023-03-11,19,Iowa,8
 2023-03-11,16,Idaho,4
@@ -8542,7 +8542,7 @@ date,location,location_name,value
 2023-03-11,46,South Dakota,16
 2023-03-11,47,Tennessee,31
 2023-03-11,48,Texas,162
-2023-03-11,US,US,1407
+2023-03-11,US,US,1404
 2023-03-11,49,Utah,7
 2023-03-11,51,Virginia,45
 2023-03-11,78,Virgin Islands,0
@@ -8560,7 +8560,7 @@ date,location,location_name,value
 2023-03-18,09,Connecticut,9
 2023-03-18,11,District of Columbia,3
 2023-03-18,10,Delaware,0
-2023-03-18,12,Florida,198
+2023-03-18,12,Florida,201
 2023-03-18,13,Georgia,51
 2023-03-18,15,Hawaii,3
 2023-03-18,19,Iowa,7
@@ -8596,11 +8596,11 @@ date,location,location_name,value
 2023-03-18,46,South Dakota,11
 2023-03-18,47,Tennessee,29
 2023-03-18,48,Texas,151
-2023-03-18,US,US,1395
+2023-03-18,US,US,1399
 2023-03-18,49,Utah,4
 2023-03-18,51,Virginia,59
 2023-03-18,78,Virgin Islands,0
-2023-03-18,50,Vermont,2
+2023-03-18,50,Vermont,3
 2023-03-18,53,Washington,30
 2023-03-18,55,Wisconsin,7
 2023-03-18,54,West Virginia,10
