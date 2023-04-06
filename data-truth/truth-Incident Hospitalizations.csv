@@ -8644,13 +8644,13 @@ date,location,location_name,value
 2023-03-25,40,Oklahoma,20
 2023-03-25,41,Oregon,3
 2023-03-25,42,Pennsylvania,97
-2023-03-25,72,Puerto Rico,23
+2023-03-25,72,Puerto Rico,25
 2023-03-25,44,Rhode Island,2
 2023-03-25,45,South Carolina,25
 2023-03-25,46,South Dakota,21
 2023-03-25,47,Tennessee,33
 2023-03-25,48,Texas,136
-2023-03-25,US,US,1261
+2023-03-25,US,US,1263
 2023-03-25,49,Utah,2
 2023-03-25,51,Virginia,51
 2023-03-25,78,Virgin Islands,0
@@ -8668,15 +8668,15 @@ date,location,location_name,value
 2023-04-01,09,Connecticut,14
 2023-04-01,11,District of Columbia,11
 2023-04-01,10,Delaware,2
-2023-04-01,12,Florida,151
-2023-04-01,13,Georgia,53
+2023-04-01,12,Florida,161
+2023-04-01,13,Georgia,49
 2023-04-01,15,Hawaii,6
 2023-04-01,19,Iowa,4
 2023-04-01,16,Idaho,1
-2023-04-01,17,Illinois,39
-2023-04-01,18,Indiana,44
+2023-04-01,17,Illinois,28
+2023-04-01,18,Indiana,42
 2023-04-01,20,Kansas,8
-2023-04-01,21,Kentucky,13
+2023-04-01,21,Kentucky,14
 2023-04-01,22,Louisiana,25
 2023-04-01,25,Massachusetts,11
 2023-04-01,24,Maryland,8
@@ -8693,18 +8693,18 @@ date,location,location_name,value
 2023-04-01,34,New Jersey,36
 2023-04-01,35,New Mexico,8
 2023-04-01,32,Nevada,3
-2023-04-01,36,New York,75
+2023-04-01,36,New York,76
 2023-04-01,39,Ohio,30
-2023-04-01,40,Oklahoma,21
-2023-04-01,41,Oregon,4
+2023-04-01,40,Oklahoma,22
+2023-04-01,41,Oregon,5
 2023-04-01,42,Pennsylvania,92
-2023-04-01,72,Puerto Rico,44
+2023-04-01,72,Puerto Rico,48
 2023-04-01,44,Rhode Island,0
 2023-04-01,45,South Carolina,20
-2023-04-01,46,South Dakota,11
+2023-04-01,46,South Dakota,13
 2023-04-01,47,Tennessee,48
 2023-04-01,48,Texas,154
-2023-04-01,US,US,1270
+2023-04-01,US,US,1273
 2023-04-01,49,Utah,4
 2023-04-01,51,Virginia,46
 2023-04-01,78,Virgin Islands,0
