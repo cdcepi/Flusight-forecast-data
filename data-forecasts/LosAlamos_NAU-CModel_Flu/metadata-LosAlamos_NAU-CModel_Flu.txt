@@ -1,10 +1,10 @@
 team_name: Los Alamos National Lab and Northern Arizona University
 model_name: Compartmental Model with Bayesian Inference
 model_abbr: LosAlamos_NAU-CModel_Flu
-model_contributors: Yen Ting Lin (Los Alamos National Laboratory)<yentingl@lanl.gov>,
-  Ye Chen (Northern Arizona University)<yechent@gmail.com>, Richard G. Posner (Northern
-  Arizona University), William S. Hlavacek (Los Alamos National Laboratory)<wish@lanl.gov>, 
-  Richard G. Posner (Northern Arizona University)<Richard.Posner@nau.edu>, 
+model_contributors: Ye Chen (Northern Arizona University)<yechent@gmail.com>, 
+William S. Hlavacek (Los Alamos National Laboratory)<wish@lanl.gov>, 
+Richard G. Posner (Northern Arizona University)<Richard.Posner@nau.edu>, 
+   Yen Ting Lin (Los Alamos National Laboratory)<yentingl@lanl.gov>,
   Jaechoul Lee (Northern Arizona University)<Jaechoul.Lee@nau.edu>, 
   Abhishek Mallela (Los Alamos National Laboratory)<abhishek.mallela@gmail.com>
 website_url: https://github.com/ye-chen-netsci
