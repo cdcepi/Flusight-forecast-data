@@ -8716,7 +8716,7 @@ date,location,location_name,value
 2023-04-08,02,Alaska,2
 2023-04-08,01,Alabama,14
 2023-04-08,05,Arkansas,15
-2023-04-08,04,Arizona,73
+2023-04-08,04,Arizona,70
 2023-04-08,06,California,40
 2023-04-08,08,Colorado,7
 2023-04-08,09,Connecticut,21
@@ -8727,7 +8727,7 @@ date,location,location_name,value
 2023-04-08,15,Hawaii,3
 2023-04-08,19,Iowa,2
 2023-04-08,16,Idaho,5
-2023-04-08,17,Illinois,21
+2023-04-08,17,Illinois,22
 2023-04-08,18,Indiana,15
 2023-04-08,20,Kansas,3
 2023-04-08,21,Kentucky,19
@@ -8737,7 +8737,7 @@ date,location,location_name,value
 2023-04-08,23,Maine,2
 2023-04-08,26,Michigan,27
 2023-04-08,27,Minnesota,14
-2023-04-08,29,Missouri,28
+2023-04-08,29,Missouri,29
 2023-04-08,28,Mississippi,28
 2023-04-08,30,Montana,0
 2023-04-08,37,North Carolina,23
@@ -8758,7 +8758,7 @@ date,location,location_name,value
 2023-04-08,46,South Dakota,10
 2023-04-08,47,Tennessee,31
 2023-04-08,48,Texas,129
-2023-04-08,US,US,1214
+2023-04-08,US,US,1213
 2023-04-08,49,Utah,5
 2023-04-08,51,Virginia,55
 2023-04-08,78,Virgin Islands,0
