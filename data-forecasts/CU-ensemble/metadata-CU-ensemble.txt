@@ -1,7 +1,7 @@
 team_name: Columbia University
 model_name: Ensemble
 model_abbr: CU-ensemble
-model_contributors: Sasi Kandula <sk3542@cumc.columbia.edu>, Sen Pei <sp3449@cumc.columbia.edu>, Teresa Yamana <tky2104@cumc.columbia.edu>, Jeffrey Shaman <jls106@cumc.columbia.edu> 
+model_contributors: Sasi Kandula <Sasikiran.Kandula@fhi.no>, Sen Pei <sp3449@cumc.columbia.edu>, Teresa Yamana <tky2104@cumc.columbia.edu>, Jeffrey Shaman <jls106@cumc.columbia.edu> 
 website_url: https://blogs.cuit.columbia.edu/jls106/
 license: cc-by-4.0
 team_model_designation: primary
