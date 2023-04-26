@@ -20,6 +20,6 @@ methods_long: 'Equally weighted ensemble of simple time-series baseline models. 
   variance-stabilizing transformation of it, e.g. square-root. Additionally, the
   resulting predictive distributions are truncated so that any predicted samples
   computed to be less than zero are truncated to be zero.'
-data_inputs: HHS Protect hospitalization data via COVIDcast.
+data_inputs: HealthData.gov hospitalization data via covidData with the most recent data point dropped for the daily scale.
 team_funding: This model development is supported by NIGMS grant R35GM119582 and CDC grant U01IP001122. The content is solely the responsibility of the authors and does not necessarily represent the official views of CDC, NIGMS, or the National Institutes of Health.
 twitter_handles: reichlab

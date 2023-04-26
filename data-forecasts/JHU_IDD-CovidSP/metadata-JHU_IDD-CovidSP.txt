@@ -1,7 +1,7 @@
 team_name: Johns Hopkins ID Dynamics
 model_name: CovidScenarioPipeline
 model_abbr: JHU_IDD-CovidSP
-model_contributors: Joseph C. Lemaitre (EPFL), Joshua Kaminsky (Johns Hopkins Infectious Disease Dynamics), Shaun A. Truelove (Johns Hopkins Infectious Disease Dynamics) <shauntruelove@jhu.edu>, Elizabeth C. Lee (Johns Hopkins Infectious Disease Dynamics), Justin Lessler (Johns Hopkins Infectious Disease Dynamics)<justin@jhu.edu>, Claire P. Smith (Johns Hopkins Infectious Disease Dynamics) <csmit390@jhu.edu>, Allison Hill (Johns Hopkins Infectious Disease Dynamics) <alhill@jhmi.edu>
+model_contributors: Erica Carcelen (Johns Hopkins Infectious Disease Dynamics), Alison Hill (Johns Hopkins Infectious Disease Dynamics), Sung-mok Jung (University of North Carolina), Joseph C. Lemaitre (University of North Carolina), Joshua Kaminsky (Johns Hopkins Infectious Disease Dynamics), Elizabeth C. Lee (Johns Hopkins Infectious Disease Dynamics), Justin Lessler (Johns Hopkins Infectious Disease Dynamics & University of North Carolina), Sara Loo (Johns Hopkins Infectious Disease Dynamics), Clif McKee (Johns Hopkins Infectious Disease Dynamics), Koji Sato (Johns Hopkins Infectious Disease Dynamics), Claire Smith (Johns Hopkins Infectious Disease Dynamics), Shaun Truelove (Johns Hopkins Infectious Disease Dynamics) <shauntruelove@jhu.edu>
 website_url: https://github.com/HopkinsIDD/COVIDScenarioPipeline
 license: mit
 team_model_designation: primary

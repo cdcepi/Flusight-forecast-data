@@ -4,6 +4,6 @@ model_abbr: VTSanghani-Transformer
 model_contributors:  Andrew Farabow, Patrick Butler <pabutler@vt.edu>, Naren Ramakrishnan
 website_url: https://sanghani.cs.vt.edu/
 license: cc-by-4.0
-team_model_designation: proposed
+team_model_designation: other
 ensemble_of_hub_models: false
 methods: A model based on the Temporal Fusion Transformer architecture.
