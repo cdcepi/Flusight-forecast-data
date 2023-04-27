@@ -8782,7 +8782,7 @@ date,location,location_name,value
 2023-04-15,19,Iowa,5
 2023-04-15,16,Idaho,1
 2023-04-15,17,Illinois,34
-2023-04-15,18,Indiana,19
+2023-04-15,18,Indiana,17
 2023-04-15,20,Kansas,8
 2023-04-15,21,Kentucky,12
 2023-04-15,22,Louisiana,11
@@ -8812,7 +8812,7 @@ date,location,location_name,value
 2023-04-15,46,South Dakota,4
 2023-04-15,47,Tennessee,25
 2023-04-15,48,Texas,119
-2023-04-15,US,US,1094
+2023-04-15,US,US,1092
 2023-04-15,49,Utah,4
 2023-04-15,51,Virginia,29
 2023-04-15,78,Virgin Islands,0
@@ -8835,8 +8835,8 @@ date,location,location_name,value
 2023-04-22,15,Hawaii,2
 2023-04-22,19,Iowa,1
 2023-04-22,16,Idaho,5
-2023-04-22,17,Illinois,34
-2023-04-22,18,Indiana,15
+2023-04-22,17,Illinois,30
+2023-04-22,18,Indiana,13
 2023-04-22,20,Kansas,3
 2023-04-22,21,Kentucky,12
 2023-04-22,22,Louisiana,27
@@ -8850,7 +8850,7 @@ date,location,location_name,value
 2023-04-22,30,Montana,1
 2023-04-22,37,North Carolina,15
 2023-04-22,38,North Dakota,5
-2023-04-22,31,Nebraska,5
+2023-04-22,31,Nebraska,7
 2023-04-22,33,New Hampshire,1
 2023-04-22,34,New Jersey,33
 2023-04-22,35,New Mexico,8
@@ -8866,7 +8866,7 @@ date,location,location_name,value
 2023-04-22,46,South Dakota,4
 2023-04-22,47,Tennessee,26
 2023-04-22,48,Texas,105
-2023-04-22,US,US,1014
+2023-04-22,US,US,1010
 2023-04-22,49,Utah,5
 2023-04-22,51,Virginia,46
 2023-04-22,78,Virgin Islands,0
