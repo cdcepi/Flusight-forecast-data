@@ -1,5 +1,5 @@
 "forecast_date","target","target_end_date","location","type","quantile","value"
-2023-05-15,"1 wk ahead inc flu hosp",2023-05-20,"06","point","NA",32.9036668432564
+2023-05-15,"1 wk ahead inc flu hosp",2023-05-20,"06","point","NA",30.4746283840011
 2023-05-15,"1 wk ahead inc flu hosp",2023-05-20,"06","quantile","0.010",0
 2023-05-15,"1 wk ahead inc flu hosp",2023-05-20,"06","quantile","0.025",0
 2023-05-15,"1 wk ahead inc flu hosp",2023-05-20,"06","quantile","0.050",4.38766335632466
@@ -11,7 +11,7 @@
 2023-05-15,"1 wk ahead inc flu hosp",2023-05-20,"06","quantile","0.350",26.0922444807517
 2023-05-15,"1 wk ahead inc flu hosp",2023-05-20,"06","quantile","0.400",28.3971722643005
 2023-05-15,"1 wk ahead inc flu hosp",2023-05-20,"06","quantile","0.450",30.5537729792527
-2023-05-15,"1 wk ahead inc flu hosp",2023-05-20,"06","quantile","0.500",32.9036668432564
+2023-05-15,"1 wk ahead inc flu hosp",2023-05-20,"06","quantile","0.500",32.6450224041881
 2023-05-15,"1 wk ahead inc flu hosp",2023-05-20,"06","quantile","0.550",34.8622934877149
 2023-05-15,"1 wk ahead inc flu hosp",2023-05-20,"06","quantile","0.600",37.0547765841011
 2023-05-15,"1 wk ahead inc flu hosp",2023-05-20,"06","quantile","0.650",39.3513489642392
@@ -23,7 +23,7 @@
 2023-05-15,"1 wk ahead inc flu hosp",2023-05-20,"06","quantile","0.950",60.8218835050375
 2023-05-15,"1 wk ahead inc flu hosp",2023-05-20,"06","quantile","0.975",66.4095576386882
 2023-05-15,"1 wk ahead inc flu hosp",2023-05-20,"06","quantile","0.990",72.4745462701656
-2023-05-15,"2 wk ahead inc flu hosp",2023-05-27,"06","point","NA",32.0752199038658
+2023-05-15,"2 wk ahead inc flu hosp",2023-05-27,"06","point","NA",30.195455253962
 2023-05-15,"2 wk ahead inc flu hosp",2023-05-27,"06","quantile","0.010",0
 2023-05-15,"2 wk ahead inc flu hosp",2023-05-27,"06","quantile","0.025",0
 2023-05-15,"2 wk ahead inc flu hosp",2023-05-27,"06","quantile","0.050",0.465133388210646
@@ -35,7 +35,7 @@
 2023-05-15,"2 wk ahead inc flu hosp",2023-05-27,"06","quantile","0.350",27.1132390866237
 2023-05-15,"2 wk ahead inc flu hosp",2023-05-27,"06","quantile","0.400",29.8566230675005
 2023-05-15,"2 wk ahead inc flu hosp",2023-05-27,"06","quantile","0.450",32.620540550306
-2023-05-15,"2 wk ahead inc flu hosp",2023-05-27,"06","quantile","0.500",32.0752199038658
+2023-05-15,"2 wk ahead inc flu hosp",2023-05-27,"06","quantile","0.500",35.0957594066376
 2023-05-15,"2 wk ahead inc flu hosp",2023-05-27,"06","quantile","0.550",37.8852839278239
 2023-05-15,"2 wk ahead inc flu hosp",2023-05-27,"06","quantile","0.600",40.4739478791052
 2023-05-15,"2 wk ahead inc flu hosp",2023-05-27,"06","quantile","0.650",43.2498037227368
@@ -47,7 +47,7 @@
 2023-05-15,"2 wk ahead inc flu hosp",2023-05-27,"06","quantile","0.950",70.0280941673767
 2023-05-15,"2 wk ahead inc flu hosp",2023-05-27,"06","quantile","0.975",76.8887457867832
 2023-05-15,"2 wk ahead inc flu hosp",2023-05-27,"06","quantile","0.990",84.9456306134093
-2023-05-15,"3 wk ahead inc flu hosp",2023-06-03,"06","point","NA",31.5992617056373
+2023-05-15,"3 wk ahead inc flu hosp",2023-06-03,"06","point","NA",30.14892469309
 2023-05-15,"3 wk ahead inc flu hosp",2023-06-03,"06","quantile","0.010",0
 2023-05-15,"3 wk ahead inc flu hosp",2023-06-03,"06","quantile","0.025",0
 2023-05-15,"3 wk ahead inc flu hosp",2023-06-03,"06","quantile","0.050",0
@@ -59,7 +59,7 @@
 2023-05-15,"3 wk ahead inc flu hosp",2023-06-03,"06","quantile","0.350",29.1511730719623
 2023-05-15,"3 wk ahead inc flu hosp",2023-06-03,"06","quantile","0.400",32.6099765814201
 2023-05-15,"3 wk ahead inc flu hosp",2023-06-03,"06","quantile","0.450",36.0652348384436
-2023-05-15,"3 wk ahead inc flu hosp",2023-06-03,"06","quantile","0.500",31.6428113181585
+2023-05-15,"3 wk ahead inc flu hosp",2023-06-03,"06","quantile","0.500",39.1564941735934
 2023-05-15,"3 wk ahead inc flu hosp",2023-06-03,"06","quantile","0.550",42.8585364243888
 2023-05-15,"3 wk ahead inc flu hosp",2023-06-03,"06","quantile","0.600",46.2376584641589
 2023-05-15,"3 wk ahead inc flu hosp",2023-06-03,"06","quantile","0.650",49.7759195271111
@@ -71,7 +71,7 @@
 2023-05-15,"3 wk ahead inc flu hosp",2023-06-03,"06","quantile","0.950",84.0684545280909
 2023-05-15,"3 wk ahead inc flu hosp",2023-06-03,"06","quantile","0.975",92.7010264217546
 2023-05-15,"3 wk ahead inc flu hosp",2023-06-03,"06","quantile","0.990",102.584646261785
-2023-05-15,"4 wk ahead inc flu hosp",2023-06-10,"06","point","NA",31.3070001419318
+2023-05-15,"4 wk ahead inc flu hosp",2023-06-10,"06","point","NA",30.223633911003
 2023-05-15,"4 wk ahead inc flu hosp",2023-06-10,"06","quantile","0.010",0
 2023-05-15,"4 wk ahead inc flu hosp",2023-06-10,"06","quantile","0.025",0
 2023-05-15,"4 wk ahead inc flu hosp",2023-06-10,"06","quantile","0.050",0
@@ -83,7 +83,7 @@
 2023-05-15,"4 wk ahead inc flu hosp",2023-06-10,"06","quantile","0.350",26.2482051997051
 2023-05-15,"4 wk ahead inc flu hosp",2023-06-10,"06","quantile","0.400",30.9040865793308
 2023-05-15,"4 wk ahead inc flu hosp",2023-06-10,"06","quantile","0.450",35.4468451250823
-2023-05-15,"4 wk ahead inc flu hosp",2023-06-10,"06","quantile","0.500",31.9351239729313
+2023-05-15,"4 wk ahead inc flu hosp",2023-06-10,"06","quantile","0.500",39.4764063084331
 2023-05-15,"4 wk ahead inc flu hosp",2023-06-10,"06","quantile","0.550",44.3900180945061
 2023-05-15,"4 wk ahead inc flu hosp",2023-06-10,"06","quantile","0.600",48.9706484975372
 2023-05-15,"4 wk ahead inc flu hosp",2023-06-10,"06","quantile","0.650",53.6303125936821
