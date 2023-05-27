@@ -7849,7 +7849,7 @@ date,location,location_name,value
 2022-12-10,55,Wisconsin,478
 2022-12-10,54,West Virginia,236
 2022-12-10,56,Wyoming,52
-2022-12-17,02,Alaska,50
+2022-12-17,02,Alaska,45
 2022-12-17,01,Alabama,143
 2022-12-17,05,Arkansas,234
 2022-12-17,04,Arizona,563
@@ -7894,7 +7894,7 @@ date,location,location_name,value
 2022-12-17,46,South Dakota,105
 2022-12-17,47,Tennessee,251
 2022-12-17,48,Texas,1462
-2022-12-17,US,US,21425
+2022-12-17,US,US,21420
 2022-12-17,49,Utah,41
 2022-12-17,51,Virginia,285
 2022-12-17,78,Virgin Islands,0
@@ -7903,7 +7903,7 @@ date,location,location_name,value
 2022-12-17,55,Wisconsin,498
 2022-12-17,54,West Virginia,199
 2022-12-17,56,Wyoming,35
-2022-12-24,02,Alaska,44
+2022-12-24,02,Alaska,40
 2022-12-24,01,Alabama,155
 2022-12-24,05,Arkansas,189
 2022-12-24,04,Arizona,604
@@ -7948,7 +7948,7 @@ date,location,location_name,value
 2022-12-24,46,South Dakota,71
 2022-12-24,47,Tennessee,225
 2022-12-24,48,Texas,1225
-2022-12-24,US,US,19294
+2022-12-24,US,US,19290
 2022-12-24,49,Utah,62
 2022-12-24,51,Virginia,274
 2022-12-24,78,Virgin Islands,0
@@ -7957,7 +7957,7 @@ date,location,location_name,value
 2022-12-24,55,Wisconsin,444
 2022-12-24,54,West Virginia,149
 2022-12-24,56,Wyoming,51
-2022-12-31,02,Alaska,56
+2022-12-31,02,Alaska,44
 2022-12-31,01,Alabama,140
 2022-12-31,05,Arkansas,217
 2022-12-31,04,Arizona,656
@@ -8002,7 +8002,7 @@ date,location,location_name,value
 2022-12-31,46,South Dakota,57
 2022-12-31,47,Tennessee,247
 2022-12-31,48,Texas,1432
-2022-12-31,US,US,19388
+2022-12-31,US,US,19376
 2022-12-31,49,Utah,90
 2022-12-31,51,Virginia,280
 2022-12-31,78,Virgin Islands,0
@@ -8011,7 +8011,7 @@ date,location,location_name,value
 2022-12-31,55,Wisconsin,476
 2022-12-31,54,West Virginia,188
 2022-12-31,56,Wyoming,50
-2023-01-07,02,Alaska,32
+2023-01-07,02,Alaska,29
 2023-01-07,01,Alabama,125
 2023-01-07,05,Arkansas,146
 2023-01-07,04,Arizona,350
@@ -8056,7 +8056,7 @@ date,location,location_name,value
 2023-01-07,46,South Dakota,58
 2023-01-07,47,Tennessee,171
 2023-01-07,48,Texas,1167
-2023-01-07,US,US,12932
+2023-01-07,US,US,12929
 2023-01-07,49,Utah,54
 2023-01-07,51,Virginia,211
 2023-01-07,78,Virgin Islands,0
@@ -8065,7 +8065,7 @@ date,location,location_name,value
 2023-01-07,55,Wisconsin,324
 2023-01-07,54,West Virginia,138
 2023-01-07,56,Wyoming,33
-2023-01-14,02,Alaska,8
+2023-01-14,02,Alaska,6
 2023-01-14,01,Alabama,94
 2023-01-14,05,Arkansas,98
 2023-01-14,04,Arizona,140
@@ -8110,7 +8110,7 @@ date,location,location_name,value
 2023-01-14,46,South Dakota,16
 2023-01-14,47,Tennessee,86
 2023-01-14,48,Texas,727
-2023-01-14,US,US,6690
+2023-01-14,US,US,6688
 2023-01-14,49,Utah,27
 2023-01-14,51,Virginia,112
 2023-01-14,78,Virgin Islands,0
@@ -8119,7 +8119,7 @@ date,location,location_name,value
 2023-01-14,55,Wisconsin,165
 2023-01-14,54,West Virginia,37
 2023-01-14,56,Wyoming,16
-2023-01-21,02,Alaska,10
+2023-01-21,02,Alaska,9
 2023-01-21,01,Alabama,57
 2023-01-21,05,Arkansas,61
 2023-01-21,04,Arizona,112
@@ -8164,7 +8164,7 @@ date,location,location_name,value
 2023-01-21,46,South Dakota,11
 2023-01-21,47,Tennessee,75
 2023-01-21,48,Texas,458
-2023-01-21,US,US,4183
+2023-01-21,US,US,4182
 2023-01-21,49,Utah,17
 2023-01-21,51,Virginia,72
 2023-01-21,78,Virgin Islands,0
@@ -8227,7 +8227,7 @@ date,location,location_name,value
 2023-01-28,55,Wisconsin,44
 2023-01-28,54,West Virginia,20
 2023-01-28,56,Wyoming,5
-2023-02-04,02,Alaska,5
+2023-02-04,02,Alaska,3
 2023-02-04,01,Alabama,28
 2023-02-04,05,Arkansas,21
 2023-02-04,04,Arizona,71
@@ -8272,7 +8272,7 @@ date,location,location_name,value
 2023-02-04,46,South Dakota,12
 2023-02-04,47,Tennessee,41
 2023-02-04,48,Texas,256
-2023-02-04,US,US,2322
+2023-02-04,US,US,2320
 2023-02-04,49,Utah,8
 2023-02-04,51,Virginia,64
 2023-02-04,78,Virgin Islands,0
@@ -8281,7 +8281,7 @@ date,location,location_name,value
 2023-02-04,55,Wisconsin,22
 2023-02-04,54,West Virginia,23
 2023-02-04,56,Wyoming,7
-2023-02-11,02,Alaska,2
+2023-02-11,02,Alaska,1
 2023-02-11,01,Alabama,33
 2023-02-11,05,Arkansas,35
 2023-02-11,04,Arizona,52
@@ -8326,7 +8326,7 @@ date,location,location_name,value
 2023-02-11,46,South Dakota,9
 2023-02-11,47,Tennessee,33
 2023-02-11,48,Texas,270
-2023-02-11,US,US,2153
+2023-02-11,US,US,2152
 2023-02-11,49,Utah,6
 2023-02-11,51,Virginia,63
 2023-02-11,78,Virgin Islands,0
@@ -8335,7 +8335,7 @@ date,location,location_name,value
 2023-02-11,55,Wisconsin,24
 2023-02-11,54,West Virginia,16
 2023-02-11,56,Wyoming,2
-2023-02-18,02,Alaska,5
+2023-02-18,02,Alaska,3
 2023-02-18,01,Alabama,31
 2023-02-18,05,Arkansas,25
 2023-02-18,04,Arizona,38
@@ -8380,7 +8380,7 @@ date,location,location_name,value
 2023-02-18,46,South Dakota,10
 2023-02-18,47,Tennessee,50
 2023-02-18,48,Texas,235
-2023-02-18,US,US,1845
+2023-02-18,US,US,1843
 2023-02-18,49,Utah,4
 2023-02-18,51,Virginia,54
 2023-02-18,78,Virgin Islands,0
@@ -8497,7 +8497,7 @@ date,location,location_name,value
 2023-03-04,55,Wisconsin,3
 2023-03-04,54,West Virginia,8
 2023-03-04,56,Wyoming,0
-2023-03-11,02,Alaska,5
+2023-03-11,02,Alaska,3
 2023-03-11,01,Alabama,16
 2023-03-11,05,Arkansas,18
 2023-03-11,04,Arizona,49
@@ -8542,7 +8542,7 @@ date,location,location_name,value
 2023-03-11,46,South Dakota,16
 2023-03-11,47,Tennessee,29
 2023-03-11,48,Texas,152
-2023-03-11,US,US,1399
+2023-03-11,US,US,1397
 2023-03-11,49,Utah,7
 2023-03-11,51,Virginia,45
 2023-03-11,78,Virgin Islands,0
@@ -9065,7 +9065,7 @@ date,location,location_name,value
 2023-05-20,28,Mississippi,22
 2023-05-20,30,Montana,2
 2023-05-20,37,North Carolina,10
-2023-05-20,38,North Dakota,13
+2023-05-20,38,North Dakota,4
 2023-05-20,31,Nebraska,2
 2023-05-20,33,New Hampshire,1
 2023-05-20,34,New Jersey,15
@@ -9082,9 +9082,9 @@ date,location,location_name,value
 2023-05-20,46,South Dakota,2
 2023-05-20,47,Tennessee,17
 2023-05-20,48,Texas,96
-2023-05-20,US,US,969
+2023-05-20,US,US,963
 2023-05-20,49,Utah,1
-2023-05-20,51,Virginia,40
+2023-05-20,51,Virginia,43
 2023-05-20,78,Virgin Islands,0
 2023-05-20,50,Vermont,2
 2023-05-20,53,Washington,12
