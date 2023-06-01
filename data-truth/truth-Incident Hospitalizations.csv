@@ -9093,19 +9093,19 @@ date,location,location_name,value
 2023-05-20,56,Wyoming,1
 2023-05-27,02,Alaska,2
 2023-05-27,01,Alabama,12
-2023-05-27,05,Arkansas,10
+2023-05-27,05,Arkansas,11
 2023-05-27,04,Arizona,110
-2023-05-27,06,California,29
+2023-05-27,06,California,30
 2023-05-27,08,Colorado,6
 2023-05-27,09,Connecticut,9
 2023-05-27,11,District of Columbia,6
 2023-05-27,10,Delaware,0
-2023-05-27,12,Florida,139
-2023-05-27,13,Georgia,36
+2023-05-27,12,Florida,140
+2023-05-27,13,Georgia,38
 2023-05-27,15,Hawaii,0
 2023-05-27,19,Iowa,1
 2023-05-27,16,Idaho,1
-2023-05-27,17,Illinois,27
+2023-05-27,17,Illinois,24
 2023-05-27,18,Indiana,19
 2023-05-27,20,Kansas,1
 2023-05-27,21,Kentucky,11
@@ -9124,24 +9124,24 @@ date,location,location_name,value
 2023-05-27,33,New Hampshire,3
 2023-05-27,34,New Jersey,18
 2023-05-27,35,New Mexico,3
-2023-05-27,32,Nevada,8
-2023-05-27,36,New York,58
+2023-05-27,32,Nevada,5
+2023-05-27,36,New York,59
 2023-05-27,39,Ohio,18
 2023-05-27,40,Oklahoma,16
 2023-05-27,41,Oregon,3
-2023-05-27,42,Pennsylvania,62
+2023-05-27,42,Pennsylvania,59
 2023-05-27,72,Puerto Rico,57
 2023-05-27,44,Rhode Island,3
 2023-05-27,45,South Carolina,19
 2023-05-27,46,South Dakota,1
 2023-05-27,47,Tennessee,27
 2023-05-27,48,Texas,75
-2023-05-27,US,US,967
+2023-05-27,US,US,961
 2023-05-27,49,Utah,6
 2023-05-27,51,Virginia,46
 2023-05-27,78,Virgin Islands,0
 2023-05-27,50,Vermont,0
-2023-05-27,53,Washington,17
+2023-05-27,53,Washington,14
 2023-05-27,55,Wisconsin,3
 2023-05-27,54,West Virginia,8
 2023-05-27,56,Wyoming,0
