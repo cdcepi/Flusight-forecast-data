@@ -9100,13 +9100,13 @@ date,location,location_name,value
 2023-05-27,09,Connecticut,9
 2023-05-27,11,District of Columbia,6
 2023-05-27,10,Delaware,0
-2023-05-27,12,Florida,140
+2023-05-27,12,Florida,145
 2023-05-27,13,Georgia,38
 2023-05-27,15,Hawaii,0
 2023-05-27,19,Iowa,1
 2023-05-27,16,Idaho,1
 2023-05-27,17,Illinois,23
-2023-05-27,18,Indiana,19
+2023-05-27,18,Indiana,17
 2023-05-27,20,Kansas,1
 2023-05-27,21,Kentucky,11
 2023-05-27,22,Louisiana,11
@@ -9136,7 +9136,7 @@ date,location,location_name,value
 2023-05-27,46,South Dakota,1
 2023-05-27,47,Tennessee,27
 2023-05-27,48,Texas,80
-2023-05-27,US,US,967
+2023-05-27,US,US,970
 2023-05-27,49,Utah,6
 2023-05-27,51,Virginia,46
 2023-05-27,78,Virgin Islands,0
@@ -9148,20 +9148,20 @@ date,location,location_name,value
 2023-06-03,02,Alaska,1
 2023-06-03,01,Alabama,25
 2023-06-03,05,Arkansas,5
-2023-06-03,04,Arizona,100
+2023-06-03,04,Arizona,102
 2023-06-03,06,California,46
 2023-06-03,08,Colorado,5
 2023-06-03,09,Connecticut,5
 2023-06-03,11,District of Columbia,3
 2023-06-03,10,Delaware,3
-2023-06-03,12,Florida,140
+2023-06-03,12,Florida,151
 2023-06-03,13,Georgia,50
 2023-06-03,15,Hawaii,7
 2023-06-03,19,Iowa,0
 2023-06-03,16,Idaho,2
-2023-06-03,17,Illinois,22
-2023-06-03,18,Indiana,15
-2023-06-03,20,Kansas,3
+2023-06-03,17,Illinois,24
+2023-06-03,18,Indiana,12
+2023-06-03,20,Kansas,4
 2023-06-03,21,Kentucky,5
 2023-06-03,22,Louisiana,14
 2023-06-03,25,Massachusetts,7
@@ -9172,8 +9172,8 @@ date,location,location_name,value
 2023-06-03,29,Missouri,8
 2023-06-03,28,Mississippi,11
 2023-06-03,30,Montana,0
-2023-06-03,37,North Carolina,15
-2023-06-03,38,North Dakota,1
+2023-06-03,37,North Carolina,14
+2023-06-03,38,North Dakota,2
 2023-06-03,31,Nebraska,2
 2023-06-03,33,New Hampshire,1
 2023-06-03,34,New Jersey,27
@@ -9181,7 +9181,7 @@ date,location,location_name,value
 2023-06-03,32,Nevada,7
 2023-06-03,36,New York,37
 2023-06-03,39,Ohio,6
-2023-06-03,40,Oklahoma,10
+2023-06-03,40,Oklahoma,12
 2023-06-03,41,Oregon,3
 2023-06-03,42,Pennsylvania,66
 2023-06-03,72,Puerto Rico,80
@@ -9189,13 +9189,13 @@ date,location,location_name,value
 2023-06-03,45,South Carolina,27
 2023-06-03,46,South Dakota,4
 2023-06-03,47,Tennessee,17
-2023-06-03,48,Texas,76
-2023-06-03,US,US,956
+2023-06-03,48,Texas,79
+2023-06-03,US,US,971
 2023-06-03,49,Utah,0
 2023-06-03,51,Virginia,34
 2023-06-03,78,Virgin Islands,0
 2023-06-03,50,Vermont,0
-2023-06-03,53,Washington,23
+2023-06-03,53,Washington,19
 2023-06-03,55,Wisconsin,7
-2023-06-03,54,West Virginia,4
+2023-06-03,54,West Virginia,5
 2023-06-03,56,Wyoming,1
