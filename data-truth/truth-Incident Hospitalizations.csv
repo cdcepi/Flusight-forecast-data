@@ -9147,15 +9147,15 @@ date,location,location_name,value
 2023-05-27,56,Wyoming,0
 2023-06-03,02,Alaska,1
 2023-06-03,01,Alabama,25
-2023-06-03,05,Arkansas,5
+2023-06-03,05,Arkansas,3
 2023-06-03,04,Arizona,102
 2023-06-03,06,California,46
 2023-06-03,08,Colorado,5
 2023-06-03,09,Connecticut,5
 2023-06-03,11,District of Columbia,3
 2023-06-03,10,Delaware,3
-2023-06-03,12,Florida,151
-2023-06-03,13,Georgia,50
+2023-06-03,12,Florida,152
+2023-06-03,13,Georgia,54
 2023-06-03,15,Hawaii,7
 2023-06-03,19,Iowa,0
 2023-06-03,16,Idaho,2
@@ -9182,7 +9182,7 @@ date,location,location_name,value
 2023-06-03,36,New York,37
 2023-06-03,39,Ohio,6
 2023-06-03,40,Oklahoma,12
-2023-06-03,41,Oregon,3
+2023-06-03,41,Oregon,4
 2023-06-03,42,Pennsylvania,66
 2023-06-03,72,Puerto Rico,80
 2023-06-03,44,Rhode Island,1
@@ -9190,7 +9190,7 @@ date,location,location_name,value
 2023-06-03,46,South Dakota,4
 2023-06-03,47,Tennessee,17
 2023-06-03,48,Texas,79
-2023-06-03,US,US,971
+2023-06-03,US,US,975
 2023-06-03,49,Utah,0
 2023-06-03,51,Virginia,34
 2023-06-03,78,Virgin Islands,0
