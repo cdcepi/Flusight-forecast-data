@@ -1,0 +1,244 @@
+"forecast_date","target","location","location_name","type","type_id","value"
+2022-11-21,"2 wk flu hosp rate change","01","Alabama","category","large_increase",0.212276369814785
+2022-11-21,"2 wk flu hosp rate change","02","Alaska","category","large_increase",0.150077780076981
+2022-11-21,"2 wk flu hosp rate change","04","Arizona","category","large_increase",0.336480202416099
+2022-11-21,"2 wk flu hosp rate change","05","Arkansas","category","large_increase",0.434098501783648
+2022-11-21,"2 wk flu hosp rate change","06","California","category","large_increase",0.260643361695437
+2022-11-21,"2 wk flu hosp rate change","08","Colorado","category","large_increase",0.199609350579126
+2022-11-21,"2 wk flu hosp rate change","09","Connecticut","category","large_increase",0.361869013583225
+2022-11-21,"2 wk flu hosp rate change","10","Delaware","category","large_increase",0.375308579371138
+2022-11-21,"2 wk flu hosp rate change","11","District of Columbia","category","large_increase",0.21780681695046
+2022-11-21,"2 wk flu hosp rate change","12","Florida","category","large_increase",0.0499908783613484
+2022-11-21,"2 wk flu hosp rate change","13","Georgia","category","large_increase",0.0326611854653224
+2022-11-21,"2 wk flu hosp rate change","15","Hawaii","category","large_increase",0.0420427563553563
+2022-11-21,"2 wk flu hosp rate change","16","Idaho","category","large_increase",0.328866542760656
+2022-11-21,"2 wk flu hosp rate change","17","Illinois","category","large_increase",0.207634278013454
+2022-11-21,"2 wk flu hosp rate change","18","Indiana","category","large_increase",0.311023841587753
+2022-11-21,"2 wk flu hosp rate change","19","Iowa","category","large_increase",0.0101962693354726
+2022-11-21,"2 wk flu hosp rate change","20","Kansas","category","large_increase",0.264708528798789
+2022-11-21,"2 wk flu hosp rate change","21","Kentucky","category","large_increase",0.489744637371597
+2022-11-21,"2 wk flu hosp rate change","22","Louisiana","category","large_increase",0.172167456543667
+2022-11-21,"2 wk flu hosp rate change","23","Maine","category","large_increase",0.014336963824398
+2022-11-21,"2 wk flu hosp rate change","24","Maryland","category","large_increase",0.203305758574222
+2022-11-21,"2 wk flu hosp rate change","25","Massachusetts","category","large_increase",0.0238416682172941
+2022-11-21,"2 wk flu hosp rate change","26","Michigan","category","large_increase",0.135801768079412
+2022-11-21,"2 wk flu hosp rate change","27","Minnesota","category","large_increase",0.443368773104435
+2022-11-21,"2 wk flu hosp rate change","28","Mississippi","category","large_increase",0.337700398780334
+2022-11-21,"2 wk flu hosp rate change","29","Missouri","category","large_increase",0.157625296541118
+2022-11-21,"2 wk flu hosp rate change","30","Montana","category","large_increase",0.049149556596406
+2022-11-21,"2 wk flu hosp rate change","31","Nebraska","category","large_increase",0.325711968754012
+2022-11-21,"2 wk flu hosp rate change","32","Nevada","category","large_increase",0.472963907272966
+2022-11-21,"2 wk flu hosp rate change","33","New Hampshire","category","large_increase",0.00180499731167205
+2022-11-21,"2 wk flu hosp rate change","34","New Jersey","category","large_increase",0.217059189126963
+2022-11-21,"2 wk flu hosp rate change","35","New Mexico","category","large_increase",0.412202179199145
+2022-11-21,"2 wk flu hosp rate change","36","New York","category","large_increase",0.0715618441725329
+2022-11-21,"2 wk flu hosp rate change","37","North Carolina","category","large_increase",0.230897908285621
+2022-11-21,"2 wk flu hosp rate change","38","North Dakota","category","large_increase",0.00616703298941157
+2022-11-21,"2 wk flu hosp rate change","39","Ohio","category","large_increase",0.248244809851783
+2022-11-21,"2 wk flu hosp rate change","40","Oklahoma","category","large_increase",0.299980664545409
+2022-11-21,"2 wk flu hosp rate change","41","Oregon","category","large_increase",0.332158974593575
+2022-11-21,"2 wk flu hosp rate change","42","Pennsylvania","category","large_increase",0.166362563058814
+2022-11-21,"2 wk flu hosp rate change","72","Puerto Rico","category","large_increase",0.123825368902453
+2022-11-21,"2 wk flu hosp rate change","44","Rhode Island","category","large_increase",0.00236310524997019
+2022-11-21,"2 wk flu hosp rate change","45","South Carolina","category","large_increase",0.226050287633529
+2022-11-21,"2 wk flu hosp rate change","46","South Dakota","category","large_increase",0.158828633000956
+2022-11-21,"2 wk flu hosp rate change","47","Tennessee","category","large_increase",0.328160055021207
+2022-11-21,"2 wk flu hosp rate change","48","Texas","category","large_increase",0.0635961668345129
+2022-11-21,"2 wk flu hosp rate change","US","US","category","large_increase",0.0210527937800766
+2022-11-21,"2 wk flu hosp rate change","49","Utah","category","large_increase",0.000175157684124905
+2022-11-21,"2 wk flu hosp rate change","50","Vermont","category","large_increase",1.11022302462516e-14
+2022-11-21,"2 wk flu hosp rate change","78","Virgin Islands","category","large_increase",0
+2022-11-21,"2 wk flu hosp rate change","51","Virginia","category","large_increase",0.146757958254483
+2022-11-21,"2 wk flu hosp rate change","53","Washington","category","large_increase",0.255188079411956
+2022-11-21,"2 wk flu hosp rate change","54","West Virginia","category","large_increase",0.389620906044693
+2022-11-21,"2 wk flu hosp rate change","55","Wisconsin","category","large_increase",0.149633345536091
+2022-11-21,"2 wk flu hosp rate change","56","Wyoming","category","large_increase",0.224005515518127
+2022-11-21,"2 wk flu hosp rate change","01","Alabama","category","increase",0.0778029847883365
+2022-11-21,"2 wk flu hosp rate change","02","Alaska","category","increase",0.141278173279089
+2022-11-21,"2 wk flu hosp rate change","04","Arizona","category","increase",0.154657720793609
+2022-11-21,"2 wk flu hosp rate change","05","Arkansas","category","increase",0.0932666528443301
+2022-11-21,"2 wk flu hosp rate change","06","California","category","increase",0.271967965012251
+2022-11-21,"2 wk flu hosp rate change","08","Colorado","category","increase",0.167019356573586
+2022-11-21,"2 wk flu hosp rate change","09","Connecticut","category","increase",0.114092848626536
+2022-11-21,"2 wk flu hosp rate change","10","Delaware","category","increase",0.0983293058432416
+2022-11-21,"2 wk flu hosp rate change","11","District of Columbia","category","increase",0.168361848687396
+2022-11-21,"2 wk flu hosp rate change","12","Florida","category","increase",0.167282499641428
+2022-11-21,"2 wk flu hosp rate change","13","Georgia","category","increase",0.19105027071177
+2022-11-21,"2 wk flu hosp rate change","15","Hawaii","category","increase",0.116728748093627
+2022-11-21,"2 wk flu hosp rate change","16","Idaho","category","increase",0.129875786627653
+2022-11-21,"2 wk flu hosp rate change","17","Illinois","category","increase",0.239436325307387
+2022-11-21,"2 wk flu hosp rate change","18","Indiana","category","increase",0.128905095705041
+2022-11-21,"2 wk flu hosp rate change","19","Iowa","category","increase",0.177551435548008
+2022-11-21,"2 wk flu hosp rate change","20","Kansas","category","increase",0.169762915468366
+2022-11-21,"2 wk flu hosp rate change","21","Kentucky","category","increase",0.159974760209147
+2022-11-21,"2 wk flu hosp rate change","22","Louisiana","category","increase",0.100524614931337
+2022-11-21,"2 wk flu hosp rate change","23","Maine","category","increase",0.187119478798049
+2022-11-21,"2 wk flu hosp rate change","24","Maryland","category","increase",0.165837078297268
+2022-11-21,"2 wk flu hosp rate change","25","Massachusetts","category","increase",0.271737799375684
+2022-11-21,"2 wk flu hosp rate change","26","Michigan","category","increase",0.227495553548535
+2022-11-21,"2 wk flu hosp rate change","27","Minnesota","category","increase",0.159487803169503
+2022-11-21,"2 wk flu hosp rate change","28","Mississippi","category","increase",0.0627841394682457
+2022-11-21,"2 wk flu hosp rate change","29","Missouri","category","increase",0.259152919467506
+2022-11-21,"2 wk flu hosp rate change","30","Montana","category","increase",0.267080527364008
+2022-11-21,"2 wk flu hosp rate change","31","Nebraska","category","increase",0.113091772104177
+2022-11-21,"2 wk flu hosp rate change","32","Nevada","category","increase",0.170901274459152
+2022-11-21,"2 wk flu hosp rate change","33","New Hampshire","category","increase",0.116152455018509
+2022-11-21,"2 wk flu hosp rate change","34","New Jersey","category","increase",0.178565675798563
+2022-11-21,"2 wk flu hosp rate change","35","New Mexico","category","increase",0.0771289462740445
+2022-11-21,"2 wk flu hosp rate change","36","New York","category","increase",0.204803940291408
+2022-11-21,"2 wk flu hosp rate change","37","North Carolina","category","increase",0.2046706878393
+2022-11-21,"2 wk flu hosp rate change","38","North Dakota","category","increase",0.116913564348243
+2022-11-21,"2 wk flu hosp rate change","39","Ohio","category","increase",0.192210390295527
+2022-11-21,"2 wk flu hosp rate change","40","Oklahoma","category","increase",0.164051713213727
+2022-11-21,"2 wk flu hosp rate change","41","Oregon","category","increase",0.136300802504008
+2022-11-21,"2 wk flu hosp rate change","42","Pennsylvania","category","increase",0.215253751694264
+2022-11-21,"2 wk flu hosp rate change","72","Puerto Rico","category","increase",0.117053743905172
+2022-11-21,"2 wk flu hosp rate change","44","Rhode Island","category","increase",0.06244435029111
+2022-11-21,"2 wk flu hosp rate change","45","South Carolina","category","increase",0.146055841148197
+2022-11-21,"2 wk flu hosp rate change","46","South Dakota","category","increase",0.221504280543661
+2022-11-21,"2 wk flu hosp rate change","47","Tennessee","category","increase",0.110764320341855
+2022-11-21,"2 wk flu hosp rate change","48","Texas","category","increase",0.192740406069287
+2022-11-21,"2 wk flu hosp rate change","US","US","category","increase",0.269158752635488
+2022-11-21,"2 wk flu hosp rate change","49","Utah","category","increase",0.0356294976202824
+2022-11-21,"2 wk flu hosp rate change","50","Vermont","category","increase",2.17363680552474e-05
+2022-11-21,"2 wk flu hosp rate change","78","Virgin Islands","category","increase",0
+2022-11-21,"2 wk flu hosp rate change","51","Virginia","category","increase",0.171591760316143
+2022-11-21,"2 wk flu hosp rate change","53","Washington","category","increase",0.221969516178312
+2022-11-21,"2 wk flu hosp rate change","54","West Virginia","category","increase",0.0351364581186735
+2022-11-21,"2 wk flu hosp rate change","55","Wisconsin","category","increase",0.230303959614728
+2022-11-21,"2 wk flu hosp rate change","56","Wyoming","category","increase",0.139131631659505
+2022-11-21,"2 wk flu hosp rate change","01","Alabama","category","stable",0.281457776376967
+2022-11-21,"2 wk flu hosp rate change","02","Alaska","category","stable",0.500752278015463
+2022-11-21,"2 wk flu hosp rate change","04","Arizona","category","stable",0.447435757063863
+2022-11-21,"2 wk flu hosp rate change","05","Arkansas","category","stable",0.193742448450782
+2022-11-21,"2 wk flu hosp rate change","06","California","category","stable",0.456643209616848
+2022-11-21,"2 wk flu hosp rate change","08","Colorado","category","stable",0.414879840254151
+2022-11-21,"2 wk flu hosp rate change","09","Connecticut","category","stable",0.305225228862704
+2022-11-21,"2 wk flu hosp rate change","10","Delaware","category","stable",0.327338242341879
+2022-11-21,"2 wk flu hosp rate change","11","District of Columbia","category","stable",0.363171636018717
+2022-11-21,"2 wk flu hosp rate change","12","Florida","category","stable",0.709558250602491
+2022-11-21,"2 wk flu hosp rate change","13","Georgia","category","stable",0.644732192996623
+2022-11-21,"2 wk flu hosp rate change","15","Hawaii","category","stable",0.841228495551017
+2022-11-21,"2 wk flu hosp rate change","16","Idaho","category","stable",0.369968921698837
+2022-11-21,"2 wk flu hosp rate change","17","Illinois","category","stable",0.51592580985124
+2022-11-21,"2 wk flu hosp rate change","18","Indiana","category","stable",0.360130571249731
+2022-11-21,"2 wk flu hosp rate change","19","Iowa","category","stable",0.812252295116519
+2022-11-21,"2 wk flu hosp rate change","20","Kansas","category","stable",0.434934460990358
+2022-11-21,"2 wk flu hosp rate change","21","Kentucky","category","stable",0.142354609285282
+2022-11-21,"2 wk flu hosp rate change","22","Louisiana","category","stable",0.466319665880897
+2022-11-21,"2 wk flu hosp rate change","23","Maine","category","stable",0.798543557377553
+2022-11-21,"2 wk flu hosp rate change","24","Maryland","category","stable",0.430398255339515
+2022-11-21,"2 wk flu hosp rate change","25","Massachusetts","category","stable",0.703677354952782
+2022-11-21,"2 wk flu hosp rate change","26","Michigan","category","stable",0.576859453659608
+2022-11-21,"2 wk flu hosp rate change","27","Minnesota","category","stable",0.209115105780424
+2022-11-21,"2 wk flu hosp rate change","28","Mississippi","category","stable",0.20286331853229
+2022-11-21,"2 wk flu hosp rate change","29","Missouri","category","stable",0.53313509477717
+2022-11-21,"2 wk flu hosp rate change","30","Montana","category","stable",0.683769916039586
+2022-11-21,"2 wk flu hosp rate change","31","Nebraska","category","stable",0.361202925015298
+2022-11-21,"2 wk flu hosp rate change","32","Nevada","category","stable",0.264199236367382
+2022-11-21,"2 wk flu hosp rate change","33","New Hampshire","category","stable",0.882042547669819
+2022-11-21,"2 wk flu hosp rate change","34","New Jersey","category","stable",0.443036402929761
+2022-11-21,"2 wk flu hosp rate change","35","New Mexico","category","stable",0.164204267462523
+2022-11-21,"2 wk flu hosp rate change","36","New York","category","stable",0.684661353044032
+2022-11-21,"2 wk flu hosp rate change","37","North Carolina","category","stable",0.440121041981694
+2022-11-21,"2 wk flu hosp rate change","38","North Dakota","category","stable",0.876919402662345
+2022-11-21,"2 wk flu hosp rate change","39","Ohio","category","stable",0.402837050263284
+2022-11-21,"2 wk flu hosp rate change","40","Oklahoma","category","stable",0.385964051215704
+2022-11-21,"2 wk flu hosp rate change","41","Oregon","category","stable",0.408796582915083
+2022-11-21,"2 wk flu hosp rate change","42","Pennsylvania","category","stable",0.430408088404829
+2022-11-21,"2 wk flu hosp rate change","72","Puerto Rico","category","stable",0.488336549656557
+2022-11-21,"2 wk flu hosp rate change","44","Rhode Island","category","stable",0.93519254445892
+2022-11-21,"2 wk flu hosp rate change","45","South Carolina","category","stable",0.317057928785661
+2022-11-21,"2 wk flu hosp rate change","46","South Dakota","category","stable",0.519745236360865
+2022-11-21,"2 wk flu hosp rate change","47","Tennessee","category","stable",0.330718981906872
+2022-11-21,"2 wk flu hosp rate change","48","Texas","category","stable",0.622759126264254
+2022-11-21,"2 wk flu hosp rate change","US","US","category","stable",0.708923240918157
+2022-11-21,"2 wk flu hosp rate change","49","Utah","category","stable",0.964195344695593
+2022-11-21,"2 wk flu hosp rate change","50","Vermont","category","stable",0.999978263631934
+2022-11-21,"2 wk flu hosp rate change","78","Virgin Islands","category","stable",1
+2022-11-21,"2 wk flu hosp rate change","51","Virginia","category","stable",0.45454590004685
+2022-11-21,"2 wk flu hosp rate change","53","Washington","category","stable",0.503899801458773
+2022-11-21,"2 wk flu hosp rate change","54","West Virginia","category","stable",0.179819303897623
+2022-11-21,"2 wk flu hosp rate change","55","Wisconsin","category","stable",0.554995901235694
+2022-11-21,"2 wk flu hosp rate change","56","Wyoming","category","stable",0.52148754093232
+2022-11-21,"2 wk flu hosp rate change","01","Alabama","category","decrease",0.161431405460114
+2022-11-21,"2 wk flu hosp rate change","02","Alaska","category","decrease",0.207891768628467
+2022-11-21,"2 wk flu hosp rate change","04","Arizona","category","decrease",0.039885556910583
+2022-11-21,"2 wk flu hosp rate change","05","Arkansas","category","decrease",0.0837486022017629
+2022-11-21,"2 wk flu hosp rate change","06","California","category","decrease",0.0101220418221183
+2022-11-21,"2 wk flu hosp rate change","08","Colorado","category","decrease",0.218491452593137
+2022-11-21,"2 wk flu hosp rate change","09","Connecticut","category","decrease",0.105753836618192
+2022-11-21,"2 wk flu hosp rate change","10","Delaware","category","decrease",0.118781949009857
+2022-11-21,"2 wk flu hosp rate change","11","District of Columbia","category","decrease",0.250659698343427
+2022-11-21,"2 wk flu hosp rate change","12","Florida","category","decrease",0.0726213359282106
+2022-11-21,"2 wk flu hosp rate change","13","Georgia","category","decrease",0.131556350826284
+2022-11-21,"2 wk flu hosp rate change","16","Idaho","category","decrease",0.102694401697404
+2022-11-21,"2 wk flu hosp rate change","17","Illinois","category","decrease",0.0349485029050979
+2022-11-21,"2 wk flu hosp rate change","18","Indiana","category","decrease",0.121004691603165
+2022-11-21,"2 wk flu hosp rate change","19","Iowa","category","decrease",0
+2022-11-21,"2 wk flu hosp rate change","20","Kansas","category","decrease",0.125187749391764
+2022-11-21,"2 wk flu hosp rate change","21","Kentucky","category","decrease",0.0673865982578944
+2022-11-21,"2 wk flu hosp rate change","22","Louisiana","category","decrease",0.140009728249457
+2022-11-21,"2 wk flu hosp rate change","24","Maryland","category","decrease",0.157942733104822
+2022-11-21,"2 wk flu hosp rate change","25","Massachusetts","category","decrease",0.000743177454240191
+2022-11-21,"2 wk flu hosp rate change","26","Michigan","category","decrease",0.0598432247124446
+2022-11-21,"2 wk flu hosp rate change","27","Minnesota","category","decrease",0.0808654884103775
+2022-11-21,"2 wk flu hosp rate change","28","Mississippi","category","decrease",0.0793432139831524
+2022-11-21,"2 wk flu hosp rate change","29","Missouri","category","decrease",0.0447985181184905
+2022-11-21,"2 wk flu hosp rate change","31","Nebraska","category","decrease",0.163472454622005
+2022-11-21,"2 wk flu hosp rate change","32","Nevada","category","decrease",0.0540894573756703
+2022-11-21,"2 wk flu hosp rate change","34","New Jersey","category","decrease",0.115261997306171
+2022-11-21,"2 wk flu hosp rate change","35","New Mexico","category","decrease",0.0764679869149155
+2022-11-21,"2 wk flu hosp rate change","36","New York","category","decrease",0.0387010186293009
+2022-11-21,"2 wk flu hosp rate change","37","North Carolina","category","decrease",0.0896461372478073
+2022-11-21,"2 wk flu hosp rate change","39","Ohio","category","decrease",0.127598888841903
+2022-11-21,"2 wk flu hosp rate change","40","Oklahoma","category","decrease",0.0875716145471904
+2022-11-21,"2 wk flu hosp rate change","41","Oregon","category","decrease",0.0769630491689206
+2022-11-21,"2 wk flu hosp rate change","42","Pennsylvania","category","decrease",0.160716267227377
+2022-11-21,"2 wk flu hosp rate change","72","Puerto Rico","category","decrease",0.237396388783024
+2022-11-21,"2 wk flu hosp rate change","45","South Carolina","category","decrease",0.148570415605353
+2022-11-21,"2 wk flu hosp rate change","46","South Dakota","category","decrease",0.0999218500945184
+2022-11-21,"2 wk flu hosp rate change","47","Tennessee","category","decrease",0.124611984585653
+2022-11-21,"2 wk flu hosp rate change","48","Texas","category","decrease",0.115502762170873
+2022-11-21,"2 wk flu hosp rate change","US","US","category","decrease",0.000864858644616201
+2022-11-21,"2 wk flu hosp rate change","51","Virginia","category","decrease",0.169288166878889
+2022-11-21,"2 wk flu hosp rate change","53","Washington","category","decrease",0.0181615435724583
+2022-11-21,"2 wk flu hosp rate change","54","West Virginia","category","decrease",0.0803167595035754
+2022-11-21,"2 wk flu hosp rate change","55","Wisconsin","category","decrease",0.065066793613487
+2022-11-21,"2 wk flu hosp rate change","56","Wyoming","category","decrease",0.090859881832078
+2022-11-21,"2 wk flu hosp rate change","01","Alabama","category","large_decrease",0.267031463559797
+2022-11-21,"2 wk flu hosp rate change","04","Arizona","category","large_decrease",0.0215407628158463
+2022-11-21,"2 wk flu hosp rate change","05","Arkansas","category","large_decrease",0.195143794719477
+2022-11-21,"2 wk flu hosp rate change","06","California","category","large_decrease",0.00062342185334567
+2022-11-21,"2 wk flu hosp rate change","09","Connecticut","category","large_decrease",0.113059072309344
+2022-11-21,"2 wk flu hosp rate change","10","Delaware","category","large_decrease",0.0802419234338845
+2022-11-21,"2 wk flu hosp rate change","12","Florida","category","large_decrease",0.00054703546652207
+2022-11-21,"2 wk flu hosp rate change","16","Idaho","category","large_decrease",0.0685943472154495
+2022-11-21,"2 wk flu hosp rate change","17","Illinois","category","large_decrease",0.00205508392282099
+2022-11-21,"2 wk flu hosp rate change","18","Indiana","category","large_decrease",0.0789357998543104
+2022-11-21,"2 wk flu hosp rate change","20","Kansas","category","large_decrease",0.00540634535072334
+2022-11-21,"2 wk flu hosp rate change","21","Kentucky","category","large_decrease",0.14053939487608
+2022-11-21,"2 wk flu hosp rate change","22","Louisiana","category","large_decrease",0.120978534394642
+2022-11-21,"2 wk flu hosp rate change","24","Maryland","category","large_decrease",0.0425161746841727
+2022-11-21,"2 wk flu hosp rate change","27","Minnesota","category","large_decrease",0.107162829535261
+2022-11-21,"2 wk flu hosp rate change","28","Mississippi","category","large_decrease",0.317308929235977
+2022-11-21,"2 wk flu hosp rate change","29","Missouri","category","large_decrease",0.00528817109571562
+2022-11-21,"2 wk flu hosp rate change","31","Nebraska","category","large_decrease",0.0365208795045087
+2022-11-21,"2 wk flu hosp rate change","32","Nevada","category","large_decrease",0.0378461245248307
+2022-11-21,"2 wk flu hosp rate change","34","New Jersey","category","large_decrease",0.0460767348385429
+2022-11-21,"2 wk flu hosp rate change","35","New Mexico","category","large_decrease",0.269996620149371
+2022-11-21,"2 wk flu hosp rate change","36","New York","category","large_decrease",0.000271843862726197
+2022-11-21,"2 wk flu hosp rate change","37","North Carolina","category","large_decrease",0.0346642246455778
+2022-11-21,"2 wk flu hosp rate change","39","Ohio","category","large_decrease",0.0291088607475025
+2022-11-21,"2 wk flu hosp rate change","40","Oklahoma","category","large_decrease",0.0624319564779698
+2022-11-21,"2 wk flu hosp rate change","41","Oregon","category","large_decrease",0.0457805908184136
+2022-11-21,"2 wk flu hosp rate change","42","Pennsylvania","category","large_decrease",0.0272593296147159
+2022-11-21,"2 wk flu hosp rate change","72","Puerto Rico","category","large_decrease",0.0333879487527937
+2022-11-21,"2 wk flu hosp rate change","45","South Carolina","category","large_decrease",0.162265526827259
+2022-11-21,"2 wk flu hosp rate change","47","Tennessee","category","large_decrease",0.105744658144413
+2022-11-21,"2 wk flu hosp rate change","48","Texas","category","large_decrease",0.00540153866107313
+2022-11-21,"2 wk flu hosp rate change","US","US","category","large_decrease",3.5402166235328e-07
+2022-11-21,"2 wk flu hosp rate change","51","Virginia","category","large_decrease",0.0578162145036347
+2022-11-21,"2 wk flu hosp rate change","53","Washington","category","large_decrease",0.000781059378501023
+2022-11-21,"2 wk flu hosp rate change","54","West Virginia","category","large_decrease",0.315106572435435
+2022-11-21,"2 wk flu hosp rate change","56","Wyoming","category","large_decrease",0.0245154300579689
