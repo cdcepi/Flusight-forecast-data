@@ -9208,7 +9208,7 @@ date,location,location_name,value
 2023-06-10,09,Connecticut,5
 2023-06-10,11,District of Columbia,1
 2023-06-10,10,Delaware,0
-2023-06-10,12,Florida,151
+2023-06-10,12,Florida,152
 2023-06-10,13,Georgia,49
 2023-06-10,15,Hawaii,3
 2023-06-10,19,Iowa,4
@@ -9244,7 +9244,7 @@ date,location,location_name,value
 2023-06-10,46,South Dakota,1
 2023-06-10,47,Tennessee,28
 2023-06-10,48,Texas,71
-2023-06-10,US,US,918
+2023-06-10,US,US,919
 2023-06-10,49,Utah,1
 2023-06-10,51,Virginia,26
 2023-06-10,78,Virgin Islands,0
@@ -9262,7 +9262,7 @@ date,location,location_name,value
 2023-06-17,09,Connecticut,6
 2023-06-17,11,District of Columbia,1
 2023-06-17,10,Delaware,0
-2023-06-17,12,Florida,150
+2023-06-17,12,Florida,151
 2023-06-17,13,Georgia,39
 2023-06-17,15,Hawaii,9
 2023-06-17,19,Iowa,2
@@ -9300,7 +9300,7 @@ date,location,location_name,value
 2023-06-17,48,Texas,99
 2023-06-17,US,US,887
 2023-06-17,49,Utah,5
-2023-06-17,51,Virginia,26
+2023-06-17,51,Virginia,25
 2023-06-17,78,Virgin Islands,0
 2023-06-17,50,Vermont,0
 2023-06-17,53,Washington,18
