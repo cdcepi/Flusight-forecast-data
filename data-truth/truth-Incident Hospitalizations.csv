@@ -9342,7 +9342,7 @@ date,location,location_name,value
 2023-06-24,35,New Mexico,1
 2023-06-24,32,Nevada,9
 2023-06-24,36,New York,40
-2023-06-24,39,Ohio,19
+2023-06-24,39,Ohio,15
 2023-06-24,40,Oklahoma,9
 2023-06-24,41,Oregon,3
 2023-06-24,42,Pennsylvania,49
@@ -9352,7 +9352,7 @@ date,location,location_name,value
 2023-06-24,46,South Dakota,0
 2023-06-24,47,Tennessee,12
 2023-06-24,48,Texas,99
-2023-06-24,US,US,862
+2023-06-24,US,US,858
 2023-06-24,49,Utah,2
 2023-06-24,51,Virginia,26
 2023-06-24,78,Virgin Islands,0
@@ -9361,3 +9361,57 @@ date,location,location_name,value
 2023-06-24,55,Wisconsin,1
 2023-06-24,54,West Virginia,2
 2023-06-24,56,Wyoming,1
+2023-07-01,02,Alaska,3
+2023-07-01,01,Alabama,11
+2023-07-01,05,Arkansas,6
+2023-07-01,04,Arizona,58
+2023-07-01,06,California,53
+2023-07-01,08,Colorado,7
+2023-07-01,09,Connecticut,6
+2023-07-01,11,District of Columbia,0
+2023-07-01,10,Delaware,0
+2023-07-01,12,Florida,142
+2023-07-01,13,Georgia,33
+2023-07-01,15,Hawaii,10
+2023-07-01,19,Iowa,2
+2023-07-01,16,Idaho,7
+2023-07-01,17,Illinois,11
+2023-07-01,18,Indiana,8
+2023-07-01,20,Kansas,2
+2023-07-01,21,Kentucky,4
+2023-07-01,22,Louisiana,14
+2023-07-01,25,Massachusetts,8
+2023-07-01,24,Maryland,0
+2023-07-01,23,Maine,1
+2023-07-01,26,Michigan,8
+2023-07-01,27,Minnesota,0
+2023-07-01,29,Missouri,8
+2023-07-01,28,Mississippi,15
+2023-07-01,30,Montana,1
+2023-07-01,37,North Carolina,16
+2023-07-01,38,North Dakota,1
+2023-07-01,31,Nebraska,1
+2023-07-01,33,New Hampshire,1
+2023-07-01,34,New Jersey,7
+2023-07-01,35,New Mexico,0
+2023-07-01,32,Nevada,8
+2023-07-01,36,New York,29
+2023-07-01,39,Ohio,9
+2023-07-01,40,Oklahoma,15
+2023-07-01,41,Oregon,1
+2023-07-01,42,Pennsylvania,47
+2023-07-01,72,Puerto Rico,49
+2023-07-01,44,Rhode Island,0
+2023-07-01,45,South Carolina,20
+2023-07-01,46,South Dakota,3
+2023-07-01,47,Tennessee,26
+2023-07-01,48,Texas,98
+2023-07-01,US,US,818
+2023-07-01,49,Utah,3
+2023-07-01,51,Virginia,38
+2023-07-01,78,Virgin Islands,0
+2023-07-01,50,Vermont,1
+2023-07-01,53,Washington,19
+2023-07-01,55,Wisconsin,5
+2023-07-01,54,West Virginia,3
+2023-07-01,56,Wyoming,0
