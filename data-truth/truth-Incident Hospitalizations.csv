@@ -9244,12 +9244,12 @@ date,location,location_name,value
 2023-06-10,46,South Dakota,1
 2023-06-10,47,Tennessee,28
 2023-06-10,48,Texas,71
-2023-06-10,US,US,888
+2023-06-10,US,US,889
 2023-06-10,49,Utah,1
 2023-06-10,51,Virginia,26
 2023-06-10,78,Virgin Islands,0
 2023-06-10,50,Vermont,0
-2023-06-10,53,Washington,31
+2023-06-10,53,Washington,32
 2023-06-10,55,Wisconsin,9
 2023-06-10,54,West Virginia,7
 2023-06-10,56,Wyoming,1
@@ -9524,7 +9524,7 @@ date,location,location_name,value
 2023-07-15,54,West Virginia,1
 2023-07-15,56,Wyoming,0
 2023-07-22,02,Alaska,1
-2023-07-22,01,Alabama,16
+2023-07-22,01,Alabama,17
 2023-07-22,05,Arkansas,4
 2023-07-22,04,Arizona,12
 2023-07-22,06,California,31
@@ -9568,7 +9568,7 @@ date,location,location_name,value
 2023-07-22,46,South Dakota,0
 2023-07-22,47,Tennessee,20
 2023-07-22,48,Texas,81
-2023-07-22,US,US,607
+2023-07-22,US,US,608
 2023-07-22,49,Utah,1
 2023-07-22,51,Virginia,22
 2023-07-22,78,Virgin Islands,0
@@ -9577,3 +9577,57 @@ date,location,location_name,value
 2023-07-22,55,Wisconsin,11
 2023-07-22,54,West Virginia,1
 2023-07-22,56,Wyoming,0
+2023-07-29,02,Alaska,0
+2023-07-29,01,Alabama,32
+2023-07-29,05,Arkansas,4
+2023-07-29,04,Arizona,17
+2023-07-29,06,California,33
+2023-07-29,08,Colorado,1
+2023-07-29,09,Connecticut,6
+2023-07-29,11,District of Columbia,1
+2023-07-29,10,Delaware,0
+2023-07-29,12,Florida,129
+2023-07-29,13,Georgia,18
+2023-07-29,15,Hawaii,5
+2023-07-29,19,Iowa,0
+2023-07-29,16,Idaho,3
+2023-07-29,17,Illinois,7
+2023-07-29,18,Indiana,4
+2023-07-29,20,Kansas,2
+2023-07-29,21,Kentucky,10
+2023-07-29,22,Louisiana,10
+2023-07-29,25,Massachusetts,3
+2023-07-29,24,Maryland,12
+2023-07-29,23,Maine,3
+2023-07-29,26,Michigan,5
+2023-07-29,27,Minnesota,4
+2023-07-29,29,Missouri,10
+2023-07-29,28,Mississippi,14
+2023-07-29,30,Montana,0
+2023-07-29,37,North Carolina,9
+2023-07-29,38,North Dakota,1
+2023-07-29,31,Nebraska,1
+2023-07-29,33,New Hampshire,1
+2023-07-29,34,New Jersey,7
+2023-07-29,35,New Mexico,1
+2023-07-29,32,Nevada,2
+2023-07-29,36,New York,18
+2023-07-29,39,Ohio,10
+2023-07-29,40,Oklahoma,14
+2023-07-29,41,Oregon,2
+2023-07-29,42,Pennsylvania,40
+2023-07-29,72,Puerto Rico,41
+2023-07-29,44,Rhode Island,0
+2023-07-29,45,South Carolina,16
+2023-07-29,46,South Dakota,0
+2023-07-29,47,Tennessee,16
+2023-07-29,48,Texas,85
+2023-07-29,US,US,642
+2023-07-29,49,Utah,0
+2023-07-29,51,Virginia,19
+2023-07-29,78,Virgin Islands,0
+2023-07-29,50,Vermont,0
+2023-07-29,53,Washington,20
+2023-07-29,55,Wisconsin,2
+2023-07-29,54,West Virginia,2
+2023-07-29,56,Wyoming,2
