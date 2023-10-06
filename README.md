@@ -1,7 +1,8 @@
 ## CDC FluSight Hospitalization Forecasts
 
-This is the data repository for CDC FluSight hospitalization forecasts. 
+This is an **archival data repository** for CDC FluSight hospitalization forecasts submitted during the 2021-2022 and 2022-2023 influenza seasons. Please note that submissions for the 2023-2024 season should be submitted the current FluSight repository: **[https://github.com/cdcepi/FluSight-forecast-hub](https://github.com/cdcepi/FluSight-forecast-hub)**.
 
+## Archive information
 If you are a modeling team interested in submitting forecasts to this project, please visit our [technical README with detailed submission instructions](./data-forecasts/README.md). Participating teams provide their 
 [forecasts](./data-forecasts/) 
 in a [quantile-based format](./data-forecasts/README.md#Data-formatting). 
