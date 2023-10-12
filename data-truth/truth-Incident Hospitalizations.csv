@@ -10024,7 +10024,7 @@ date,location,location_name,value
 2023-09-23,19,Iowa,0
 2023-09-23,16,Idaho,3
 2023-09-23,17,Illinois,22
-2023-09-23,18,Indiana,15
+2023-09-23,18,Indiana,16
 2023-09-23,20,Kansas,4
 2023-09-23,21,Kentucky,13
 2023-09-23,22,Louisiana,18
@@ -10054,7 +10054,7 @@ date,location,location_name,value
 2023-09-23,46,South Dakota,0
 2023-09-23,47,Tennessee,29
 2023-09-23,48,Texas,134
-2023-09-23,US,US,1013
+2023-09-23,US,US,1014
 2023-09-23,49,Utah,3
 2023-09-23,51,Virginia,49
 2023-09-23,78,Virgin Islands,0
@@ -10063,3 +10063,57 @@ date,location,location_name,value
 2023-09-23,55,Wisconsin,2
 2023-09-23,54,West Virginia,6
 2023-09-23,56,Wyoming,0
+2023-09-30,02,Alaska,7
+2023-09-30,01,Alabama,24
+2023-09-30,05,Arkansas,10
+2023-09-30,04,Arizona,24
+2023-09-30,06,California,42
+2023-09-30,08,Colorado,11
+2023-09-30,09,Connecticut,8
+2023-09-30,11,District of Columbia,0
+2023-09-30,10,Delaware,0
+2023-09-30,12,Florida,189
+2023-09-30,13,Georgia,38
+2023-09-30,15,Hawaii,12
+2023-09-30,19,Iowa,4
+2023-09-30,16,Idaho,3
+2023-09-30,17,Illinois,16
+2023-09-30,18,Indiana,11
+2023-09-30,20,Kansas,3
+2023-09-30,21,Kentucky,15
+2023-09-30,22,Louisiana,14
+2023-09-30,25,Massachusetts,20
+2023-09-30,24,Maryland,5
+2023-09-30,23,Maine,1
+2023-09-30,26,Michigan,13
+2023-09-30,27,Minnesota,3
+2023-09-30,29,Missouri,13
+2023-09-30,28,Mississippi,21
+2023-09-30,30,Montana,3
+2023-09-30,37,North Carolina,19
+2023-09-30,38,North Dakota,3
+2023-09-30,31,Nebraska,1
+2023-09-30,33,New Hampshire,0
+2023-09-30,34,New Jersey,11
+2023-09-30,35,New Mexico,6
+2023-09-30,32,Nevada,7
+2023-09-30,36,New York,40
+2023-09-30,39,Ohio,16
+2023-09-30,40,Oklahoma,29
+2023-09-30,41,Oregon,4
+2023-09-30,42,Pennsylvania,59
+2023-09-30,72,Puerto Rico,92
+2023-09-30,44,Rhode Island,0
+2023-09-30,45,South Carolina,25
+2023-09-30,46,South Dakota,2
+2023-09-30,47,Tennessee,46
+2023-09-30,48,Texas,137
+2023-09-30,US,US,1129
+2023-09-30,49,Utah,3
+2023-09-30,51,Virginia,56
+2023-09-30,78,Virgin Islands,0
+2023-09-30,50,Vermont,1
+2023-09-30,53,Washington,46
+2023-09-30,55,Wisconsin,8
+2023-09-30,54,West Virginia,6
+2023-09-30,56,Wyoming,2
