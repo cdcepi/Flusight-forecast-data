@@ -10175,13 +10175,13 @@ date,location,location_name,value
 2023-10-14,01,Alabama,27
 2023-10-14,05,Arkansas,18
 2023-10-14,04,Arizona,27
-2023-10-14,06,California,73
+2023-10-14,06,California,65
 2023-10-14,08,Colorado,14
 2023-10-14,09,Connecticut,3
 2023-10-14,11,District of Columbia,2
 2023-10-14,10,Delaware,0
 2023-10-14,12,Florida,207
-2023-10-14,13,Georgia,31
+2023-10-14,13,Georgia,32
 2023-10-14,15,Hawaii,16
 2023-10-14,19,Iowa,1
 2023-10-14,16,Idaho,2
@@ -10202,7 +10202,7 @@ date,location,location_name,value
 2023-10-14,38,North Dakota,1
 2023-10-14,31,Nebraska,9
 2023-10-14,33,New Hampshire,0
-2023-10-14,34,New Jersey,17
+2023-10-14,34,New Jersey,16
 2023-10-14,35,New Mexico,3
 2023-10-14,32,Nevada,8
 2023-10-14,36,New York,24
@@ -10216,7 +10216,7 @@ date,location,location_name,value
 2023-10-14,46,South Dakota,0
 2023-10-14,47,Tennessee,39
 2023-10-14,48,Texas,185
-2023-10-14,US,US,1276
+2023-10-14,US,US,1268
 2023-10-14,49,Utah,4
 2023-10-14,51,Virginia,53
 2023-10-14,78,Virgin Islands,0
@@ -10225,3 +10225,57 @@ date,location,location_name,value
 2023-10-14,55,Wisconsin,3
 2023-10-14,54,West Virginia,3
 2023-10-14,56,Wyoming,5
+2023-10-21,02,Alaska,20
+2023-10-21,01,Alabama,31
+2023-10-21,05,Arkansas,14
+2023-10-21,04,Arizona,55
+2023-10-21,06,California,50
+2023-10-21,08,Colorado,18
+2023-10-21,09,Connecticut,1
+2023-10-21,11,District of Columbia,3
+2023-10-21,10,Delaware,1
+2023-10-21,12,Florida,299
+2023-10-21,13,Georgia,30
+2023-10-21,15,Hawaii,10
+2023-10-21,19,Iowa,4
+2023-10-21,16,Idaho,3
+2023-10-21,17,Illinois,28
+2023-10-21,18,Indiana,26
+2023-10-21,20,Kansas,7
+2023-10-21,21,Kentucky,19
+2023-10-21,22,Louisiana,36
+2023-10-21,25,Massachusetts,10
+2023-10-21,24,Maryland,9
+2023-10-21,23,Maine,3
+2023-10-21,26,Michigan,19
+2023-10-21,27,Minnesota,5
+2023-10-21,29,Missouri,20
+2023-10-21,28,Mississippi,21
+2023-10-21,30,Montana,1
+2023-10-21,37,North Carolina,17
+2023-10-21,38,North Dakota,1
+2023-10-21,31,Nebraska,8
+2023-10-21,33,New Hampshire,0
+2023-10-21,34,New Jersey,34
+2023-10-21,35,New Mexico,3
+2023-10-21,32,Nevada,6
+2023-10-21,36,New York,40
+2023-10-21,39,Ohio,18
+2023-10-21,40,Oklahoma,18
+2023-10-21,41,Oregon,13
+2023-10-21,42,Pennsylvania,50
+2023-10-21,72,Puerto Rico,109
+2023-10-21,44,Rhode Island,0
+2023-10-21,45,South Carolina,34
+2023-10-21,46,South Dakota,2
+2023-10-21,47,Tennessee,45
+2023-10-21,48,Texas,263
+2023-10-21,US,US,1511
+2023-10-21,49,Utah,8
+2023-10-21,51,Virginia,69
+2023-10-21,78,Virgin Islands,0
+2023-10-21,50,Vermont,2
+2023-10-21,53,Washington,17
+2023-10-21,55,Wisconsin,4
+2023-10-21,54,West Virginia,4
+2023-10-21,56,Wyoming,3
