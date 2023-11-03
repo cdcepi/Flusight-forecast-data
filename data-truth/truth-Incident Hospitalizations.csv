@@ -10127,7 +10127,7 @@ date,location,location_name,value
 2023-10-07,11,District of Columbia,2
 2023-10-07,10,Delaware,2
 2023-10-07,12,Florida,239
-2023-10-07,13,Georgia,24
+2023-10-07,13,Georgia,26
 2023-10-07,15,Hawaii,11
 2023-10-07,19,Iowa,3
 2023-10-07,16,Idaho,3
@@ -10162,7 +10162,7 @@ date,location,location_name,value
 2023-10-07,46,South Dakota,0
 2023-10-07,47,Tennessee,24
 2023-10-07,48,Texas,118
-2023-10-07,US,US,1152
+2023-10-07,US,US,1154
 2023-10-07,49,Utah,4
 2023-10-07,51,Virginia,54
 2023-10-07,78,Virgin Islands,0
@@ -10181,7 +10181,7 @@ date,location,location_name,value
 2023-10-14,11,District of Columbia,2
 2023-10-14,10,Delaware,0
 2023-10-14,12,Florida,207
-2023-10-14,13,Georgia,32
+2023-10-14,13,Georgia,34
 2023-10-14,15,Hawaii,16
 2023-10-14,19,Iowa,1
 2023-10-14,16,Idaho,2
@@ -10216,7 +10216,7 @@ date,location,location_name,value
 2023-10-14,46,South Dakota,0
 2023-10-14,47,Tennessee,39
 2023-10-14,48,Texas,185
-2023-10-14,US,US,1268
+2023-10-14,US,US,1270
 2023-10-14,49,Utah,4
 2023-10-14,51,Virginia,53
 2023-10-14,78,Virgin Islands,0
@@ -10232,10 +10232,10 @@ date,location,location_name,value
 2023-10-21,06,California,50
 2023-10-21,08,Colorado,18
 2023-10-21,09,Connecticut,1
-2023-10-21,11,District of Columbia,3
+2023-10-21,11,District of Columbia,4
 2023-10-21,10,Delaware,1
 2023-10-21,12,Florida,299
-2023-10-21,13,Georgia,30
+2023-10-21,13,Georgia,29
 2023-10-21,15,Hawaii,10
 2023-10-21,19,Iowa,4
 2023-10-21,16,Idaho,3
