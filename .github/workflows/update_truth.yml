@@ -5,8 +5,8 @@ on:
       name:
         description: 'Update truth data'
         required: false
-  schedule:
-    - cron: "30 17 * * *"
+ # schedule:
+  #  - cron: "30 17 * * *"
 
 jobs:
   update_truth_data:
